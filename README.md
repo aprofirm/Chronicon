@@ -20,19 +20,15 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 **Docelowy build:** High Ranger / Rapid Shot / Splinters / Razor Tips (Bleed)  
 **Etap:** kampania / rozwój postaci
 
-Pełny plan prowadzenia postaci znajduje się tutaj:
+## Pliki prowadzące postać
 
-➡️ **[WARDEN_HARDCORE_ARCHER.md](WARDEN_HARDCORE_ARCHER.md)**
+Przy decyzjach korzystamy z nich w tej kolejności:
 
-W pliku zapisane są:
+1. **[WARDEN_PROGRESS.md](WARDEN_PROGRESS.md)** — rzeczywisty aktualny stan: poziom, wolne punkty, wydane punkty i przypisanie do pada.
+2. **[WIND_RANGER_SKILL_TREE.md](WIND_RANGER_SKILL_TREE.md)** — lokalna mapa/mechanika drzewka łucznika. Aktualizujemy ją ze screenów wersji 1.61, żeby przy zwykłych awansach nie szukać ponownie układu w internecie.
+3. **[WARDEN_HARDCORE_ARCHER.md](WARDEN_HARDCORE_ARCHER.md)** — plan buildu High Ranger / Rapid Shot / Bleed, priorytety punktów, mastery, ekwipunek i endgame.
 
-- kolejność priorytetów punktów skilli,
-- kolejność mastery,
-- zasady wyboru ekwipunku w Hardcore,
-- lista przedmiotów High Ranger i ważnych dropów,
-- docelowy endgame setup,
-- sposób porównywania każdego nowego itemu,
-- źródła internetowe i kontrola zgodności z obecną wersją gry.
+**Zasada wersji:** screen z naszej aktualnej gry ma pierwszeństwo przed starszymi danymi z internetu. Jeśli zobaczymy różnicę, poprawiamy repo.
 
 ## Historia postaci
 
