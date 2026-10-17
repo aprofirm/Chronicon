@@ -2399,11 +2399,29 @@
     "character": "Korgein",
     "level": 10,
     "mastery_level": 1,
-    "available_mastery_points": 1,
+    "available_mastery_points": 0,
     "first_slot": "R1-K1",
     "first_slot_options_count": 5,
     "archival_first_slot_options_count": 4,
-    "description": "Screenshot 18.10.2026: pierwsza pozycja Corruptora pokazuje 5 ikonek, nazwy niezweryfikowane. Nie zakładać, że archiwalne 4 opcje to komplet."
+    "description": "18.10.2026: gracz potwierdził wybranie zielonej czaszki (trzecia z pięciu ikon) w Corruptor Mastery R1-K1, nazwa skrócona przez gracza 'Poison'; 1 punkt Mastery wydany, 0 wolnych. Starszy indeks zawiera Poison Damage, ale pozycja i wartość tooltipa niezweryfikowane.",
+    "confirmed_spent_mastery_points": 1,
+    "first_slot_selected_option_index_one_based": 3,
+    "first_slot_selected_icon": "green skull",
+    "first_slot_selected_label_reported_by_player": "Poison",
+    "first_slot_selected_archival_match": "Poison Damage (100024), probable, not confirmed exact tooltip in game 1.61"
   },
-  "confirmed_spent_mastery_points": 0
+  "confirmed_spent_mastery_points": 1,
+  "mastery_assignments": [
+    {
+      "slot": "R1-K1",
+      "points_spent": 1,
+      "reported_name": "Poison",
+      "selected_icon": "green skull",
+      "selected_menu_position": 3,
+      "probable_archival_skill_id": 100024,
+      "probable_archival_skill_name": "Poison Damage",
+      "exact_game_tooltip_verified": false,
+      "confirmation": "player 2026-10-18"
+    }
+  ]
 }
