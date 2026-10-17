@@ -4,16 +4,21 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** jeszcze niezgłoszony.  
-**Wolne Skill Points:** **2**, zgłoszone przez gracza, jeszcze niepotwierdzone jako wydane.  
-**Wydane Skill Points:** żadne nie zostały dotąd potwierdzone w rozmowie; **to nie znaczy, że postać ma 0**.  
+**Wolne Skill Points:** **0** po potwierdzonym wydaniu obu ostatnio zgłoszonych punktów (o ile nie pojawiły się kolejne).  
+**Wydane Skill Points:** **2 punkty potwierdzone** przez użytkownika: Blood Curse 1, Epidemic 1 (Corruptor). Inne wcześniejsze punkty nie były zgłaszane.  
 **Ekwipunek:** brak potwierdzonych szczegółów.  
 **Wersja gry:** ~1.61.x.
 
 ## Potwierdzone umiejętności
 
-**Brak danych** o faktycznie wydanych punktach i przypisanych skillach. Czekamy na pierwsze zdjęcie drzewa/stan. Nie zakładamy, że skille z planu są już wyuczone.
+| Drzewko | Umiejętność | Ranga | Rola |
+|---|---|---:|---|
+| **Corruptor** | **Blood Curse** | **1** | główny atak Poison, AoE + DoT; proponowany na RT, przypisanie niepotwierdzone |
+| **Corruptor** | **Epidemic** | **1** | pasywka zwiększająca Attack Speed, działa bez przycisku |
 
-## Projekt buildu — nie wydano punktów na podstawie tego pliku
+**Razem potwierdzono: 2 wydane punkty.** Oba ostatnio zgłoszone punkty zostały wydane według wskazanej kolejności — użytkownik potwierdził „Punkty rozdane”. **Nie uznajemy przypisania Blood Curse do RT za wykonane bez osobnego potwierdzenia.**
+
+## Projekt buildu — pierwsze 2 punkty już potwierdzone
 
 **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)**: główne drzewko **Corruptor Poison**; **Blood Curse → Infection → efekty szerzenia zarazy → Poison Nova + Outbreak**. Wsparcie **Reaper (Soul Eater), Lich (Soul Warp), Demonologist (Demon Skin)**. Wszystkie cztery drzewka i Mastery w [WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md).
 
@@ -30,22 +35,23 @@
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
 
-## Dwa punkty — aktualna rekomendacja (NIEPOTWIERDZONE JAKO WYDANE)
+## Ostatnie rozdanie — WYKONANE
 
-Gracz zgłosił **2 wolne punkty**. Dotychczas nie potwierdził żadnego skilla, więc jeśli ma już rozdane jakieś punkty, przed alokacją trzeba zweryfikować stan z ekranu.
+**Potwierdzenie użytkownika:** oba rekomendowane punkty zostały wydane:
+1. **Blood Curse 0 → 1 (Corruptor)** — nowy główny atak Poison.
+2. **Epidemic 0 → 1 (Corruptor)** — pasywny bonus Attack Speed.
 
-1. **Blood Curse 0 → 1 (Corruptor)** — pierwsza kolumna drzewa, AoE Poison i DoT; główny atak na **RT**.
-2. **Epidemic 0 → 1 (Corruptor)** — pasywny wzrost Attack Speed (w danych 1.52 pierwszy punkt +7%); nie wymaga przycisku.
+**Stan po rozdaniu:** 2 potwierdzone punkty wydane; 0 z ostatnio zgłoszonych punktów zostało do wydania.
 
-**Infection** ma pozycję w następnej kolumnie Corruptor (X=3 w strukturze 1.52), więc przed osiągnięciem progu nie zakładamy, że jest dostępne. Najbliższy plan: odblokować **Infection 1**, potem **Flesh Rot/Plague** i docelowo **Poison Nova**.
-
-**Nie oznaczać punktów jako wydanych** dopóki gracz nie potwierdzi ich użycia. Jeśli użytkownik od początku miał już Blood Curse, dopasować plan do rzeczywistego stanu. Po potwierdzeniu przydziału obydwu punktów wpisać Blood Curse 1, Epidemic 1 i 0 wolnych, pod warunkiem braku innych niezgłoszonych punktów.
+**Następny plan, jeszcze NIEWYKONANY:** dojść do **Infection 1** z kolejnej kolumny Corruptor, a później do Flesh Rot/Plague i Poison Nova. Przy kolejnym awansie sprawdzić rzeczywisty próg odblokowania i screen 1.61.
 
 ## Dziennik zmian
 
 ### 17.10.2026
+
+- **POTWIERDZONE:** użytkownik wydał oba punkty zgodnie z rekomendacją: **Blood Curse 1 + Epidemic 1** w Corruptor. Odnotowano **2 wydane / 0 pozostałych z tych 2**, przypisanie RT do potwierdzenia.
 - Użytkownik zgłosił **2 wolne punkty** u nowego Warlocka.
-- **Zalecono, jeszcze nie wydano:** **Blood Curse 1 + Epidemic 1** w Corruptor. RT ma być Blood Curse, a Epidemic jest pasywką. Infection w dalszym progu.
+- Wcześniejsza rekomendacja (obecnie wykonana): **Blood Curse 1 + Epidemic 1** w Corruptor. RT ma być Blood Curse, a Epidemic jest pasywką. Infection w dalszym progu.
 - Użytkownik wybrał Warlocka i rozpoczął walkę; **bez Hardcore**.
 - Przygotowano kompletny katalog czterech drzewek w wersji danych 1.52, plus kierunek Mastery oraz wstępny build Poison Corruptor / Reaper / Lich.
 - Poziom, wolne/wydane punkty, pada i sprzęt pozostawiono jawnie jako niepotwierdzone.
