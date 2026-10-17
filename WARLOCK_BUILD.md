@@ -46,14 +46,13 @@
 
 ## Stan i najbliższy KONKRETNY następny punkt (18.10.2026)
 
-**8 potwierdzonych wydanych punktów, 1 nowy wolny:**
-- Corruptor: Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1 (6 punktów).
-- Lich: **Soul Warp 1** — **B potwierdzone**.
-- Reaper: **Soul Eater 1** — wyuczony, ale **RB jako rzeczywiste przypisanie jeszcze niepotwierdzone**.
+**9 potwierdzonych wydanych Skill Points, 0 wolnych:** Corruptor — Blood Curse 3, Epidemic 1, **Infection 2**, Flesh Rot 1 (7); Lich — Soul Warp 1 (B potwierdzone); Reaper — Soul Eater 1 (RB nadal niepotwierdzone).
 
-**Kolejna rekomendacja — jeszcze niewykonana: Infection 1 → 2 (Corruptor).** W danych 1.52 Infection 1 = 35%, 2 = 40% obrażeń Poison skills jako dodatkowy DoT na sekundę; wspiera Blood Curse i Flesh Rot. Rozwój Corruptor do 7 inwestowanych punktów, w kierunku Bursting Boils / Poison Nova. Tooltip w aktualnej grze 1.61 należy sprawdzić.
+**1 wolny Mastery Point, 0 potwierdzonych wydanych Mastery Points.** Mastery to osobna pula. Najbliższa rekomendacja: kierunek **Corruptor Mastery / Poison / Infection**. **Dokładne pierwsze pole** i dostępne warianty potwierdzić na screenie zakładki Mastery aktualnej wersji 1.61. W dalszej kolejności korzyści z Poison Damage, zwiększenia obrażeń Infection i Corruptor Focus. Punkt Mastery pozostaje niewydany do potwierdzenia.
 
-**Cel sterowania:** RT Blood Curse (wciąż niepotwierdzone), LT Flesh Rot (wciąż niepotwierdzone), RB Soul Eater (skill potwierdzony; przypisanie nie), B Soul Warp (potwierdzone). Leczenie/teleport używamy ręcznie, bez Auto Cast. Dalej przechodzimy do Bursting Boils / Poison Nova / Contagion / Outbreak po odblokowaniu drzewka.
+**Kolejny zwykły Skill Point w przyszłości:** po ocenie dostępności Corruptor inwestycja w Bursting Boils, a docelowo Poison Nova / Contagion / Outbreak, bez uznawania jej za wykonaną na podstawie samego planu.
+
+**Pad:** RT Blood Curse i LT Flesh Rot planowane, ale niepotwierdzone; **B Soul Warp potwierdzone**, RB Soul Eater wyuczone, lecz przypisanie niepotwierdzone. Leczenie i teleport ręcznie, bez Auto Cast.
 
 ## Ekwipunek i statystyki w kampanii
 
