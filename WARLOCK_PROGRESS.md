@@ -4,7 +4,7 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** jeszcze niezgłoszony.  
-**Wolne Skill Points:** jeszcze niezgłoszone.  
+**Wolne Skill Points:** **2**, zgłoszone przez gracza, jeszcze niepotwierdzone jako wydane.  
 **Wydane Skill Points:** żadne nie zostały dotąd potwierdzone w rozmowie; **to nie znaczy, że postać ma 0**.  
 **Ekwipunek:** brak potwierdzonych szczegółów.  
 **Wersja gry:** ~1.61.x.
@@ -30,13 +30,22 @@
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
 
-## Pierwsza rekomendacja (jeszcze niewykonana)
+## Dwa punkty — aktualna rekomendacja (NIEPOTWIERDZONE JAKO WYDANE)
 
-Jeżeli Warlock ma wolny pierwszy punkt i **Blood Curse 0**, zainwestować **1 w Blood Curse (Corruptor)** i dać na RT; następne punkty kierować w Infection / Epidemic zgodnie z rzeczywistym odblokowaniem. **Nie wpisywać jako zrobione bez potwierdzenia.**
+Gracz zgłosił **2 wolne punkty**. Dotychczas nie potwierdził żadnego skilla, więc jeśli ma już rozdane jakieś punkty, przed alokacją trzeba zweryfikować stan z ekranu.
+
+1. **Blood Curse 0 → 1 (Corruptor)** — pierwsza kolumna drzewa, AoE Poison i DoT; główny atak na **RT**.
+2. **Epidemic 0 → 1 (Corruptor)** — pasywny wzrost Attack Speed (w danych 1.52 pierwszy punkt +7%); nie wymaga przycisku.
+
+**Infection** ma pozycję w następnej kolumnie Corruptor (X=3 w strukturze 1.52), więc przed osiągnięciem progu nie zakładamy, że jest dostępne. Najbliższy plan: odblokować **Infection 1**, potem **Flesh Rot/Plague** i docelowo **Poison Nova**.
+
+**Nie oznaczać punktów jako wydanych** dopóki gracz nie potwierdzi ich użycia. Jeśli użytkownik od początku miał już Blood Curse, dopasować plan do rzeczywistego stanu. Po potwierdzeniu przydziału obydwu punktów wpisać Blood Curse 1, Epidemic 1 i 0 wolnych, pod warunkiem braku innych niezgłoszonych punktów.
 
 ## Dziennik zmian
 
 ### 17.10.2026
+- Użytkownik zgłosił **2 wolne punkty** u nowego Warlocka.
+- **Zalecono, jeszcze nie wydano:** **Blood Curse 1 + Epidemic 1** w Corruptor. RT ma być Blood Curse, a Epidemic jest pasywką. Infection w dalszym progu.
 - Użytkownik wybrał Warlocka i rozpoczął walkę; **bez Hardcore**.
 - Przygotowano kompletny katalog czterech drzewek w wersji danych 1.52, plus kierunek Mastery oraz wstępny build Poison Corruptor / Reaper / Lich.
 - Poziom, wolne/wydane punkty, pada i sprzęt pozostawiono jawnie jako niepotwierdzone.
