@@ -4,8 +4,8 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** **4** — potwierdzony zdjęciem drzewka 17.10.2026.  
-**Wolne Skill Points:** **1** — nowy punkt zgłoszony przez gracza po screenie z Lv. 4, jeszcze niewydany.  
-**Wydane Skill Points:** **4** — Blood Curse 3, Epidemic 1 (Corruptor), obie rangi potwierdzone na screenie.  
+**Wolne Skill Points:** **0** — ostatni zgłoszony punkt wydany na Infection (potwierdzenie użytkownika).  
+**Wydane Skill Points:** **5** — Blood Curse 3, Epidemic 1, Infection 1 (Corruptor). Blood Curse/Epidemic na screenie, Infection potwierdzone przez użytkownika.  
 **Ekwipunek:** brak potwierdzonych szczegółów.  
 **Wersja gry:** ~1.61.x.
 
@@ -15,10 +15,11 @@
 |---|---|---:|---|
 | **Corruptor** | **Blood Curse** | **3** | główny atak Poison, AoE + DoT; proponowany na RT, przypisanie niepotwierdzone |
 | **Corruptor** | **Epidemic** | **1** | pasywka zwiększająca Attack Speed, działa bez przycisku |
+| **Corruptor** | **Infection** | **1** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
 
-**Razem potwierdzono: 4 wydane punkty, 1 nowy wolny.** Poprzedni ekran Warlocka **Lv. 4** pokazywał Blood Curse 3 i Epidemic 1 (Corruptor), „Skill Points: 0”; później gracz zgłosił **1 kolejny wolny punkt**. **Przypisania Blood Curse do RT nie potwierdzono osobno.**
+**Razem potwierdzono: 5 wydanych punktów, 0 wolnych.** Poprzedni ekran **Lv. 4** pokazywał Blood Curse 3 i Epidemic 1; po następnym awansie gracz zgłosił nowy punkt, a następnie potwierdził wydanie go w **Infection 1** zgodnie z rekomendacją. **Aktualny poziom niepotwierdzony; ostatni screen Lv. 4.** Przypisanie Blood Curse do RT niepotwierdzone.
 
-## Projekt buildu — 4 punkty potwierdzone
+## Projekt buildu — 5 punktów potwierdzonych
 
 **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)**: główne drzewko **Corruptor Poison**; **Blood Curse → Infection → efekty szerzenia zarazy → Poison Nova + Outbreak**. Wsparcie **Reaper (Soul Eater), Lich (Soul Warp), Demonologist (Demon Skin)**. Wszystkie cztery drzewka i Mastery w [WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md).
 
@@ -35,13 +36,15 @@
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
 
-## Nowy wolny punkt — REKOMENDACJA (jeszcze NIE wydany)
+## Najnowszy przydział — WYKONANY
 
-**Zgłoszenie gracza:** 1 nowy wolny Skill Point. **Zalecenie:** `Infection 0 → 1` w **Corruptor**, jeśli umiejętność jest odblokowana. Historyczne dane 1.52: pasywne DoT dodawane do umiejętności Poison, istotne dla Blood Curse oraz przyszłego Bursting Boils → Contagion → Outbreak. Nie wymaga przycisku ani Auto Cast.
+**Potwierdzenie 17.10.2026:** gracz wydał 1 nowy punkt na **Infection 0 → 1 (Corruptor)**, zgodnie z bezpośrednio poprzednią rekomendacją.
 
-**Warunek:** dostępność/progi sprawdzić w aktualnej grze 1.61. Jeśli Infection jest wyszarzone/zablokowane, gracz przesyła screen, a punkt zachowujemy. **Nie oznaczać wydania ani nowego poziomu jako potwierdzonych** przed informacją od gracza.
+**Bieżący bilans:** Blood Curse 3/5 + Epidemic 1/5 + Infection 1/3 = **5 wydanych, 0 wolnych**.
 
-**Stan teraz:** Blood Curse 3/5 + Epidemic 1/5, 4 punkty wydane, **1 wolny**. Po potwierdzonym Infection 1 miałoby być 5 wydanych, 0 wolnych.
+**Następny kierunek:** Poison/Corruptor i mechanika rozprzestrzeniania obrażeń. Przy następnym punkcie sprawdzić dostępność **Flesh Rot / Plague**, a w dalszej perspektywie **Bursting Boils, Contagion, Outbreak, Poison Nova**. Podjąć decyzję na podstawie aktualnego ekranu.
+
+**Pad:** Infection jest pasywką, bez przycisku i bez Auto Cast. Blood Curse na RT wciąż pozostaje planem, nie potwierdzonym przypisaniem.
 
 ## Stan poprzednio potwierdzony ekranem 17.10.2026
 
@@ -56,7 +59,9 @@
 
 ### 17.10.2026
 
-- **NOWE zgłoszenie:** kolejny **1 wolny punkt**. Rekomendowano **Infection 0 → 1 (Corruptor)**, jeśli dostępne. **Niepotwierdzone wydanie**; 4 wydane / 1 wolny, do aktualizacji po potwierdzeniu.
+- **NAJNOWSZE POTWIERDZENIE:** gracz napisał „Punkt wydany” w odpowiedzi na propozycję **Infection 0 → 1**. Zapisano **Infection 1**, łącznie **5 wydanych / 0 wolnych**. Poziom ostatnio pokazany na screenie to 4; obecny poziom niepotwierdzony.
+
+- Poprzednio: gracz zgłosił 1 wolny punkt i zalecono Infection 0 → 1. **Wydanie już potwierdzone, patrz najnowszy wpis.**
 
 - **NOWE POTWIERDZENIE SCREENEM:** **Warlock Lv 4**, **Blood Curse 3/5**, **Epidemic 1/5**, **Skill Points 0**. Poprzednia rekomendacja Blood Curse 1→3 została wykonana. **Następny krok:** Infection 1, gdy widoczny i odblokowany.
 
