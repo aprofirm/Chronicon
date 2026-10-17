@@ -33,14 +33,25 @@ Po potwierdzeniu stan ma wyglądać:
 - łącznie wydane **4 punkty**
 - wolne punkty **0**
 
-## Przypisanie do pada
+## Pad — potwierdzone przypisania i plan
 
-| Przycisk | Skill | Status |
+| Przycisk | Umiejętność / oczekiwana funkcja | Stan |
 |---|---|---|
-| **RT** | Rapid Shot | aktywny / główny atak |
-| **B** | Tumble | aktywny / unik |
+| **RT** | **Rapid Shot** — podstawowy atak z łuku | **Potwierdzone przypisanie** |
+| **B** | **Tumble** — przewrót / unik | **Potwierdzone przypisanie** |
+| **LT** | **atak obszarowy na wrogów, którzy otoczą postać**; najlepiej także odrzut lub kontrola tłumu | **Życzenie — nie wybrano jeszcze skilla ani nie przypisano** |
+| **RB** | **leczenie / odzyskiwanie zdrowia** | **Życzenie — nie wybrano jeszcze skilla ani nie przypisano** |
+| **Y** | wolny slot | **Do dyspozycji** |
+| **LB** | wolny slot | **Do dyspozycji** |
 
-Pozostałe przyciski dopisujemy dopiero po faktycznym przypisaniu skilla.
+### Kryteria wyboru kolejnych skilli aktywnych (Hardcore)
+
+- **LT (ratunek przed otoczeniem):** pierwszeństwo ma szeroki obszar działania i/lub odrzucenie wrogów. **Gale** jest kandydatem do zweryfikowania w aktualnym drzewku (twistery i knockback); **Multi Shot** to raczej wachlarz strzał przed postacią, więc może gorzej pomagać przy całkowitym otoczeniu. Nie zakładać, że są już odblokowane.
+- **RB (leczenie):** rozważyć **Leaf Wind** z Druida (regeneruje życie w czasie). Jeżeli nie jest jeszcze dostępne, do chwili odblokowania szukać innego źródła leczenia; **Root Veil** jest tarczą, a nie leczeniem.
+- **Y i LB:** na razie pozostają wolne; później dobierzemy umiejętności pod kontrolę, buff, defensywę albo mocniejszy atak.
+- Wydawanie punktów powinno od teraz uwzględniać **wcześniejsze odblokowanie sensownego LT i RB**, bez porzucania rdzenia Rapid Shot / Splinter / Double Draw / Razor Tips.
+
+**Rozróżnienie:** „potwierdzone przypisanie” = użytkownik już tak gra; „życzenie” = plan na przyszłość. Nie zapisujemy planowanego skilla jako wyuczonego lub przypisanego przed potwierdzeniem.
 
 ## Kolejność sprawdzania przed następną decyzją
 
@@ -65,6 +76,9 @@ Pozostałe przyciski dopisujemy dopiero po faktycznym przypisaniu skilla.
 ## Dziennik zmian
 
 ### 17.10.2026
+
+- Doprecyzowano wymagania dla sterowania padem: **LT = obszarowy ratunkowy atak przy otoczeniu**, **RB = leczenie**, **B = Tumble**, **RT = Rapid Shot**; **Y i LB pozostają wolne**.
+- LT i RB są na razie **celami buildu**, nie potwierdzonymi przydziałami skilli. Następne decyzje o punktach mają uwzględniać ich odblokowanie.
 
 - Potwierdzony wcześniejszy stan: Rapid Shot 1 / Tumble 1 / Archer 1.
 - Użytkownik zgłosił **1 nowy wolny punkt**.
