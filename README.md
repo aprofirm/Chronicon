@@ -15,7 +15,7 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 **Ostatnia postać:** Warden — łucznik, zginął w Hardcore 17.10.2026.  
 **Aktualna klasa:** **Warlock** — użytkownik potwierdził wybór i rozpoczyna rozgrywkę.  
 **Nowy tryb:** bez Hardcore.  
-**Warlock Korgein:** ostatnio potwierdzony Lv. 10 / M1, **9 wydanych zwykłych Skill Points, 2 NOWE wolne** oraz **1 Mastery Point WYDANY / 0 wolnych** (stan potwierdzony 18.10.2026). Mastery **R1-K1 zielona czaszka „Poison”** (prawdopodobnie historyczne Poison Damage; dokładny tooltip niepokazany). Plan dla 2 wolnych punktów: **Infection 2→3**, następnie **Bursting Boils 0→1**, gdy odblokowane. W aktualnej grze pierwszy slot Mastery ma 5 opcji, a archiwum ma 4 — nie utożsamiać ich bez tooltipów.
+**Warlock Korgein:** ostatni potwierdzony poziom **11 / M1**. Corruptor: Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1; Lich: Soul Warp 1; Reaper: Soul Eater 1. **11 Skill Points wydanych / 0 wolnych**. Mastery: **Poison (zielona czaszka)**, 1 wydany / 0 wolnych. Kolejny punkt: **Bursting Boils 0→1** po odblokowaniu progu 9 punktów Corruptora.
 
 ## Najważniejsze pliki
 
