@@ -40,6 +40,12 @@
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
 
+## Stały atlas Mastery
+
+Zobacz **[WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md)** — układ 7 wierszy / 63 pól, archiwalne warianty w każdym slocie, polski słowniczek i oznaczone różnice względem 1.61. Strukturalne dane do szybkiego wyszukiwania są w **[WARLOCK_MASTERY_OPTIONS.json](WARLOCK_MASTERY_OPTIONS.json)**.
+
+**Na ten moment punkt Mastery wciąż niewydany:** 1 wolny, 0 wydanych. Na ekranie R1-K1 widać 5 opcji; bez tooltipów nie identyfikować piątej ikony ani nie zgadywać ostatecznego wyboru.
+
 ## Pierwsze pole Mastery — otwarto menu pięciu opcji (18.10.2026)
 
 **Na nowym zdjęciu:** otwarto "Pick a skill" dla pierwszego okrągłego pola (pierwszy wiersz Corruptor). Widać **pięć ikon** od lewej: czerwono-pomarańczowa postać, fioletowa postać, **zielona czaszka (trzecia)**, błękitna kula, białoróżowe ukośne linie. Brak widocznych nazw i tooltipów. Ramka podświetla **piątą opcję**, ale to nie oznacza potwierdzonego wybrania skilla.
