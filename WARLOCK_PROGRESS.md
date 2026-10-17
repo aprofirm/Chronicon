@@ -4,8 +4,8 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** **11**, **Mastery Rank 1 (M1)** — potwierdzone zdjęciem drzewka Corruptor 18.10.2026.  
-**Wolne Skill Points:** **nowy 1 zgłoszony 18.10.2026 oraz poprzedni 1 o niepotwierdzonym wydaniu**. Potencjalnie 2 wolne, jeśli wcześniejszy nadal pozostał; jeżeli Bursting Boils został już kupiony, obecnie 1 wolny. Zapytać o obecną rangę Bursting Boils.  
-**Wydane Skill Points:** **11** — Corruptor: **Blood Curse 4**, Epidemic 1, Infection 3, Flesh Rot 1 (**9**); Lich: Soul Warp 1; Reaper: Soul Eater 1. Blood Curse 4 potwierdzone przez gracza po screenie Lv.11.  
+**Wolne Skill Points:** **1 nowy wolny** — poprzedni punkt w Bursting Boils 0→1 użytkownik właśnie potwierdził; nowy punkt rekomendowany na Bursting Boils 1→2, **jeszcze niewydany**.  
+**Wydane Skill Points:** **12** — Corruptor: **Blood Curse 4**, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 1/3** (**10 w Corruptorze**); Lich: Soul Warp 1; Reaper: Soul Eater 1. Bursting Boils 1 potwierdzone przez użytkownika 18.10.2026.  
 **Mastery Points:** **2 potwierdzone wydane / 0 wolnych** — oba w Corruptor Mastery **R1-K1**, zielona czaszka **Poison ranga 2**. Gracz potwierdził, że gra pozwala ulepszać tę premię i wydał drugi punkt. Dokładny bieżący procent z tooltipa 1.61 niepotwierdzony.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
@@ -18,12 +18,13 @@
 | **Corruptor** | **Epidemic** | **1** | pasywka zwiększająca Attack Speed, działa bez przycisku |
 | **Corruptor** | **Infection** | **3** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
 | **Corruptor** | **Flesh Rot** | **1** | aktywna klątwa Poison na grupy, obrażenia w czasie; proponowane LT, przypisanie niepotwierdzone |
+| **Corruptor** | **Bursting Boils** | **1** | **potwierdzona pasywka Poison / Infection**, bez przypisania na padzie; pierwsza ranga w 1.61: 10% / 2,2 m |
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 | **Reaper** | **Soul Eater** | **1** | leczenie za 1 Soul, **10% max HP**, cooldown **36 s** (tooltip na screenie 18.10.2026); docelowe RB, **faktyczne przypisanie niepotwierdzone** |
 
-**Potwierdzono: 11 wydanych zwykłych Skill Points; jeden nowy punkt wolny oraz jeden wcześniej zgłoszony punkt o niepotwierdzonym wykorzystaniu. Mastery: 2 punkty wydane w Poison ranga 2 / 0 wolnych.** Screen Lv.11 / M1 potwierdził Infection 3/3 i 8 punktów Corruptor; następnie gracz potwierdził **Blood Curse 4**, dając wymagane **9 punktów Corruptor**. Bursting Boils powinno być teraz dostępne, choć odblokowanie nie zostało jeszcze potwierdzone nowym screenem. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
+**Potwierdzono: 12 zwykłych Skill Points wydanych, 1 NOWY wolny; osobno Mastery Poison 2 — 2 wydane / 0 wolnych.** Użytkownik potwierdził wydanie poprzedniego zwykłego punktu w **Bursting Boils 0→1** i zgłosił jeden nowy. **Rekomendacja dla nowego punktu: Bursting Boils 1→2**, nadal niewykonana. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
-## Projekt buildu — 11 punktów potwierdzonych
+## Projekt buildu — 12 punktów potwierdzonych
 
 **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)**: główne drzewko **Corruptor Poison**; **Blood Curse → Infection → efekty szerzenia zarazy → Poison Nova + Outbreak**. Wsparcie **Reaper (Soul Eater), Lich (Soul Warp), Demonologist (Demon Skin)**. Wszystkie cztery drzewka i Mastery w [WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md).
 
@@ -39,6 +40,15 @@
 | LB | Ritual of Souls / buff | niepotwierdzone |
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
+
+## NAJNOWSZE POTWIERDZENIE — Bursting Boils 1/3 i kolejny wolny punkt (18.10.2026)
+
+- Gracz odpowiedział „Tak. Na b wydany. Teraz mam nowy” na pytanie, czy **poprzedni punkt zwykły wydał w Bursting Boils**. W tym kontekście **„b” oznacza Bursting Boils, nie przycisk B pada**.
+- **POTWIERDZONE: Bursting Boils 0→1 (Corruptor)**, pasywka dla Infection, nie potrzebuje przypisania do przycisku.
+- **Stan zwykłych punktów: 12 WYDANYCH / 1 NOWY WOLNY.** Corruptor 10 (Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, Bursting Boils 1), Lich Soul Warp 1, Reaper Soul Eater 1.
+- **Mastery: zielona czaszka Poison w Corruptor R1-K1 — ranga 2, dwa punkty wydane / zero wolnych.**
+- **REKOMENDACJA (JESZCZE NIEWYDANA): Bursting Boils 1→2.** Przy kolejnych progach Contagion / Outbreak, potem Poison Nova według dostępności.
+- **Sterowanie:** B = Soul Warp potwierdzone już wcześniej. Nie oznaczać Bursting Boils jako przypisane do przycisku B.
 
 ## POTWIERDZONE: drugi punkt Mastery w Poison (18.10.2026)
 
@@ -166,6 +176,8 @@ Zobacz **[WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md)** — układ 7 wiers
 ## Dziennik zmian
 
 ### 18.10.2026
+- **NAJNOWSZE:** potwierdzono **Bursting Boils 1/3** z poprzedniego punktu zwykłego; gracz zgłosił kolejny **1 wolny**. Bilans: **12 wydanych zwykłych / 1 wolny**, Mastery **Poison 2** / 0 wolnych. Rekomendacja dla nowego punktu: **Bursting Boils 1→2 — jeszcze nie wydany**. „Na b” odnosi się do Bursting Boils, a nie pada.
+
 - **POTWIERDZONE:** Mastery **Poison zielona czaszka R1-K1 ranga 2**, dwa Mastery Points wydane / zero wolnych. **NOWE:** użytkownik zgłosił jeszcze 1 wolny zwykły punkt, oprócz poprzednio zgłoszonego zwykłego punktu o nieznanym wykorzystaniu. **Nadal 11 zwykłych punktów potwierdzonych jako wydane**. Decyzja warunkowa: Bursting Boils 0→1 albo 1→2, zależnie od rzeczywistej rangi; nie potwierdzono zakupu.
 
 - **NOWY MASTERY POINT:** użytkownik zgłosił 1 dodatkowy wolny punkt. Dotychczas **Poison zielona czaszka R1-K1 ranga 1**, drugi punkt **niewydany**. Zalecono ponownie zwiększyć Poison 1→2, jeżeli możliwe (archiwum +2% Poison Damage na rangę). Zwykły Bursting Boils nadal rekomendowany, lecz niepotwierdzony jako wydany. Stan **Mastery 1 wydany / 1 wolny**.
