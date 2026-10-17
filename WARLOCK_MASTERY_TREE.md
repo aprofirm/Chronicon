@@ -10,7 +10,7 @@
 - Okrągłe `+` to sloty powtarzalnych premii; pola **◆** (zwykle kolumny K3, K6, K9) to szczególne Perks. Liczbę rang i wymagania zawsze sprawdzać w grze.
 - Trzy środkowe wiersze **Class Mastery I, II, III** korzystają ze wspólnych rodzin umiejętności. W tabelach powtórzono warianty dla czytelności, na podstawie logiki programu ChroniCalc.
 - K9 w trzech środkowych wierszach ma **jeden wspólny zestaw końcowych wyborów** przy R4. Stąd R3-K9 i R5-K9 to puste miejsca w historycznym eksporcie, nie brak danych.
-- **Zwykłe Skill Points** i **Mastery Points** są osobne. Aktualnie po potwierdzeniu gracza: **11 Skill Points wydanych + 1 wolny (Bursting Boils niewydany)**, **1 Mastery Point wydany + 1 nowy wolny**.
+- **Zwykłe Skill Points** i **Mastery Points** są osobne. Aktualnie po potwierdzeniu gracza: **11 zwykłych Skill Points potwierdzonych jako wydane; nowy 1 wolny + poprzedni o niepotwierdzonym wykorzystaniu. Mastery: 2 punkty WYDANE na Poison ranga 2 / 0 wolnych**.
 - W tabelach zachowano **angielskie nazwy skilli** (zgodne z grą); polskie omówienia najważniejszych premii znajdują się poniżej.
 
 ## Szybkie odwzorowanie ekranu
@@ -238,18 +238,20 @@ Nazwy nieomówione w tej sekcji nadal są wymienione w pełnej mapie i w pliku J
 
 **Korgein, Corruptor Mastery R1-K1**: gracz potwierdził wydanie 1 punktu na **trzecią ikonę — zieloną czaszkę**, nazwaną przez siebie **„Poison”**. W archiwalnej liście R1-K1 znajduje się **Poison Damage (ID 100024)**; to prawdopodobne dopasowanie, lecz aktualna wersja 1.61 wyświetla 5 zamiast 4 wariantów, a opis skilla nie został pokazany. Dlatego nie wpisujemy niepotwierdzonej konkretnej wartości premii procentowej.
 
-**Historyczny stan po pierwszym wyborze:** 1 Mastery wydany, 0 wolnych. **Nowszy stan 18.10.2026:** gracz zgłosił **1 NOWY wolny Mastery Point**; rekomendacja ponownie rozwinąć **Poison Damage zielona czaszka R1-K1, ranga 1→2**, jeśli umiejętność jest możliwa do ulepszenia. **Niepotwierdzone wydanie drugiego punktu**. Zwykłe skille najpóźniej: 11 wydanych, 1 wolny proponowany na Bursting Boils, bez potwierdzenia przydziału.
+**Potwierdzenie 18.10.2026:** gracz wydał kolejny punkt Mastery w to samo pole, **Poison (zielona czaszka) Corruptor R1-K1, ranga 1→2**. **2 wydane Mastery / 0 wolnych.** Poprzednia rekomendacja została wykonana. Historyczny eksport sugeruje +4% Poison Damage na randze 2, ale dokładny procent aktualnej gry 1.61 pozostaje do potwierdzenia tooltipem.
+
+**Zwykłe punkty rozliczane oddzielnie:** po ostatnim zgłoszeniu użytkownik otrzymał dodatkowy zwykły punkt; wcześniejszy rekomendowany zakup Bursting Boils nie został potwierdzony. 11 potwierdzonych wydanych, nowy 1 wolny i poprzedni 1 o nieznanym statusie. Bez informacji od gracza nie stwierdzać, że Bursting Boils został kupiony.
 
 ## Mastery Korgeina: obserwacje vs plany
 
 | Co | Stan | Podstawa |
 |---|---|---|
 | Bohater | **Warlock Korgein, Lv. 10 / M1** | Screen 18.10.2026 |
-| Wolne Mastery Points | **1 nowy, jeszcze niewydany** | Gracz zgłosił kolejny punkt Mastery 18.10.2026 |
-| Wydane Mastery Points | **1 potwierdzony** — pierwsze pole Corruptor, zielona czaszka (trzecia ikona) „Poison” | Potwierdzenie gracza 18.10.2026 |
+| Wolne Mastery Points | **0** | Drugi punkt wydany w Poison ranga 2, potwierdzone przez gracza |
+| Wydane Mastery Points | **2 potwierdzone** — pierwsze pole Corruptor, zielona czaszka „Poison” ranga 2 | Potwierdzenie gracza 18.10.2026 |
 | R1-K1 | **5 ikon** w aktualnej grze; w archiwalnej liście 4 skille | Screenshot menu vs eksport |
 | Konkretne nazwy tych pięciu ikon | **Nie wszystkie potwierdzone**; zielona czaszka wybrana jako „Poison” (prawdopodobnie Poison Damage w archiwum) | Potwierdzenie gracza; brak pełnego tooltipa |
-| Następny krok | Spróbować zwiększyć rangę zielonej czaszki Poison w R1-K1 **1→2**, jeśli obecna gra to dopuszcza; gdy pokazuje tylko menu wyboru, poprosić o screen | Drugi punkt Mastery jest jeszcze **wolny** |
+| Następny krok | Kolejne punkty Mastery rozważać po zdobyciu; Poison 2 już POTWIERDZONE | 0 wolnych Mastery |
 
 ## Procedura aktualizowania katalogu po kolejnych screenshotach
 
