@@ -2399,11 +2399,11 @@
     "character": "Korgein",
     "level": 10,
     "mastery_level": 1,
-    "available_mastery_points": 0,
+    "available_mastery_points": 1,
     "first_slot": "R1-K1",
     "first_slot_options_count": 5,
     "archival_first_slot_options_count": 4,
-    "description": "18.10.2026: gracz potwierdził wybranie zielonej czaszki (trzecia z pięciu ikon) w Corruptor Mastery R1-K1, nazwa skrócona przez gracza 'Poison'; 1 punkt Mastery wydany, 0 wolnych. Starszy indeks zawiera Poison Damage, ale pozycja i wartość tooltipa niezweryfikowane.",
+    "description": "User confirmed first Poison green-skull choice in Corruptor R1-K1. On 18.10.2026 reported another Mastery Point unspent; proposal upgrade same Poison 1→2, NOT CONFIRMED. Last directly verified game screen displayed Lv.10 / M1; do not infer current rank.",
     "confirmed_spent_mastery_points": 1,
     "first_slot_selected_option_index_one_based": 3,
     "first_slot_selected_icon": "green skull",
@@ -2423,5 +2423,14 @@
       "exact_game_tooltip_verified": false,
       "confirmation": "player 2026-10-18"
     }
-  ]
+  ],
+  "pending_mastery_recommendation": {
+    "slot": "R1-K1",
+    "skill": "Poison (green skull; probable Poison Damage)",
+    "current_confirmed_rank": 1,
+    "proposed_rank": 2,
+    "free_points_reported": 1,
+    "confirmed_spent": false,
+    "condition": "only if current game allows upgrading the same chosen skill; verify tooltip"
+  }
 }
