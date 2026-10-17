@@ -5,7 +5,7 @@ Ten plik jest **jedynym źródłem prawdy o aktualnym stanie naszego bohatera**.
 **Tryb:** Hardcore  
 **Postać:** Warden — łucznik  
 **Poziom ostatnio potwierdzony na screenie:** 3  
-**Wolne Skill Points (najnowsze zgłoszenie):** 2  
+**Wolne Skill Points:** minimum 0, maksymalnie 1 z dwóch ostatnio zgłoszonych — drugi punkt niepotwierdzony (wymaga pytania o Leaf Wind)  
 **Główne drzewko:** Wind Ranger / Physical  
 **Docelowy kierunek:** High Ranger / Rapid Shot / Splinter / Double Draw / Razor Tips
 
@@ -16,21 +16,18 @@ Ten plik jest **jedynym źródłem prawdy o aktualnym stanie naszego bohatera**.
 | Wind Ranger | **Rapid Shot** | 2 | główny atak, **RT** |
 | Wind Ranger | **Tumble** | 1 | mobilność / unik, **B** |
 | Wind Ranger | **Archer** | 1 | pasywka zwiększająca obrażenia skilli Archery |
+| Wind Ranger | **Multi Shot** | 1 | obszarowy wachlarz strzał, **LT** — potwierdzone przypisanie przez gracza |
 
-**Łącznie potwierdzone wydane punkty:** 4
+**Łącznie potwierdzone wydane punkty:** 5
 
-## Dwa wolne punkty — rekomendacja (jeszcze NIE wydane)
+## Ostatni punkt — stan do wyjaśnienia
 
-Użytkownik potwierdził wydanie poprzedniego punktu w **Rapid Shot**, dlatego stan potwierdzony to **Rapid Shot 2 / Tumble 1 / Archer 1 = 4 wydane punkty**. Następnie zgłosił **2 kolejne wolne punkty**.
+Z dwóch wolnych punktów **Multi Shot 1** jest już potwierdzony przez gracza (ma zostać na **LT**). Drugi punkt miał trafić w **Leaf Wind 1 (Druid)**, ale użytkownik **nie potwierdził dotąd**, czy wydał go i przypisał na **RB**.
 
-**Proponowany podział 2 nowych punktów:**
-
-1. **Multi Shot 0 → 1 (Wind Ranger)** — nowy tymczasowy atak obszarowy na **LT**. Strzela wachlarzem przed bohaterem, nie uderza dookoła; gdy dostępne będzie **Gale** (obrażenia wokół + odrzut), rozważamy zamianę. Multi Shot jest umiejętnością kolejnego progu, który powinien już być dostępny przy 4 punktach w Wind Ranger.
-2. **Leaf Wind 0 → 1 (Druid)** — aktywne leczenie w czasie na **RB**. Pierwszy poziom regeneruje według danych 1.52 około 6% max HP/s przez 5,8 s; wartości w wersji 1.61 sprawdzić w grze.
-
-**Potwierdzenie wymagane:** nie wpisuj Multi Shot ani Leaf Wind jako wyuczonych, dopóki gracz nie potwierdzi wydania punktów. Po potwierdzeniu stan: Rapid Shot 2, Tumble 1, Archer 1, Multi Shot 1, Leaf Wind 1, łącznie 6 wydanych, 0 wolnych.
-
-Priorytet Hardcore: LT do odpierania grup, RB do leczenia; na B nadal Tumble, RT Rapid Shot, Y/LB wolne.
+- **Potwierdzone:** Rapid Shot 2 / Tumble 1 / Archer 1 / Multi Shot 1 = **5 wydanych**.
+- **Do potwierdzenia:** Leaf Wind 1 na RB i saldo punktów; jeżeli nie został wydany, powinien pozostać 1 wolny punkt.
+- **Ostatnio potwierdzone przypisania:** RT Rapid Shot, LT Multi Shot, B Tumble. Y/LB wolne.
+- Następna czynność: zapytać, czy **Leaf Wind jest już wyuczony i przypisany pod RB**. Nie zakładać, że tak.
 
 ## Pad — potwierdzone przypisania i plan
 
@@ -38,7 +35,7 @@ Priorytet Hardcore: LT do odpierania grup, RB do leczenia; na B nadal Tumble, RT
 |---|---|---|
 | **RT** | **Rapid Shot** — podstawowy atak z łuku | **Potwierdzone przypisanie** |
 | **B** | **Tumble** — przewrót / unik | **Potwierdzone przypisanie** |
-| **LT** | cel: atak na grupy; **proponowany Multi Shot 1** teraz, później **Gale** na odrzut | **Rekomendacja, niepotwierdzona** |
+| **LT** | **Multi Shot 1** — atak na grupy przed postacią; ewentualny Gale później | **Potwierdzone przypisanie przez gracza** |
 | **RB** | cel: leczenie; **proponowany Leaf Wind 1** z Druida | **Rekomendacja, niepotwierdzona** |
 | **Y** | wolny slot | **Do dyspozycji** |
 | **LB** | wolny slot | **Do dyspozycji** |
@@ -74,7 +71,7 @@ Priorytet Hardcore: LT do odpierania grup, RB do leczenia; na B nadal Tumble, RT
 - Oficjalne patch notes 1.53.0: https://steamdb.info/patchnotes/19753965/
 - Potwierdzenie od dewelopera Squarebit, 29.10.2025: https://steamcommunity.com/app/375480/discussions/0/597415740309810979/
 
-**Uwaga o stanie:** nie potwierdzono jeszcze wydania 2 najnowszych punktów na Multi Shot/Leaf Wind ani żadnej zmiany RT lub Auto. To tylko rozważany rozkład. Zachowujemy 4 wydane + 2 wolne do potwierdzenia.
+**Aktualizacja po dalszej rozmowie:** Multi Shot jest potwierdzony na LT, więc ma 1 wydany punkt. Leaf Wind / RB nadal wymaga potwierdzenia. Auto Cast nie został uruchomiony.
 
 ---
 
@@ -102,6 +99,10 @@ Priorytet Hardcore: LT do odpierania grup, RB do leczenia; na B nadal Tumble, RT
 
 ### 17.10.2026
 
+- **Nowe potwierdzenie:** użytkownik zostawia przyciski bez zmian i jednoznacznie potwierdza **Multi Shot na LT**. Zapisano **Multi Shot 1** jako wyuczony/przypisany, **5 potwierdzonych punktów wydanych**.
+- **Drugi punkt z ostatniej dwójki:** brak jednoznacznego potwierdzenia Leaf Wind/RB; wymaga dopytania. Nie zapisujemy go jako wydanego.
+- **Stała zasada pracy:** po każdym zgłoszonym i potwierdzonym wydaniu punktu albo zmianie ekwipunku/przypisania od razu aktualizujemy ten plik w repo w tej samej rozmowie. Rozróżniamy potwierdzone od rekomendowanych.
+
 - Doprecyzowano wymagania dla sterowania padem: **LT = obszarowy ratunkowy atak przy otoczeniu**, **RB = leczenie**, **B = Tumble**, **RT = Rapid Shot**; **Y i LB pozostają wolne**.
 - LT i RB są na razie **celami buildu**, nie potwierdzonymi przydziałami skilli. Następne decyzje o punktach mają uwzględniać ich odblokowanie.
 
@@ -110,7 +111,7 @@ Priorytet Hardcore: LT do odpierania grup, RB do leczenia; na B nadal Tumble, RT
 - Rekomendacja: **Rapid Shot 1 → 2**.
 - Użytkownik potwierdził wydanie punktu: **Rapid Shot ma 2 punkty**. Wydanych łącznie 4.
 - Nowe zgłoszenie: **2 wolne punkty**.
-- Nowa rekomendacja: **Multi Shot 1 na LT oraz Leaf Wind 1 na RB**. Czekamy na potwierdzenie faktycznego rozdania.
+- Nowa rekomendacja: **Multi Shot 1 na LT oraz Leaf Wind 1 na RB**. Multi Shot na LT potwierdzony; Leaf Wind / RB niepotwierdzony.
 
 ---
 
