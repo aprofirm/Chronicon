@@ -3,10 +3,10 @@
 **Status:** aktywny — użytkownik rozpoczyna walkę Warlockiem, 17.10.2026.  
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
-**Poziom:** **5** — potwierdzony zdjęciem ekwipunku 17.10.2026.  
+**Poziom:** **10**, **Mastery Rank 1 (M1)** — potwierdzone nowym screenshotem zakładki Mastery 18.10.2026.  
 **Wolne Skill Points:** **0** — Infection 1 → 2 potwierdzone przez użytkownika 18.10.2026.  
 **Wydane Skill Points:** **9** — Corruptor: Blood Curse 3, Epidemic 1, Infection 2, Flesh Rot 1; Lich: Soul Warp 1; Reaper: Soul Eater 1 (najnowsze potwierdzenie 18.10.2026).  
-**Mastery Points:** **1 wolny, 0 potwierdzonych wydanych** — użytkownik zgłosił pierwszy punkt Mastery; czekamy na zrzut piątej zakładki z widocznymi polami.  
+**Mastery Points:** **1 wolny, 0 potwierdzonych wydanych** — ekran Mastery potwierdza 'Mastery Points: 1' i M1. Wybór konkretnej umiejętności w slocie jeszcze niepotwierdzony.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
@@ -21,7 +21,7 @@
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 | **Reaper** | **Soul Eater** | **1** | leczenie zużywające duszę; **punkt potwierdzony, przypisanie do RB niepotwierdzone** |
 
-**Razem potwierdzono: 9 wydanych Skill Points i 0 wolnych oraz osobno 1 wolny Mastery Point.** Użytkownik potwierdził właśnie wydanie punktu w **Infection 1 → 2** i zgłosił 1 Mastery Point. Ostatni poziom potwierdzony ekranem: **Lv. 5**; obecnego poziomu nie ustalono. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
+**Razem potwierdzono: 9 wydanych Skill Points i 0 wolnych oraz osobno 1 wolny Mastery Point.** Użytkownik potwierdził właśnie wydanie punktu w **Infection 1 → 2** i zgłosił 1 Mastery Point. Aktualny poziom **Lv. 10, M1** potwierdzony nowszym screenshotem. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
 ## Projekt buildu — 9 punktów potwierdzonych
 
@@ -39,6 +39,16 @@
 | LB | Ritual of Souls / buff | niepotwierdzone |
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
+
+## Ekran Mastery — Lv. 10, M1 (18.10.2026)
+
+**Nowy screen gry:** Warlock Korgein **Lv. 10, M1**, **Mastery Points: 1**, otwarta piąta zakładka **Mastery**. Po lewej widoczne siedem wierszy: Corruptor (czerwony), Lich (niebieski), trzy wiersze ogólnych Class Masteries (złote korony), Demonologist (czerwony), Reaper (fioletowy).
+
+**Kursor** stoi na **pierwszym okrągłym '+' w górnym rzędzie Corruptor**. Tooltip brzmi: **'Empty skill slot, press (A) to assign a skill'**.
+
+**Rekomendacja — jeszcze NIE wydano:** otworzyć przyciskiem **A** wybór premii w pierwszym polu **Corruptor Mastery** i przesłać screen listy dostępnych opcji. W bazie/ogólnych informacjach Mastery pola pozwalają wybierać kilka premii. Nie zgadywać nazwy/efektu premii z samego znaku '+'. Docelowo synergia **Poison / Infection**; dobrać konkretną po zobaczeniu menu w grze.
+
+**Stan aktualny:** 9 Skill Points wydanych, 0 wolnych; **1 Mastery Point wolny**, 0 wydanych; **potwierdzony poziom 10 / M1**.
 
 ## NAJNOWSZY STAN — Infection 2 i pierwszy wolny Mastery Point (18.10.2026)
 
@@ -91,6 +101,8 @@
 ## Dziennik zmian
 
 ### 18.10.2026
+- **Nowy screenshot Mastery:** poziom postaci **10, M1**, **1 Mastery Point**. Pierwszy '+' Corruptor (górny wiersz) jest pusty, gra oferuje **A**, aby otworzyć wybór premii. Zalecono zobaczyć opcje i dopiero wtedy wybrać. **Punkt Mastery nadal nie wydany**.
+
 - **POTWIERDZONE:** Infection **1 → 2 (Corruptor)**, razem **9 Skill Points wydanych / 0 wolnych**. Gracz zgłosił **1 wolny Mastery Point / 0 potwierdzonych wydanych Mastery**. Wymagany screen zakładki Mastery, zanim wskażemy konkretne pole, preferowany kierunek Corruptor/Poison/Infection.
 
 - **NAJNOWSZE:** użytkownik potwierdził wydanie punktu na **Soul Eater 1 (Reaper)** i poinformował o **1 nowym wolnym punkcie**. Bilans **8 wydanych / 1 wolny**. Wskazano **Infection 1→2 (Corruptor)** jako następne ulepszenie; **jeszcze nie wydano**. Przypisanie Soul Eater do RB niepotwierdzone.
