@@ -15,16 +15,18 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 **Ostatnia postać:** Warden — łucznik, zginął w Hardcore 17.10.2026.  
 **Aktualna klasa:** **Warlock** — użytkownik potwierdził wybór i rozpoczyna rozgrywkę.  
 **Nowy tryb:** bez Hardcore.  
-**Status nowej postaci:** aktywna; czekamy na pierwszy screen wydanych punktów i pada.
+**Warlock Korgein:** Lv. 10 / M1, **9 wydanych zwykłych Skill Points, 0 wolnych** oraz **1 wolny Mastery Point** (stan potwierdzony screenami 18.10.2026). Pierwsze pole Mastery ma 5 opcji w aktualnej grze, a 4 w archiwalnym eksporcie — dokładne menu/efekty wymagają weryfikacji tooltipem.
 
 ## Najważniejsze pliki
 
 1. **[RUN_TRACKER.md](RUN_TRACKER.md)** — zasady rozgrywki i rotacja klas.
 2. **[WARLOCK_PROGRESS.md](WARLOCK_PROGRESS.md)** — **aktualna karta Warlocka** (faktyczne punkty, skille, pad, ekwipunek; aktualizować po każdej zmianie).
-3. **[WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md)** — komplet czterech drzewek Warlocka na bazie ChroniconDB 1.52: Corruptor, Lich, Demonologist, Reaper; notatki Mastery. Aktualizować w razie różnic z 1.61.
-4. **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)** — plan Poison Corruptor / Infection / Poison Nova z Reaper i Lich (najbliższe punkty, pad, statystyki).
-5. **[WARDEN_PROGRESS.md](WARDEN_PROGRESS.md)** — archiwum zmarłego Wardena.
-6. **[WARDEN_ALL_TREES.md](WARDEN_ALL_TREES.md)**, **[WIND_RANGER_SKILL_TREE.md](WIND_RANGER_SKILL_TREE.md)**, **[WARDEN_HARDCORE_ARCHER.md](WARDEN_HARDCORE_ARCHER.md)** — archiwum Warden.
+3. **[WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md)** — komplet czterech drzewek zwykłych umiejętności Warlocka (Corruptor, Lich, Demonologist, Reaper), baza 1.52.
+4. **[WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md)** — **atlas wszystkich 7 wierszy Mastery i 63 pozycji**: wybory w każdym polu według historycznego eksportu, 82 polskie objaśnienia, wskazanie różnic względem aktualnej gry 1.61.
+5. **[WARLOCK_MASTERY_OPTIONS.json](WARLOCK_MASTERY_OPTIONS.json)** — **ustrukturyzowany indeks 144 oryginalnych wpisów i współdzielonych wariantów Mastery**; źródło do dalszych automatycznych aktualizacji.
+6. **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)** — plan Poison Corruptor / Infection / Poison Nova z Reaper i Lich (najbliższe punkty, pad, statystyki).
+7. **[WARDEN_PROGRESS.md](WARDEN_PROGRESS.md)** — archiwum zmarłego Wardena.
+8. **[WARDEN_ALL_TREES.md](WARDEN_ALL_TREES.md)**, **[WIND_RANGER_SKILL_TREE.md](WIND_RANGER_SKILL_TREE.md)**, **[WARDEN_HARDCORE_ARCHER.md](WARDEN_HARDCORE_ARCHER.md)** — archiwum Warden.
 
 **Zasada:** rekomendowany punkt ≠ wydany punkt. Ustalamy rzeczywiste wartości z gry i aktualizujemy repo po potwierdzeniu.
 
@@ -38,4 +40,4 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 
 ---
 
-**Ostatnia aktualizacja:** 17 października 2026.
+**Ostatnia aktualizacja:** 18 października 2026.
