@@ -4,7 +4,7 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** **11**, **Mastery Rank 1 (M1)** — potwierdzone zdjęciem drzewka Corruptor 18.10.2026.  
-**Wolne Skill Points:** **0** — użytkownik potwierdził wydanie ostatniego punktu w Blood Curse 3→4.  
+**Wolne Skill Points:** **1** — gracz zgłosił nowy punkt po Blood Curse 4, jeszcze niewydany; rekomendacja Bursting Boils 0→1.  
 **Wydane Skill Points:** **11** — Corruptor: **Blood Curse 4**, Epidemic 1, Infection 3, Flesh Rot 1 (**9**); Lich: Soul Warp 1; Reaper: Soul Eater 1. Blood Curse 4 potwierdzone przez gracza po screenie Lv.11.  
 **Mastery Points:** **0 wolnych, 1 potwierdzony wydany** — pierwsze pole Corruptor Mastery **R1-K1**, trzecia opcja (zielona czaszka), gracz podał nazwę „Poison”. Odpowiada najpewniej premii **Poison Damage**, ale ścisła angielska nazwa i liczba procentów wymagają tooltipa 1.61.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
@@ -21,7 +21,7 @@
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 | **Reaper** | **Soul Eater** | **1** | leczenie za 1 Soul, **10% max HP**, cooldown **36 s** (tooltip na screenie 18.10.2026); docelowe RB, **faktyczne przypisanie niepotwierdzone** |
 
-**Razem potwierdzono: 11 wydanych Skill Points, 0 wolnych oraz osobno 1 Mastery Point wydany / 0 wolnych.** Screen Lv.11 / M1 potwierdził Infection 3/3 i 8 punktów Corruptor; następnie gracz potwierdził **Blood Curse 4**, dając wymagane **9 punktów Corruptor**. Bursting Boils powinno być teraz dostępne, choć odblokowanie nie zostało jeszcze potwierdzone nowym screenem. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
+**Razem potwierdzono: 11 wydanych Skill Points, 1 nowy wolny oraz osobno 1 Mastery Point wydany / 0 wolnych.** Screen Lv.11 / M1 potwierdził Infection 3/3 i 8 punktów Corruptor; następnie gracz potwierdził **Blood Curse 4**, dając wymagane **9 punktów Corruptor**. Bursting Boils powinno być teraz dostępne, choć odblokowanie nie zostało jeszcze potwierdzone nowym screenem. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
 ## Projekt buildu — 11 punktów potwierdzonych
 
@@ -39,6 +39,14 @@
 | LB | Ritual of Souls / buff | niepotwierdzone |
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
+
+## NOWY wolny punkt — Bursting Boils 0→1 ZALECONE, NIE WYDANE (18.10.2026)
+
+- Gracz zgłosił **1 wolny zwykły punkt** po potwierdzonym Blood Curse 4. **11 już wydanych, 1 nowy wolny**.
+- **Rekomendacja: Bursting Boils 0→1** w Corruptor. Wymóg z wcześniejszego screena: **9 punktów wydanych w Corruptorze** — już spełniony. Bieżący ekran gry 1.61 pokazywał na pierwszej randze **10%** szansy na rozprowadzenie obrażeń Infection w promieniu **2.2 m** podczas trafień zaklęciami Poison.
+- Bursting Boils to **Passive Skill**, bez przycisku na padzie / Auto Cast.
+- **Jeżeli węzeł wciąż jest zablokowany, nie wydawać punktu i poprosić o screen.** Jeżeli gracz potwierdzi wydanie, ustawić Bursting Boils 1/3 i łącznie **12 wydanych / 0 wolnych**, Corruptor 10. Dopiero wtedy rozważyć Contagion/Outbreak i Poison Nova na dalszych progach.
+- Mastery 1 punkt Poison potwierdzony, B Soul Warp potwierdzony; inne przypisania bez nowych informacji.
 
 ## Screenshot Soul Eater — działanie i sterowanie (18.10.2026)
 
@@ -150,6 +158,8 @@ Zobacz **[WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md)** — układ 7 wiers
 ## Dziennik zmian
 
 ### 18.10.2026
+- **NOWY PUNKT (jeszcze wolny):** gracz zapytał „Mam wolny punkt. Bursting?”. Zalecono **Bursting Boils 0→1 (Corruptor)**: efekt pasywny, w wersji 1.61 10% proc na pierwszym poziomie, promień 2.2 m; 9-punktowy próg inwestycji osiągnięty. **11 punktów wydanych, 1 wolny; nie potwierdzono jeszcze przydziału**.
+
 - **NOWY SCREEN Soul Eater:** aktualny tooltip potwierdza 1 Soul, leczenie 10% max HP, **36 s cooldown**, ranga 1/3; następna ranga 15%. Przedstawiono instrukcję przypisania na RB przez Y Bind/Swap, **przypisanie RB wciąż niepotwierdzone**. Dusze zdobywane w trakcie zabijania przeciwników, licznik przy HP/manie, bazowo ~10% szansy, max 5, zanikają z czasem.
 
 - **POTWIERDZONE:** Blood Curse **3→4/5**. W Corruptorze **9 punktów**, łącznie **11 wydanych zwykłych punktów / 0 wolnych**. Próg Bursting Boils osiągnięty, sam skill nadal 0/3. Kolejny rekomendowany punkt: Bursting Boils 1, jeśli rzeczywiście odblokowany.
