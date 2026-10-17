@@ -44,15 +44,22 @@
 - **Soul Feast** (Reaper) na później przy sprawnej produkcji dusz.
 - **Zombie / Plague Bearer** z Corruptor — 1 punkt w towarzysza, jeśli zrobi się zbyt ciasno; lepiej nie od razu kosztem kluczowych efektów Poison.
 
-## Stan i najbliższy KONKRETNY następny punkt (18.10.2026)
+## Stan i 2 NOWE zwykłe punkty (18.10.2026)
 
-**9 potwierdzonych wydanych Skill Points, 0 wolnych:** Corruptor — Blood Curse 3, Epidemic 1, **Infection 2**, Flesh Rot 1 (7); Lich — Soul Warp 1 (B potwierdzone); Reaper — Soul Eater 1 (RB nadal niepotwierdzone).
+**Potwierdzone 9 wydanych zwykłych Skill Points + 2 NOWE wolne:**
+- Corruptor: Blood Curse 3, Epidemic 1, **Infection 2**, Flesh Rot 1 (**7**).
+- Lich: Soul Warp 1 (przypisanie do **B potwierdzone**).
+- Reaper: Soul Eater 1 (wyuczone; przypisanie do RB jeszcze niepotwierdzone).
 
-**1 wolny Mastery Point, 0 potwierdzonych wydanych Mastery Points.** Mastery to osobna pula. Najbliższa rekomendacja: kierunek **Corruptor Mastery / Poison / Infection**. **Dokładne pierwsze pole** i dostępne warianty potwierdzić na screenie zakładki Mastery aktualnej wersji 1.61. W dalszej kolejności korzyści z Poison Damage, zwiększenia obrażeń Infection i Corruptor Focus. Punkt Mastery pozostaje niewydany do potwierdzenia.
+**Mastery — potwierdzone WYDANE:** **1 punkt Mastery** w **R1-K1 Corruptor**, trzecia **zielona czaszka**, opis gracza **„Poison”**. Historyczny odpowiednik: Poison Damage (dokładny tooltip w 1.61 niepotwierdzony). **0 punktów Mastery wolnych.** Patrz [WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md) i [WARLOCK_MASTERY_OPTIONS.json](WARLOCK_MASTERY_OPTIONS.json).
 
-**Kolejny zwykły Skill Point w przyszłości:** po ocenie dostępności Corruptor inwestycja w Bursting Boils, a docelowo Poison Nova / Contagion / Outbreak, bez uznawania jej za wykonaną na podstawie samego planu.
+### Rekomendacja dla dwóch zwykłych punktów — NIE WYDANE
+1. **Infection 2 → 3 (Corruptor)** — wymaksowanie podstawowego DoT (wg 1.52 40→45% obrażeń od Poison na sekundę); Corruptor suma rośnie 7→8 punktów.
+2. **Bursting Boils 0 → 1 (Corruptor)**, jeżeli kolejny próg/kolumna jest już otwarty: synergizuje z Infection i spreaduje obrażenia Infection na pobliskich wrogów po trafieniu Poison (wg 1.52 szansa proc pierwszej rangi 12%). Jeżeli skill jest nadal wyszarzony, użytkownik przesyła screen przed drugim wydaniem.
 
-**Pad:** RT Blood Curse i LT Flesh Rot planowane, ale niepotwierdzone; **B Soul Warp potwierdzone**, RB Soul Eater wyuczone, lecz przypisanie niepotwierdzone. Leczenie i teleport ręcznie, bez Auto Cast.
+**Stan potencjalny PO potwierdzonym wydaniu obu:** 11 Skill Points wydanych, 0 wolnych: Corruptor (Blood Curse 3 / Epidemic 1 / Infection 3 / Flesh Rot 1 / Bursting Boils 1) = 9 punktów; Lich Soul Warp 1; Reaper Soul Eater 1. Mastery bez zmian 1 punkt wydany w Poison.
+
+Nie zmieniamy faktycznych przypisań pada bez potwierdzenia. Rekomendowany układ RT Blood Curse, LT Flesh Rot, B Soul Warp (potwierdzony), RB Soul Eater (niepotwierdzony).
 
 ## Ekwipunek i statystyki w kampanii
 
