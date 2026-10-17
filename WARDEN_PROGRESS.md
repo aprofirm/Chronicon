@@ -52,6 +52,32 @@ Priorytet Hardcore: LT do odpierania grup, RB do leczenia; na B nadal Tumble, RT
 
 **Rozróżnienie:** „potwierdzone przypisanie” = użytkownik już tak gra; „życzenie” = plan na przyszłość. Nie zapisujemy planowanego skilla jako wyuczonego lub przypisanego przed potwierdzeniem.
 
+## Rozważane: Multi Shot na RT i automatyczne używanie skilli (17.10.2026)
+
+**Nowe pytanie gracza:** czy lepiej przenieść **Multi Shot** na **RT** i używać jako głównego ataku? Przypomnienie: w Chronicon istnieje oficjalna funkcja **Auto Cast**.
+
+**Rekomendacja na teraz — bez zmiany potwierdzonego przypisania:**
+- **RT: Rapid Shot**, główny, szybki atak dla rdzenia High Ranger / Splinter / Double Draw / Razor Tips.
+- **LT: Multi Shot**, planowany dodatkowy ostrzał grup przed bohaterem; docelowo do rozważenia Gale jako AoE z knockback. Możemy przetestować Multi Shot na RT później, jeżeli gracz zechce porównać styl.
+- **RB: Leaf Wind**, planowane leczenie **ręczne** — pozostawiamy je na potrzebę, nie na Auto.
+- **B: Tumble**, unik **ręczny**, nigdy Auto na Hardcore (przypadkowe przeturlanie może zabić).
+- **Y/LB: wolne**; później warto rozważyć umiejętności wzmacniające lub ofensywne z **Auto**, po sprawdzeniu kosztu many, cooldownu i bezpieczeństwa.
+
+**Auto Cast — oficjalna mechanika od update'u 1.53.0:**
+1. W drzewku umiejętności wejść w menu przypisywania umiejętności do slotu.
+2. Włączyć opcję **Auto** dla wybranego skilla.
+3. W trakcie gry nacisnąć przypisany przycisk na padzie, aby **przełączyć Auto ON/OFF**.
+4. Przy Auto ON gra używa umiejętności samoczynnie, gdy jest dostępna po cooldownie; przy aktywnym Auto pasek umiejętności pokazuje znacznik.
+5. Auto nie oznacza, że mamy automatycznie włączać wszystko. Ostrożnie z dużym kosztem many, leczeniem i przemieszczaniem.
+
+Źródła mechaniki:
+- Oficjalne patch notes 1.53.0: https://steamdb.info/patchnotes/19753965/
+- Potwierdzenie od dewelopera Squarebit, 29.10.2025: https://steamcommunity.com/app/375480/discussions/0/597415740309810979/
+
+**Uwaga o stanie:** nie potwierdzono jeszcze wydania 2 najnowszych punktów na Multi Shot/Leaf Wind ani żadnej zmiany RT lub Auto. To tylko rozważany rozkład. Zachowujemy 4 wydane + 2 wolne do potwierdzenia.
+
+---
+
 ## Kolejność sprawdzania przed następną decyzją
 
 1. `WARDEN_PROGRESS.md` — co naprawdę mamy teraz.
