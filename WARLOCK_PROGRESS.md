@@ -4,7 +4,7 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** **5** — potwierdzony zdjęciem ekwipunku 17.10.2026.  
-**Wolne Skill Points:** **0** — gracz potwierdził wydanie punktu w Soul Warp 1 (Lich).  
+**Wolne Skill Points:** **1** — nowy punkt zgłoszony 18.10.2026, jeszcze niewydany.  
 **Wydane Skill Points:** **7** — Corruptor: Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1; Lich: Soul Warp 1. Ostatni punkt potwierdzony przez użytkownika 18.10.2026.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
@@ -19,7 +19,7 @@
 | **Corruptor** | **Flesh Rot** | **1** | aktywna klątwa Poison na grupy, obrażenia w czasie; proponowane LT, przypisanie niepotwierdzone |
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 
-**Razem potwierdzono: 7 wydanych punktów, 0 wolnych.** Gracz potwierdził wydanie nowego punktu na **Soul Warp 1 (Lich)** i przypisanie teleportu do **B**. Ostatni poziom potwierdzony ekranem: **Lv. 5**; obecnego poziomu nie ustalono. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
+**Razem potwierdzono: 7 wydanych punktów i 1 nowy wolny.** Gracz potwierdził wcześniej **Soul Warp 1 (Lich)** i teleport na **B**, a następnie zgłosił kolejny punkt do wydania. Ostatni poziom potwierdzony ekranem: **Lv. 5**; obecnego poziomu nie ustalono. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
 ## Projekt buildu — 7 punktów potwierdzonych
 
@@ -37,6 +37,14 @@
 | LB | Ritual of Souls / buff | niepotwierdzone |
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
+
+## Nowy wolny punkt — rekomendacja (NIE WYDANY), 18.10.2026
+
+- Gracz zgłosił **1 kolejny wolny punkt**. Rzeczywisty stan: **7 wydanych / 1 wolny**, dopóki nie potwierdzi wydania.
+- **Rekomendacja: Soul Eater 0 → 1 (Reaper)**, awaryjne leczenie kosztem jednej zgromadzonej duszy. W bazie ChroniconDB 1.52 pierwszy poziom przywraca 10% maksymalnego zdrowia, weryfikować tooltip wersji 1.61.
+- **Docelowy przycisk: RB**, manualnie (bez Auto Cast). Rzeczywiste przypisanie RB potwierdzić po wykonaniu.
+- **B = Soul Warp 1** nadal potwierdzone. Następnie wracamy do Corruptor (Poison Nova / Bursting Boils / Contagion / Outbreak).
+- Jeżeli Soul Eater jest zablokowany, użytkownik powinien pokazać drzewko Reaper, zanim wyda punkt gdzie indziej.
 
 ## Aktualny stan — Soul Warp 1 POTWIERDZONY (18.10.2026)
 
@@ -77,6 +85,8 @@
 ## Dziennik zmian
 
 ### 18.10.2026
+- **Nowy wolny punkt:** użytkownik zgłosił 1 punkt. Zalecenie **Soul Eater 1 (Reaper)** na **RB**, ręczne leczenie. **Niepotwierdzone wydanie i przypisanie**; stan 7 wydanych / 1 wolny.
+
 - **POTWIERDZONE:** punkt w **Soul Warp 1 (Lich)**, użytkownik potwierdził **teleport przypisany do B**. Aktualny bilans **7 wydanych / 0 wolnych**. Kolejny potencjalny punkt: **Soul Eater (Reaper)** dla leczenia na RB; nie wydano go.
 
 ### 17.10.2026
