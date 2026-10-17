@@ -2399,38 +2399,31 @@
     "character": "Korgein",
     "level": 10,
     "mastery_level": 1,
-    "available_mastery_points": 1,
+    "available_mastery_points": 0,
     "first_slot": "R1-K1",
     "first_slot_options_count": 5,
     "archival_first_slot_options_count": 4,
-    "description": "User confirmed first Poison green-skull choice in Corruptor R1-K1. On 18.10.2026 reported another Mastery Point unspent; proposal upgrade same Poison 1→2, NOT CONFIRMED. Last directly verified game screen displayed Lv.10 / M1; do not infer current rank.",
-    "confirmed_spent_mastery_points": 1,
+    "description": "18.10.2026 player confirmed second Mastery point spent increasing first Corruptor Mastery green skull Poison from rank 1 to 2. Older first slot screenshot had five icons, archive only four. Exact tooltip % unverified. A NEW normal Skill Point was reported, while previous Bursting Boils spend remains unconfirmed.",
+    "confirmed_spent_mastery_points": 2,
     "first_slot_selected_option_index_one_based": 3,
     "first_slot_selected_icon": "green skull",
     "first_slot_selected_label_reported_by_player": "Poison",
     "first_slot_selected_archival_match": "Poison Damage (100024), probable, not confirmed exact tooltip in game 1.61"
   },
-  "confirmed_spent_mastery_points": 1,
+  "confirmed_spent_mastery_points": 2,
   "mastery_assignments": [
     {
       "slot": "R1-K1",
-      "points_spent": 1,
+      "points_spent": 2,
+      "confirmed_rank": 2,
       "reported_name": "Poison",
       "selected_icon": "green skull",
       "selected_menu_position": 3,
       "probable_archival_skill_id": 100024,
       "probable_archival_skill_name": "Poison Damage",
       "exact_game_tooltip_verified": false,
-      "confirmation": "player 2026-10-18"
+      "confirmation": "player 2026-10-18 confirmed rank 1→2"
     }
   ],
-  "pending_mastery_recommendation": {
-    "slot": "R1-K1",
-    "skill": "Poison (green skull; probable Poison Damage)",
-    "current_confirmed_rank": 1,
-    "proposed_rank": 2,
-    "free_points_reported": 1,
-    "confirmed_spent": false,
-    "condition": "only if current game allows upgrading the same chosen skill; verify tooltip"
-  }
+  "normal_skill_point_note": "Player reports 1 new ordinary Skill Point. Previous 1 ordinary point was recommended for Bursting Boils 0→1, but player has not confirmed spending. Actual Bursting Boils rank unknown; current recommendation 0→1 if not bought, 1→2 if already rank 1."
 }
