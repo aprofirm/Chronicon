@@ -15,7 +15,7 @@
 | **RT** | **Blood Curse** (Corruptor) | bazowy atak AoE Poison, zadaje również DoT | nie — główny manualny |
 | **LT** | **Flesh Rot 1** (Corruptor), później **Poison Nova** gdy dostępna | klątwa Poison AoE nakładana na grupy, później nova wokół postaci | nie — używamy świadomie |
 | **RB** | **Soul Eater** (Reaper) | szybkie leczenie za **1 Soul**, w 1.52 ranga 1 przywraca 10% max HP | nie — awaryjny |
-| **B** | **Soul Warp 1** (Lich), następna rekomendacja | teleport odciągający nas od zagrożenia; zwiększony zasięg kosztem dusz | nie — awaryjny |
+| **B** | **Soul Warp 1** (Lich) — **wyuczone i POTWIERDZONE na B** | teleport odciągający nas od zagrożenia; zwiększony zasięg kosztem dusz | ręcznie — awaryjny |
 | **Y** | Zombie lub Plague Bearer / opcjonalnie Plague | wsparcie na grupy; jeśli companion jest aktywny w slocie, użycie może mieć dodatkowy efekt kosztujący Soul | Auto ewentualnie po sprawdzeniu |
 | **LB** | Ritual of Souls / Plague / inny buff | stała korzyść lub wygodny autocast | tylko gdy ekonomia dusz/many na to pozwala |
 
@@ -44,13 +44,13 @@
 - **Soul Feast** (Reaper) na później przy sprawnej produkcji dusz.
 - **Zombie / Plague Bearer** z Corruptor — 1 punkt w towarzysza, jeśli zrobi się zbyt ciasno; lepiej nie od razu kosztem kluczowych efektów Poison.
 
-## Najbliższy KONKRETNY następny punkt — stan 17.10.2026
+## Stan i najbliższy KONKRETNY następny punkt (18.10.2026)
 
-**Potwierdzone 6 wydanych punktów:** Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1 (wszystkie Corruptor). **Nowy 1 punkt jest wolny.**
+**Potwierdzone 7 wydanych punktów, 0 wolnych:** Corruptor — Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1; Lich — **Soul Warp 1**. **B = Soul Warp** (użytkownik potwierdził rzeczywiste przypisanie na padzie). Przypisania Blood Curse na RT i Flesh Rot na LT pozostają do potwierdzenia.
 
-**Następna rekomendacja: Soul Warp 0 → 1 (Lich)**, do przypisania na **B** — mobilność ratunkowa. **Nie uznajemy wydania ani przypisania do pada przed potwierdzeniem od gracza.** Podczas kolejnych awansów rozważamy Soul Eater (Reaper) dla leczenia na RB oraz powrót do Corruptor na Bursting Boils / Poison Nova / Contagion / Outbreak.
+**Kolejny cel, gdy pojawi się punkt: Soul Eater 0 → 1 (Reaper)** — awaryjne leczenie za Soul na **RB**. Wartość 10% max HP za 1 duszę dotyczy starej wersji 1.52; próg i tooltip sprawdzić w 1.61. Nie wydawać ani nie uznawać za przypisany przed potwierdzeniem. Po leczeniu wracamy do gałęzi Corruptor i rozwoju Infection → Bursting Boils → Contagion/Outbreak i Poison Nova.
 
-Powód chwilowego przejścia do Lich: po śmierci zmieniamy klasę, więc zapewniamy bezpieczeństwo ucieczki przed dopracowaniem całego łańcucha trucizny.
+Dzięki temu mamy osobno zdolność ratunkowej ucieczki (**B**) i docelowe leczenie (**RB**), bez Auto Cast tych dwóch skilli.
 
 ## Ekwipunek i statystyki w kampanii
 
