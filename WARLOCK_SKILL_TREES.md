@@ -190,9 +190,13 @@ Kolumna **X** (2–9) i wiersz **Y** (0–6) to pozycja pola w drzewku 1.52, nie
 | Death Knight | ultimate | 9/4 | 1 | — | — |
 | Vampire Lord | ultimate | 9/4 | 1 | — | — |
 
-## Mastery — piąta zakładka
+## Mastery — osobny atlas siedmiu wierszy
 
-Pełnej geometrii Mastery nie zawiera plik struktury czterech powyższych drzewek. Mastery sprawdzamy osobno po odblokowaniu. Priorytety w naszym buildzie: Corruptor/Poison Damage, Attack Speed, Health, Damage Reduction, Resistances oraz synergie Infection, soul generation, Outbreak. Nie deklarujemy odblokowania Mastery ani szczegółowego rozkładu bez aktualnego ekranu.
+**Komplet archiwalnej mapy dostępnych wyborów i pola po polu jest w [WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md).** Osobny, maszynowo czytelny [WARLOCK_MASTERY_OPTIONS.json](WARLOCK_MASTERY_OPTIONS.json) zawiera 7 wierszy × 9 pól, pełne nazwy i identyfikatory 144 pierwotnych wariantów oraz skopiowane opcje wspólne w pozostałych wierszach.
+
+**Istotna niezgodność wersji:** w 1.61 użytkownik widzi **5 ikon pierwszego pola R1-K1 Corruptora**; starszy eksport ma tylko **4** możliwości. Dlatego wykaz jest referencyjny, a konkretna premia i jej wartość wymagają potwierdzenia tooltipem przed wydaniem Mastery Point.
+
+**Stan postaci na 18.10.2026:** Lv. 10 / M1; **1 wolny Mastery Point**, żaden wybór Mastery nie został jeszcze potwierdzony jako wykonany. Historia i punkty: [WARLOCK_PROGRESS.md](WARLOCK_PROGRESS.md).
 
 ## Aktualizacja pod 1.61
 
