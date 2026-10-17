@@ -1,11 +1,12 @@
-# Warden — aktualny stan postaci
+# Warden — archiwum zakończonej postaci
 
-Ten plik jest **jedynym źródłem prawdy o aktualnym stanie naszego bohatera**. Aktualizujemy go po każdej zmianie punktów, aktywnych skilli, przypisania do pada albo ważnego elementu buildu.
+Ten plik jest **archiwum dawnej postaci Warden**, która **zginęła 17.10.2026 w trybie Hardcore**. Nie jest już bieżącą kartą rozgrywki. Nowe zasady i następny bohater: [RUN_TRACKER.md](RUN_TRACKER.md).
 
-**Tryb:** Hardcore  
+**Status:** ZGON — run zakończony 17.10.2026  
+**Tryb historyczny:** Hardcore  
 **Postać:** Warden — łucznik  
-**Poziom ostatnio potwierdzony na screenie:** 3  
-**Wolne Skill Points (najnowsze zgłoszenie):** 1  
+**Poziom ostatnio potwierdzony na zdjęciu ekwipunku:** 6 (poziom przy śmierci niepotwierdzony)  
+**Stan wolnych punktów przy śmierci:** niepotwierdzony (ostatnio zgłoszono 1 punkt, a Double Draw był tylko rekomendacją)  
 **Główne drzewko:** Wind Ranger / Physical  
 **Docelowy kierunek:** High Ranger / Rapid Shot / Splinter / Double Draw / Razor Tips
 
@@ -21,7 +22,7 @@ Ten plik jest **jedynym źródłem prawdy o aktualnym stanie naszego bohatera**.
 
 **Łącznie potwierdzone wydane punkty:** 6
 
-## Aktualny wolny punkt
+## Ostatni wolny punkt przed śmiercią — zapis historyczny
 
 Użytkownik potwierdził, że **wydał drugi z dwóch wcześniejszych punktów w Leaf Wind**. Zapisany stan: **Rapid Shot 2 / Tumble 1 / Archer 1 / Multi Shot 1 / Leaf Wind 1**, łącznie **6 wydanych punktów**. Zgłosił **1 kolejny wolny punkt**.
 
@@ -102,7 +103,13 @@ Użytkownik potwierdził, że **wydał drugi z dwóch wcześniejszych punktów w
 
 ## Dziennik zmian
 
-### 17.10.2026
+### 17.10.2026 — koniec runu
+
+- **Warden zginął w Hardcore**; dotychczasowy build High Ranger pozostaje jako archiwum.
+- Od tej chwili **rezygnujemy z Hardcore**, a po każdym zgonie **zmieniamy klasę**. Zobacz [RUN_TRACKER.md](RUN_TRACKER.md).
+- **Double Draw 0 → 1 był rekomendacją, której wydania nie potwierdzono**; nie liczyć jej do potwierdzonych punktów.
+
+### 17.10.2026 — wcześniejsze decyzje
 
 - **Najnowsza rekomendacja:** nowy wolny punkt → **Double Draw 1** (Wind Ranger, pasywka synergiczna z Rapid Shot/High Ranger). **Wydanie niepotwierdzone**, więc pozostaje 6 wydanych + 1 wolny.
 - **Najnowsze potwierdzenie:** gracz wydał punkt w **Leaf Wind 1 (Druid)**, czyli łącznie mamy **6 potwierdzonych punktów wydanych**. Zgłosił **1 kolejny wolny punkt**. Przypisanie Leaf Wind do RB jeszcze niepotwierdzone.
