@@ -19,7 +19,7 @@
 | **Corruptor** | **Infection** | **3** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
 | **Corruptor** | **Flesh Rot** | **1** | aktywna klątwa Poison na grupy, obrażenia w czasie; proponowane LT, przypisanie niepotwierdzone |
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
-| **Reaper** | **Soul Eater** | **1** | leczenie zużywające duszę; **punkt potwierdzony, przypisanie do RB niepotwierdzone** |
+| **Reaper** | **Soul Eater** | **1** | leczenie za 1 Soul, **10% max HP**, cooldown **36 s** (tooltip na screenie 18.10.2026); docelowe RB, **faktyczne przypisanie niepotwierdzone** |
 
 **Razem potwierdzono: 11 wydanych Skill Points, 0 wolnych oraz osobno 1 Mastery Point wydany / 0 wolnych.** Screen Lv.11 / M1 potwierdził Infection 3/3 i 8 punktów Corruptor; następnie gracz potwierdził **Blood Curse 4**, dając wymagane **9 punktów Corruptor**. Bursting Boils powinno być teraz dostępne, choć odblokowanie nie zostało jeszcze potwierdzone nowym screenem. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
@@ -39,6 +39,13 @@
 | LB | Ritual of Souls / buff | niepotwierdzone |
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
+
+## Screenshot Soul Eater — działanie i sterowanie (18.10.2026)
+
+- Gracz pokazał tooltip Reaper **Soul Eater 1/3**. W **aktualnej grze** jest to **Active Skill / Utility Soul Skill**, koszt **1 Soul**, cooldown **36 sekund**, leczenie **10% maksymalnego zdrowia**; następna ranga 15% max HP. To ważne: wcześniejsze wartości cooldown ze starych wersji gry nie obowiązują tutaj.
+- **Użycie:** manualnie wybrać Soul Eater w drzewku, na ekranie skrót **Y = Bind / Swap**, przypisać do **RB** (propozycja, **nie potwierdzona jako wykonana**). Nacisnąć RB, gdy ma się co najmniej 1 duszę, brakuje HP, a umiejętność nie jest na cooldownie.
+- **Dusze (Souls):** unikalny zasób Warlocka. Bazowo ok. **10% szansy na zdobycie duszy po zabiciu wroga**, maks. domyślnie 5, liczone przy zdrowiu/manie; dusze stopniowo znikają. Nie ładuje się skilla maną ani czekaniem bez zdobywania dusz. Cooldown i ilość dusz są **oddzielnymi ograniczeniami**. Soul Warp na B także współkorzysta z mechaniki dusz.
+- **Brak nowego wydania punktu** i brak potwierdzonej zmiany przypisania pada. Bilans pozostaje **11 Skill Points wydanych / 0 wolnych; 1 Mastery wydany**.
 
 ## NOWE POTWIERDZENIE — Blood Curse 4, próg Bursting Boils osiągnięty (18.10.2026)
 
@@ -143,6 +150,8 @@ Zobacz **[WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md)** — układ 7 wiers
 ## Dziennik zmian
 
 ### 18.10.2026
+- **NOWY SCREEN Soul Eater:** aktualny tooltip potwierdza 1 Soul, leczenie 10% max HP, **36 s cooldown**, ranga 1/3; następna ranga 15%. Przedstawiono instrukcję przypisania na RB przez Y Bind/Swap, **przypisanie RB wciąż niepotwierdzone**. Dusze zdobywane w trakcie zabijania przeciwników, licznik przy HP/manie, bazowo ~10% szansy, max 5, zanikają z czasem.
+
 - **POTWIERDZONE:** Blood Curse **3→4/5**. W Corruptorze **9 punktów**, łącznie **11 wydanych zwykłych punktów / 0 wolnych**. Próg Bursting Boils osiągnięty, sam skill nadal 0/3. Kolejny rekomendowany punkt: Bursting Boils 1, jeśli rzeczywiście odblokowany.
 
 - **NOWY SCREEN — potwierdzenie:** Lv. 11 / M1, **Infection 3/3**, Corruptor 8 punktów, Skill Points: 1. Bursting Boils 0/3: **wymaga 9 punktów w Corruptorze**, opis aktualnej gry mówi **10% proc, promień 2.2 m** (nie 12% z 1.52). Zalecenie: **Blood Curse 3→4** na 9. punkt w Corruptorze, potem kolejny poziom przeznaczyć na Bursting Boils 1. **Żaden z tych dwóch punktów jeszcze nie został potwierdzony jako wydany.**
