@@ -10,7 +10,7 @@
 - Okrągłe `+` to sloty powtarzalnych premii; pola **◆** (zwykle kolumny K3, K6, K9) to szczególne Perks. Liczbę rang i wymagania zawsze sprawdzać w grze.
 - Trzy środkowe wiersze **Class Mastery I, II, III** korzystają ze wspólnych rodzin umiejętności. W tabelach powtórzono warianty dla czytelności, na podstawie logiki programu ChroniCalc.
 - K9 w trzech środkowych wierszach ma **jeden wspólny zestaw końcowych wyborów** przy R4. Stąd R3-K9 i R5-K9 to puste miejsca w historycznym eksporcie, nie brak danych.
-- **Zwykłe Skill Points** i **Mastery Points** są osobne. Aktualnie po potwierdzeniu gracza: **9 Skill Points wydanych + 2 wolne**, **1 Mastery Point wydany + 0 wolnych**.
+- **Zwykłe Skill Points** i **Mastery Points** są osobne. Aktualnie po potwierdzeniu gracza: **11 Skill Points wydanych + 1 wolny (Bursting Boils niewydany)**, **1 Mastery Point wydany + 1 nowy wolny**.
 - W tabelach zachowano **angielskie nazwy skilli** (zgodne z grą); polskie omówienia najważniejszych premii znajdują się poniżej.
 
 ## Szybkie odwzorowanie ekranu
@@ -238,18 +238,18 @@ Nazwy nieomówione w tej sekcji nadal są wymienione w pełnej mapie i w pliku J
 
 **Korgein, Corruptor Mastery R1-K1**: gracz potwierdził wydanie 1 punktu na **trzecią ikonę — zieloną czaszkę**, nazwaną przez siebie **„Poison”**. W archiwalnej liście R1-K1 znajduje się **Poison Damage (ID 100024)**; to prawdopodobne dopasowanie, lecz aktualna wersja 1.61 wyświetla 5 zamiast 4 wariantów, a opis skilla nie został pokazany. Dlatego nie wpisujemy niepotwierdzonej konkretnej wartości premii procentowej.
 
-**Bilans:** Mastery 1 wydany, 0 wolnych. Zwykłe umiejętności: 9 punktów wydanych, 2 nowe wolne (do rozdania: Infection 2→3, następnie Bursting Boils 0→1, jeśli otwarte).
+**Historyczny stan po pierwszym wyborze:** 1 Mastery wydany, 0 wolnych. **Nowszy stan 18.10.2026:** gracz zgłosił **1 NOWY wolny Mastery Point**; rekomendacja ponownie rozwinąć **Poison Damage zielona czaszka R1-K1, ranga 1→2**, jeśli umiejętność jest możliwa do ulepszenia. **Niepotwierdzone wydanie drugiego punktu**. Zwykłe skille najpóźniej: 11 wydanych, 1 wolny proponowany na Bursting Boils, bez potwierdzenia przydziału.
 
 ## Mastery Korgeina: obserwacje vs plany
 
 | Co | Stan | Podstawa |
 |---|---|---|
 | Bohater | **Warlock Korgein, Lv. 10 / M1** | Screen 18.10.2026 |
-| Wolne Mastery Points | **0** | Gracz potwierdził wydanie na zieloną czaszkę „Poison” 18.10.2026 |
+| Wolne Mastery Points | **1 nowy, jeszcze niewydany** | Gracz zgłosił kolejny punkt Mastery 18.10.2026 |
 | Wydane Mastery Points | **1 potwierdzony** — pierwsze pole Corruptor, zielona czaszka (trzecia ikona) „Poison” | Potwierdzenie gracza 18.10.2026 |
 | R1-K1 | **5 ikon** w aktualnej grze; w archiwalnej liście 4 skille | Screenshot menu vs eksport |
 | Konkretne nazwy tych pięciu ikon | **Nie wszystkie potwierdzone**; zielona czaszka wybrana jako „Poison” (prawdopodobnie Poison Damage w archiwum) | Potwierdzenie gracza; brak pełnego tooltipa |
-| Następny krok | Dalsze Mastery: otworzyć kolejny slot, gdy uzbieramy nowy punkt; dla obecnego R1-K1 odczytać dokładną nazwę/bonus przy okazji | Mastery R1-K1 już wybrane i wydane |
+| Następny krok | Spróbować zwiększyć rangę zielonej czaszki Poison w R1-K1 **1→2**, jeśli obecna gra to dopuszcza; gdy pokazuje tylko menu wyboru, poprosić o screen | Drugi punkt Mastery jest jeszcze **wolny** |
 
 ## Procedura aktualizowania katalogu po kolejnych screenshotach
 
