@@ -3,10 +3,10 @@
 **Status:** aktywny — użytkownik rozpoczyna walkę Warlockiem, 17.10.2026.  
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
-**Poziom:** **4** — potwierdzony zdjęciem drzewka 17.10.2026.  
+**Poziom:** **5** — potwierdzony zdjęciem ekwipunku 17.10.2026.  
 **Wolne Skill Points:** **0** — ostatni zgłoszony punkt wydany na Infection (potwierdzenie użytkownika).  
 **Wydane Skill Points:** **5** — Blood Curse 3, Epidemic 1, Infection 1 (Corruptor). Blood Curse/Epidemic na screenie, Infection potwierdzone przez użytkownika.  
-**Ekwipunek:** brak potwierdzonych szczegółów.  
+**Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
 ## Potwierdzone umiejętności
@@ -17,7 +17,7 @@
 | **Corruptor** | **Epidemic** | **1** | pasywka zwiększająca Attack Speed, działa bez przycisku |
 | **Corruptor** | **Infection** | **1** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
 
-**Razem potwierdzono: 5 wydanych punktów, 0 wolnych.** Poprzedni ekran **Lv. 4** pokazywał Blood Curse 3 i Epidemic 1; po następnym awansie gracz zgłosił nowy punkt, a następnie potwierdził wydanie go w **Infection 1** zgodnie z rekomendacją. **Aktualny poziom niepotwierdzony; ostatni screen Lv. 4.** Przypisanie Blood Curse do RT niepotwierdzone.
+**Razem potwierdzono: 5 wydanych punktów, 0 wolnych.** Poprzedni ekran **Lv. 4** pokazywał Blood Curse 3 i Epidemic 1; po następnym awansie gracz zgłosił nowy punkt, a następnie potwierdził wydanie go w **Infection 1** zgodnie z rekomendacją. **Aktualny poziom Lv. 5 potwierdzony na późniejszym screenie z ekwipunkiem.** Przypisanie Blood Curse do RT niepotwierdzone.
 
 ## Projekt buildu — 5 punktów potwierdzonych
 
@@ -55,9 +55,20 @@
 - **Nie wpisywać Infection 1 jako wydanego** bez kolejnego potwierdzenia.
 - **Brak potwierdzenia, do jakiego przycisku przypisano Blood Curse**, mimo że planem jest RT.
 
+## Porównanie akcesoriów (17.10.2026) — decyzja tylko rekomendowana
+
+**Heart of the Community** (unique, poziom itemu 1) vs **Glod's Coins** (unique, poziom itemu 2). Użytkownik pytał, który lepszy; rekomendacja **Heart of the Community na levelowanie**, ale **brak potwierdzenia wyposażenia lub zmiany**.
+
+- Heart: **+7 Health, +4 Mana, +4 Damage, +9% Crystals found and Experience gained from all sources, +10% Damage vs Mechanicals, +7% Overpower, +16% Companion Health**.
+- Glod's Coins: **+10 Health, +5 Mana, +5 Damage, +11% Bonus Crystals, +27% Pickup Radius, +9% Damage vs Elementals, +11% Shadow Damage, +8% increased damage of all Satellite enchants**.
+- Główny build to **Poison**. Shadow Damage z Glod's Coins nie wzmacnia bezpośrednio naszych Poison skilli. +9% XP Heart może szybciej odblokowywać kolejne umiejętności. Glod daje +1 Damage, +3 Health, +1 Mana i bardziej komfortowy zbiór kryształów.
+- Na screenie z porównaniem **Warlock Korgein Lv. 5**. **Nie przypisywać wyposażonego akcesorium na podstawie samych okien opisu**; użytkownik ma jeszcze potwierdzić podjętą decyzję.
+
 ## Dziennik zmian
 
 ### 17.10.2026
+
+- **SCREEN Lv. 5:** potwierdzono poziom Warlocka **5**, bez nowego potwierdzonego przydziału punktów. Porównano Glod's Coins z Heart of the Community i zalecono **Heart**, ze względu na bonus doświadczenia. **Nie potwierdzono dokonania wymiany ani wyposażenia.**
 
 - **NAJNOWSZE POTWIERDZENIE:** gracz napisał „Punkt wydany” w odpowiedzi na propozycję **Infection 0 → 1**. Zapisano **Infection 1**, łącznie **5 wydanych / 0 wolnych**. Poziom ostatnio pokazany na screenie to 4; obecny poziom niepotwierdzony.
 
