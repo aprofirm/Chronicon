@@ -44,27 +44,29 @@
 - **Soul Feast** (Reaper) na później przy sprawnej produkcji dusz.
 - **Zombie / Plague Bearer** z Corruptor — 1 punkt w towarzysza, jeśli zrobi się zbyt ciasno; lepiej nie od razu kosztem kluczowych efektów Poison.
 
-## Drugi punkt Mastery — rekomendacja, NIE WYDANY (18.10.2026)
+## Mastery Poison 2 POTWIERDZONE i nowy zwykły punkt (18.10.2026)
 
-Gracz zgłosił **nowy 1 Mastery Point**. Pierwszy **Poison (zielona czaszka) R1-K1 w Corruptorze** został już potwierdzony, drugi jeszcze NIE. Zalecamy zainwestować go **w tę samą premię Poison 1→2**, jeśli obecna wersja gry 1.61 pozwoli rozwijać rangę już wybranego skilla. W archiwalnych danych Poison Damage jest wielorangowe (+2% Poison Damage za rangę; 2 rangi = +4%), obecny tooltip do weryfikacji.
-
-**Mastery bilans: 1 wydany, 1 NOWY wolny**. Zwykłe Skill Points: **11 wydanych / 1 wolny**, planowany Bursting Boils 0→1, **jego wydania nie potwierdzono**. Jeżeli nie da się ulepszyć Poison w tym samym polu, użytkownik powinien pokazać menu zamiast wybierać losowo.
+- **Mastery:** użytkownik potwierdził rozwinięcie **Poison zielona czaszka R1-K1 Corruptor z rangi 1 na 2**; **2 Mastery Points wydane / 0 wolnych**. Stary eksport mówi +4% Poison Damage przy rangach 2, ale tooltip 1.61 procentowo niepotwierdzony.
+- **Zwykłe umiejętności:** ostatni **potwierdzony** stan to **11 Skill Points wydanych**: Corruptor Blood Curse 4 / Epidemic 1 / Infection 3 / Flesh Rot 1 = 9, Lich Soul Warp 1, Reaper Soul Eater 1.
+- Poprzednio gracz otrzymał **1 wolny zwykły punkt** i rekomendowano Bursting Boils 0→1, ale **nie potwierdził wydania**. Teraz zgłosił **kolejny nowy zwykły punkt**; jeżeli wcześniejszego nie wydał, możliwe że ma 2 wolne; jeżeli wydał w Bursting Boils, ma 1 wolny i Bursting Boils 1/3. **Bez potwierdzenia nie wpisujemy żadnej z tych wersji jako faktu.**
+- **Rekomendacja:** jeśli Bursting Boils = 0/3, **pierwszy punkt tam (0→1)**. Jeśli Bursting Boils = 1/3, **kolejny punkt tam (1→2)**. To pasywka z Infection, nie wymaga przycisku. W 1.61 jej pierwsza ranga daje 10% szansy i promień 2.2 m. Potem Contagion i Outbreak.
+- W razie wątpliwości gracz powinien przesłać zrzut umiejętności, żeby zweryfikować liczbę wolnych punktów oraz Bursting Boils.
 
 ## Stan aktualny — 18.10.2026, Lv. 11 / M1 (Blood Curse 4)
 
-**Potwierdzono 11 zwykłych punktów WYDANYCH i 1 NOWY WOLNY punkt:**
+**Potwierdzono 11 zwykłych punktów WYDANYCH.** Wcześniejszy 1 zwykły punkt miał niepotwierdzone wykorzystanie, a teraz gracz zgłosił kolejny NOWY wolny punkt.
 - Corruptor: **Blood Curse 4**, Epidemic 1, **Infection 3/3**, Flesh Rot 1 = **9 punktów**.
 - Lich: Soul Warp 1 (przypisanie **B potwierdzone**).
 - Reaper: Soul Eater 1 (umiejętność potwierdzona, rzeczywiste RB nie).
-- Mastery: **1 punkt wydany w Poison (zielona czaszka, R1-K1 Corruptor)**, **1 NOWY wolny Mastery Point** (jeszcze niewydany, plan Poison 1→2).
+- Mastery: **2 punkty WYDANE w Poison (zielona czaszka, R1-K1 Corruptor), ranga 2**, 0 wolnych Mastery.
 
 ### Bursting Boils — gotowość do następnego awansu
 
 Najnowszy wcześniejszy screen wersji 1.61 podał wymóg **„Requires 9 points spent to unlock”** dla Bursting Boils. Kupując Blood Curse 4 osiągnęliśmy **9 punktów Corruptor**; zatem **próg inwestycji jest spełniony**, lecz gracz nie pokazał jeszcze ekranu węzła po odblokowaniu.
 
-**BIEŻĄCY NOWY WOLNY punkt — rekomendacja NIEWYKONANA:** **Bursting Boils 0→1**. Skill pasywny, bez przypisania do pada. W wersji 1.61 zgodnie ze screenem: **10%** szansy na wyzwolenie obrażeń Infection w promieniu **2.2 m** po trafieniu Poison zakażonego przeciwnika; maks. poziom 20% / 3.6 m. Stare dane 1.52 mówią 12% na pierwszej randze — **najnowszy tooltip 10% ma pierwszeństwo**.
+**BIEŻĄCA rekomendacja — bez potwierdzenia wykonania:** **Bursting Boils 0→1**, jeśli nadal ranga 0; **Bursting Boils 1→2**, jeśli gracz zdążył wydać poprzedni punkt. Skill pasywny, bez przypisania do pada. W wersji 1.61 zgodnie ze screenem: **10%** szansy na wyzwolenie obrażeń Infection w promieniu **2.2 m** po trafieniu Poison zakażonego przeciwnika; maks. poziom 20% / 3.6 m. Stare dane 1.52 mówią 12% na pierwszej randze — **najnowszy tooltip 10% ma pierwszeństwo**.
 
-**Po Bursting Boils** wracamy do rozwoju Contagion / Poison Nova / Outbreak. **Nie wpisywać Bursting Boils 1 jako wyuczonego przed potwierdzeniem od gracza.** Obecnie 11 zwykłych punktów wydanych + 1 wolny, 1 Mastery wydany + 0 wolnych.
+**Po Bursting Boils** wracamy do Contagion / Poison Nova / Outbreak. **Nie wpisywać Bursting Boils 1 ani 2 jako wyuczonych przed potwierdzeniem od gracza.** Mastery: 2 wydane, 0 wolnych. Bilans zwykłych: 11 wydanych potwierdzonych, potencjalnie 2 wolne (1 nowy i 1 poprzedni bez potwierdzenia wykorzystania).
 
 **Pad:** RT Blood Curse i LT Flesh Rot planowane, ale niepotwierdzone; RB Soul Eater wyuczone, faktyczne przypisanie niepotwierdzone; **B Soul Warp potwierdzone**.
 
