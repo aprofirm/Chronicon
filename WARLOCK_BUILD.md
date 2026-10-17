@@ -44,7 +44,19 @@
 - **Soul Feast** (Reaper) na później przy sprawnej produkcji dusz.
 - **Zombie / Plague Bearer** z Corruptor — 1 punkt w towarzysza, jeśli zrobi się zbyt ciasno; lepiej nie od razu kosztem kluczowych efektów Poison.
 
-## Mastery Poison 2 POTWIERDZONE i nowy zwykły punkt (18.10.2026)
+## NAJNOWSZY STAN — Bursting Boils 1 potwierdzony, 1 zwykły punkt wolny (18.10.2026)
+
+**Potwierdzono 12 zwykłych punktów wydanych, 1 nowy wolny:**
+- Corruptor: Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 1/3** (łącznie 10 punktów w Corruptor).
+- Lich: Soul Warp 1, przypisanie do B potwierdzone.
+- Reaper: Soul Eater 1, przypisanie RB niepotwierdzone.
+- Mastery: **Poison zielona czaszka Corruptor R1-K1 ranga 2**, 2 wydane, 0 wolnych.
+
+**Następny 1 WOLNY punkt — rekomendacja jeszcze NIEWYKONANA: Bursting Boils 1→2**. Działa pasywnie dla Infection i nie potrzebuje przypisania do pada. Dopiero po potwierdzeniu będzie 13 punktów wydanych i 0 wolnych.
+
+**Dalszy rozwój:** Contagion / Outbreak / Poison Nova, zgodnie z odblokowaniami. Sformułowanie użytkownika „na b wydany” dotyczy zakupienia **Bursting Boils 1**, nie zmiany przypisania teleportu do B.
+
+## HISTORIA — Mastery Poison 2 POTWIERDZONE i nowy zwykły punkt (18.10.2026)
 
 - **Mastery:** użytkownik potwierdził rozwinięcie **Poison zielona czaszka R1-K1 Corruptor z rangi 1 na 2**; **2 Mastery Points wydane / 0 wolnych**. Stary eksport mówi +4% Poison Damage przy rangach 2, ale tooltip 1.61 procentowo niepotwierdzony.
 - **Zwykłe umiejętności:** ostatni **potwierdzony** stan to **11 Skill Points wydanych**: Corruptor Blood Curse 4 / Epidemic 1 / Infection 3 / Flesh Rot 1 = 9, Lich Soul Warp 1, Reaper Soul Eater 1.
@@ -52,7 +64,7 @@
 - **Rekomendacja:** jeśli Bursting Boils = 0/3, **pierwszy punkt tam (0→1)**. Jeśli Bursting Boils = 1/3, **kolejny punkt tam (1→2)**. To pasywka z Infection, nie wymaga przycisku. W 1.61 jej pierwsza ranga daje 10% szansy i promień 2.2 m. Potem Contagion i Outbreak.
 - W razie wątpliwości gracz powinien przesłać zrzut umiejętności, żeby zweryfikować liczbę wolnych punktów oraz Bursting Boils.
 
-## Stan aktualny — 18.10.2026, Lv. 11 / M1 (Blood Curse 4)
+## HISTORIA — stan z Lv. 11 / M1 przed potwierdzeniem Bursting Boils
 
 **Potwierdzono 11 zwykłych punktów WYDANYCH.** Wcześniejszy 1 zwykły punkt miał niepotwierdzone wykorzystanie, a teraz gracz zgłosił kolejny NOWY wolny punkt.
 - Corruptor: **Blood Curse 4**, Epidemic 1, **Infection 3/3**, Flesh Rot 1 = **9 punktów**.
