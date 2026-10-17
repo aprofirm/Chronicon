@@ -4,8 +4,8 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** **5** — potwierdzony zdjęciem ekwipunku 17.10.2026.  
-**Wolne Skill Points:** **1** — nowy punkt zgłoszony 17.10.2026; jeszcze niewydany, rekomendacja Flesh Rot 1.  
-**Wydane Skill Points:** **5** — Blood Curse 3, Epidemic 1, Infection 1 (Corruptor). Blood Curse/Epidemic na screenie, Infection potwierdzone przez użytkownika.  
+**Wolne Skill Points:** **1** — NOWY wolny punkt zgłoszony po potwierdzonym wydaniu Flesh Rot 1; jeszcze nie wydano. Rekomendacja: Soul Warp 1 (Lich).  
+**Wydane Skill Points:** **6** — Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1 (Corruptor). Flesh Rot potwierdzony przez użytkownika.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
@@ -16,10 +16,11 @@
 | **Corruptor** | **Blood Curse** | **3** | główny atak Poison, AoE + DoT; proponowany na RT, przypisanie niepotwierdzone |
 | **Corruptor** | **Epidemic** | **1** | pasywka zwiększająca Attack Speed, działa bez przycisku |
 | **Corruptor** | **Infection** | **1** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
+| **Corruptor** | **Flesh Rot** | **1** | aktywna klątwa Poison na grupy, obrażenia w czasie; proponowane LT, przypisanie niepotwierdzone |
 
-**Razem potwierdzono: 5 wydanych punktów, 1 nowy wolny.** Poprzedni ekran **Lv. 4** pokazywał Blood Curse 3 i Epidemic 1; po następnym awansie gracz zgłosił nowy punkt, a następnie potwierdził wydanie go w **Infection 1** zgodnie z rekomendacją. **Aktualny poziom Lv. 5 potwierdzony na późniejszym screenie z ekwipunkiem.** Przypisanie Blood Curse do RT niepotwierdzone.
+**Razem potwierdzono: 6 wydanych punktów i 1 nowy wolny.** Po ostatnim screenie Corruptor i rekomendacji użytkownik potwierdził **Flesh Rot 1**, a następnie zgłosił **kolejny nowy punkt do wydania**. Ostatni poziom potwierdzony ekranem: **Lv. 5**; obecnego poziomu nie ustalono. Przypisania skilli do pada jeszcze wymagają potwierdzenia.
 
-## Projekt buildu — 5 punktów potwierdzonych
+## Projekt buildu — 6 punktów potwierdzonych
 
 **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)**: główne drzewko **Corruptor Poison**; **Blood Curse → Infection → efekty szerzenia zarazy → Poison Nova + Outbreak**. Wsparcie **Reaper (Soul Eater), Lich (Soul Warp), Demonologist (Demon Skin)**. Wszystkie cztery drzewka i Mastery w [WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md).
 
@@ -28,21 +29,27 @@
 | Przycisk | Plan | Faktyczne przypisanie |
 |---|---|---|
 | RT | Blood Curse — Poison AoE główny atak | niepotwierdzone |
-| LT | Poison Nova — dookoła bohatera | niepotwierdzone |
+| LT | Flesh Rot — obecny plan; później Poison Nova, gdy odblokowana | niepotwierdzone |
 | RB | Soul Eater — leczenie za Soul | niepotwierdzone |
-| B | Soul Warp — teleport | niepotwierdzone |
+| B | Soul Warp — teleport i ucieczka, **następna rekomendacja na wolny punkt** | niepotwierdzone |
 | Y | Zombie/Plague Bearer lub Plague | niepotwierdzone |
 | LB | Ritual of Souls / buff | niepotwierdzone |
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
 
-## Bieżący wolny punkt — rekomendacja (jeszcze NIEWYDANY)
+## Aktualny wolny punkt — rekomendacja, JESZCZE NIEWYDANY
 
-**17.10.2026:** użytkownik pokazał drzewko Corruptor z **Blood Curse 3, Epidemic 1 i Infection 1** (na ikonach rangi **3/1/1**, suma **5**). Zgłosił **1 nowy wolny punkt**.
+**Najnowsze potwierdzenie:** gracz wydał poprzedni punkt na **Flesh Rot 0 → 1 (Corruptor)**, tak jak zaproponowano; następnie poinformował, że zdobył **jeszcze jeden nowy wolny punkt**.
 
-**Zalecenie: Flesh Rot 0 → 1 (Corruptor), jeśli już dostępny w aktualnym drzewku.** To klątwa AoE Poison z obrażeniami w czasie, mogąca rozprzestrzeniać się na pobliskich przeciwników. Daje drugi atak ofensywny, uzupełnia Blood Curse i Infection. Proponowane przypisanie **LT** (RT Blood Curse plan, jeszcze bez potwierdzenia w grze). Przyszły cel Poison Nova / Bursting Boils / Contagion / Outbreak. Pozostała alternatywa to Plague — chmura wokół postaci, ale na razie wolimy dystansowy Flesh Rot.
+**Obecnie: 6 wydanych / 1 wolny.** Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1 (wszystkie w Corruptor).
 
-**Uwaga:** screen nie zawiera tooltipa Flesh Rot ani jednoznacznego potwierdzenia, czy skill jest odblokowany w 1.61. Jeśli szary/zablokowany, poprosić o opis/powiększenie przed wydaniem punktu. **Nie zapisywać rekomendacji jako punktu wydanego**. Po potwierdzeniu będzie: **Blood Curse 3 / Epidemic 1 / Infection 1 / Flesh Rot 1 = 6 wydanych, 0 wolnych**. **Przypisanie LT też wymaga potwierdzenia**.
+**Rekomendacja na najnowszy punkt:** **Soul Warp 0 → 1 (Lich)** — awaryjny teleport na **B**. Ważny, ponieważ zgodnie z nową regułą po każdej śmierci zmieniamy klasę, mimo że nie gramy Hardcore. Według bazowych danych 1.52 to początkowy skill w drzewku Lich, teleport 4 m plus zasięg za zużyte dusze; wartości i dostępność wersji 1.61 należy potwierdzić w grze. Zostawiamy **ręcznie**, bez Auto Cast.
+
+**Plan pada:** RT Blood Curse, LT Flesh Rot, B Soul Warp (po wydaniu); RB później Soul Eater. **Niepotwierdzone faktyczne przypisania** żadnego z tych skilli.
+
+**Jeśli Soul Warp jest niedostępny**, użytkownik powinien przesłać screen opisu w Lich i jeszcze nie wydawać punktu. Jeśli użytkownik priorytetyzuje ofensywę, alternatywny kolejny punkt może iść w Infection 1→2 / progres Corruptor do Bursting Boils; nie zapisujemy alternatywy jako wykonanej.
+
+**Nie wpisywać Soul Warp jako wydanego bez potwierdzenia.**
 
 ## Najnowszy przydział — WYKONANY
 
@@ -76,7 +83,9 @@
 
 ### 17.10.2026
 
-- **NOWY SCREEN + ZGŁOSZENIE:** w drzewku Corruptor widać Blood Curse 3 / Epidemic 1 / Infection 1; użytkownik ma **1 nowy wolny punkt**. Zalecono **Flesh Rot 0 → 1 (Corruptor)** i późniejsze przypisanie na LT, jeśli aktywne. **Nie wydano jeszcze/nie potwierdzono przydziału.** Stan na teraz 5 wydanych + 1 wolny.
+- **NOWE POTWIERDZENIE:** użytkownik potwierdził wydanie poprzedniego punktu w **Flesh Rot 1** (Corruptor) i zgłosił **jeszcze jeden wolny punkt**. Nowy stan: **6 wydanych / 1 wolny**. **Zalecono Soul Warp 1 (Lich) na B**, ale jeszcze nie wydano; RT Blood Curse i LT Flesh Rot również niepotwierdzone jako faktyczne przypisania.
+
+- Poprzedni screen: w drzewku Corruptor widać Blood Curse 3 / Epidemic 1 / Infection 1; zalecono Flesh Rot 0→1. **Wydanie Flesh Rot później potwierdzono; patrz najnowszy wpis.**
 
 - **SCREEN Lv. 5:** potwierdzono poziom Warlocka **5**, bez nowego potwierdzonego przydziału punktów. Porównano Glod's Coins z Heart of the Community i zalecono **Heart**, ze względu na bonus doświadczenia. **Nie potwierdzono dokonania wymiany ani wyposażenia.**
 
