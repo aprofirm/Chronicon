@@ -4,8 +4,8 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** **5** — potwierdzony zdjęciem ekwipunku 17.10.2026.  
-**Wolne Skill Points:** **1** — NOWY wolny punkt zgłoszony po potwierdzonym wydaniu Flesh Rot 1; jeszcze nie wydano. Rekomendacja: Soul Warp 1 (Lich).  
-**Wydane Skill Points:** **6** — Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1 (Corruptor). Flesh Rot potwierdzony przez użytkownika.  
+**Wolne Skill Points:** **0** — gracz potwierdził wydanie punktu w Soul Warp 1 (Lich).  
+**Wydane Skill Points:** **7** — Corruptor: Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1; Lich: Soul Warp 1. Ostatni punkt potwierdzony przez użytkownika 18.10.2026.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
@@ -17,39 +17,34 @@
 | **Corruptor** | **Epidemic** | **1** | pasywka zwiększająca Attack Speed, działa bez przycisku |
 | **Corruptor** | **Infection** | **1** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
 | **Corruptor** | **Flesh Rot** | **1** | aktywna klątwa Poison na grupy, obrażenia w czasie; proponowane LT, przypisanie niepotwierdzone |
+| **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 
-**Razem potwierdzono: 6 wydanych punktów i 1 nowy wolny.** Po ostatnim screenie Corruptor i rekomendacji użytkownik potwierdził **Flesh Rot 1**, a następnie zgłosił **kolejny nowy punkt do wydania**. Ostatni poziom potwierdzony ekranem: **Lv. 5**; obecnego poziomu nie ustalono. Przypisania skilli do pada jeszcze wymagają potwierdzenia.
+**Razem potwierdzono: 7 wydanych punktów, 0 wolnych.** Gracz potwierdził wydanie nowego punktu na **Soul Warp 1 (Lich)** i przypisanie teleportu do **B**. Ostatni poziom potwierdzony ekranem: **Lv. 5**; obecnego poziomu nie ustalono. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
-## Projekt buildu — 6 punktów potwierdzonych
+## Projekt buildu — 7 punktów potwierdzonych
 
 **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)**: główne drzewko **Corruptor Poison**; **Blood Curse → Infection → efekty szerzenia zarazy → Poison Nova + Outbreak**. Wsparcie **Reaper (Soul Eater), Lich (Soul Warp), Demonologist (Demon Skin)**. Wszystkie cztery drzewka i Mastery w [WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md).
 
-## Pad — tylko plan, NIE potwierdzony
+## Pad — potwierdzone przypisania i plan
 
 | Przycisk | Plan | Faktyczne przypisanie |
 |---|---|---|
 | RT | Blood Curse — Poison AoE główny atak | niepotwierdzone |
 | LT | Flesh Rot — obecny plan; później Poison Nova, gdy odblokowana | niepotwierdzone |
 | RB | Soul Eater — leczenie za Soul | niepotwierdzone |
-| B | Soul Warp — teleport i ucieczka, **następna rekomendacja na wolny punkt** | niepotwierdzone |
+| **B** | **Soul Warp 1 — teleport i ucieczka** | **POTWIERDZONE** |
 | Y | Zombie/Plague Bearer lub Plague | niepotwierdzone |
 | LB | Ritual of Souls / buff | niepotwierdzone |
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
 
-## Aktualny wolny punkt — rekomendacja, JESZCZE NIEWYDANY
+## Aktualny stan — Soul Warp 1 POTWIERDZONY (18.10.2026)
 
-**Najnowsze potwierdzenie:** gracz wydał poprzedni punkt na **Flesh Rot 0 → 1 (Corruptor)**, tak jak zaproponowano; następnie poinformował, że zdobył **jeszcze jeden nowy wolny punkt**.
-
-**Obecnie: 6 wydanych / 1 wolny.** Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1 (wszystkie w Corruptor).
-
-**Rekomendacja na najnowszy punkt:** **Soul Warp 0 → 1 (Lich)** — awaryjny teleport na **B**. Ważny, ponieważ zgodnie z nową regułą po każdej śmierci zmieniamy klasę, mimo że nie gramy Hardcore. Według bazowych danych 1.52 to początkowy skill w drzewku Lich, teleport 4 m plus zasięg za zużyte dusze; wartości i dostępność wersji 1.61 należy potwierdzić w grze. Zostawiamy **ręcznie**, bez Auto Cast.
-
-**Plan pada:** RT Blood Curse, LT Flesh Rot, B Soul Warp (po wydaniu); RB później Soul Eater. **Niepotwierdzone faktyczne przypisania** żadnego z tych skilli.
-
-**Jeśli Soul Warp jest niedostępny**, użytkownik powinien przesłać screen opisu w Lich i jeszcze nie wydawać punktu. Jeśli użytkownik priorytetyzuje ofensywę, alternatywny kolejny punkt może iść w Infection 1→2 / progres Corruptor do Bursting Boils; nie zapisujemy alternatywy jako wykonanej.
-
-**Nie wpisywać Soul Warp jako wydanego bez potwierdzenia.**
+- **Potwierdzone wydanie punktu:** Soul Warp **0 → 1** w drzewku **Lich**.
+- **Potwierdzone przypisanie:** **B = teleport Soul Warp**. Pozostawiamy go do ręcznego używania; Auto Cast niepotwierdzony.
+- **Bilans:** **7 punktów wydanych, 0 wolnych**.
+- **Kolejny cel przy następnym wolnym punkcie:** **Soul Eater 0 → 1** z drzewka **Reaper**, leczenie kosztem duszy, docelowo na **RB**, jeśli dostępne; wartości wersji 1.61 trzeba sprawdzić w grze. Następnie powrót do Corruptor i łańcucha Infection / Bursting Boils / Poison Nova. **To rekomendacja, nie wydany punkt.**
+- **Niepotwierdzone przypisania:** Blood Curse na RT, Flesh Rot na LT, Soul Eater na RB (niewyuczony), Y i LB.
 
 ## Najnowszy przydział — WYKONANY
 
@@ -80,6 +75,9 @@
 - Na screenie z porównaniem **Warlock Korgein Lv. 5**. **Nie przypisywać wyposażonego akcesorium na podstawie samych okien opisu**; użytkownik ma jeszcze potwierdzić podjętą decyzję.
 
 ## Dziennik zmian
+
+### 18.10.2026
+- **POTWIERDZONE:** punkt w **Soul Warp 1 (Lich)**, użytkownik potwierdził **teleport przypisany do B**. Aktualny bilans **7 wydanych / 0 wolnych**. Kolejny potencjalny punkt: **Soul Eater (Reaper)** dla leczenia na RB; nie wydano go.
 
 ### 17.10.2026
 
