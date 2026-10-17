@@ -44,24 +44,23 @@
 - **Soul Feast** (Reaper) na później przy sprawnej produkcji dusz.
 - **Zombie / Plague Bearer** z Corruptor — 1 punkt w towarzysza, jeśli zrobi się zbyt ciasno; lepiej nie od razu kosztem kluczowych efektów Poison.
 
-## Stan aktualny — 18.10.2026, Lv. 11 / M1
+## Stan aktualny — 18.10.2026, Lv. 11 / M1 (Blood Curse 4)
 
-**10 punktów umiejętności WYDANYCH, 1 WOLNY** (najnowszy ekran potwierdza).
-- Corruptor: Blood Curse **3**, Epidemic **1**, Infection **3/3**, Flesh Rot **1** = **8 inwestycji**.
-- Lich: Soul Warp **1** (B potwierdzone).
-- Reaper: Soul Eater **1** (wyuczone; przypisanie RB niepotwierdzone).
-- Mastery: **1 punkt WYDANY** na zieloną czaszkę **Poison (Corruptor R1-K1)**, 0 Mastery wolnych.
+**Potwierdzono 11 zwykłych punktów WYDANYCH, 0 WOLNYCH:**
+- Corruptor: **Blood Curse 4**, Epidemic 1, **Infection 3/3**, Flesh Rot 1 = **9 punktów**.
+- Lich: Soul Warp 1 (przypisanie **B potwierdzone**).
+- Reaper: Soul Eater 1 (umiejętność potwierdzona, rzeczywiste RB nie).
+- Mastery: **1 punkt wydany w Poison (zielona czaszka, R1-K1 Corruptor)**, 0 wolnych Mastery.
 
-**Nowy konkret z aktualnej gry 1.61:** **Bursting Boils 0/3** wymaga **9 punktów wydanych w Corruptorze**. Tooltip z 18.10.2026: Rank 1 **10%** szansy na przeniesienie obrażeń Infection na innych wrogów w promieniu **2.2 m** przy trafieniu Poison zainfekowanego celu; Max Rank **20% / 3.6 m**. Stare dane 1.52 mówiły 12% na pierwszej randze — uznajemy **10% ze screena**.
+### Bursting Boils — gotowość do następnego awansu
 
-### Najbliższy wybór — rekomendacja NIEWYKONANA
+Najnowszy wcześniejszy screen wersji 1.61 podał wymóg **„Requires 9 points spent to unlock”** dla Bursting Boils. Kupując Blood Curse 4 osiągnęliśmy **9 punktów Corruptor**; zatem **próg inwestycji jest spełniony**, lecz gracz nie pokazał jeszcze ekranu węzła po odblokowaniu.
 
-1. **Obecny 1 WOLNY punkt: Blood Curse 3→4 (Corruptor)**. Wzmacnia często używany podstawowy atak, równocześnie sumę Corruptor **8→9**, otwierając Bursting Boils.
-2. **DOPIERO NASTĘPNY punkt po kolejnym awansie: Bursting Boils 0→1 (Corruptor)**, po zweryfikowaniu odblokowania. Efekt pasywny, bez przycisku.
+**Następny NOWY punkt, gdy dostępny:** **Bursting Boils 0→1**. Skill pasywny, bez przypisania do pada. W wersji 1.61 zgodnie ze screenem: **10%** szansy na wyzwolenie obrażeń Infection w promieniu **2.2 m** po trafieniu Poison zakażonego przeciwnika; maks. poziom 20% / 3.6 m. Stare dane 1.52 mówią 12% na pierwszej randze — **najnowszy tooltip 10% ma pierwszeństwo**.
 
-**Nie wpisujemy zalecanych punktów jako wydanych.** Stan po ewentualnym potwierdzeniu pierwszej rekomendacji: 11 wydanych, 0 wolnych; Corruptor Blood Curse 4 / Epidemic 1 / Infection 3 / Flesh Rot 1 = 9 punktów. Później Bursting Boils na 12. punkt.
+**Po Bursting Boils** wracamy do rozwoju Contagion / Poison Nova / Outbreak. Nie wpisywać Bursting Boils 1 jako wyuczonego przed potwierdzeniem.
 
-Pad: RT Blood Curse i LT Flesh Rot planowane (przypisania niepotwierdzone), RB Soul Eater wyuczone, ale przypisanie niepotwierdzone, **B Soul Warp potwierdzone**. Używać ręcznie, bez Auto Cast ratunkowych funkcji.
+**Pad:** RT Blood Curse i LT Flesh Rot planowane, ale niepotwierdzone; RB Soul Eater wyuczone, faktyczne przypisanie niepotwierdzone; **B Soul Warp potwierdzone**.
 
 ## Ekwipunek i statystyki w kampanii
 
