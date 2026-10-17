@@ -44,13 +44,19 @@
 - **Soul Feast** (Reaper) na później przy sprawnej produkcji dusz.
 - **Zombie / Plague Bearer** z Corruptor — 1 punkt w towarzysza, jeśli zrobi się zbyt ciasno; lepiej nie od razu kosztem kluczowych efektów Poison.
 
+## Drugi punkt Mastery — rekomendacja, NIE WYDANY (18.10.2026)
+
+Gracz zgłosił **nowy 1 Mastery Point**. Pierwszy **Poison (zielona czaszka) R1-K1 w Corruptorze** został już potwierdzony, drugi jeszcze NIE. Zalecamy zainwestować go **w tę samą premię Poison 1→2**, jeśli obecna wersja gry 1.61 pozwoli rozwijać rangę już wybranego skilla. W archiwalnych danych Poison Damage jest wielorangowe (+2% Poison Damage za rangę; 2 rangi = +4%), obecny tooltip do weryfikacji.
+
+**Mastery bilans: 1 wydany, 1 NOWY wolny**. Zwykłe Skill Points: **11 wydanych / 1 wolny**, planowany Bursting Boils 0→1, **jego wydania nie potwierdzono**. Jeżeli nie da się ulepszyć Poison w tym samym polu, użytkownik powinien pokazać menu zamiast wybierać losowo.
+
 ## Stan aktualny — 18.10.2026, Lv. 11 / M1 (Blood Curse 4)
 
 **Potwierdzono 11 zwykłych punktów WYDANYCH i 1 NOWY WOLNY punkt:**
 - Corruptor: **Blood Curse 4**, Epidemic 1, **Infection 3/3**, Flesh Rot 1 = **9 punktów**.
 - Lich: Soul Warp 1 (przypisanie **B potwierdzone**).
 - Reaper: Soul Eater 1 (umiejętność potwierdzona, rzeczywiste RB nie).
-- Mastery: **1 punkt wydany w Poison (zielona czaszka, R1-K1 Corruptor)**, 0 wolnych Mastery.
+- Mastery: **1 punkt wydany w Poison (zielona czaszka, R1-K1 Corruptor)**, **1 NOWY wolny Mastery Point** (jeszcze niewydany, plan Poison 1→2).
 
 ### Bursting Boils — gotowość do następnego awansu
 
