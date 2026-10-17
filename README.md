@@ -1,50 +1,40 @@
-# Chronicon — dziennik hardcore
+# Chronicon — dziennik rozgrywki i rotacja klas
 
 Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 
-## Zasady rozgrywki
+## Aktualne zasady (od 17.10.2026)
 
-- Gramy postaciami **po kolei w trybie Hardcore**.
-- Śmierć postaci jest ostateczna — po zgonie przechodzimy do następnej postaci.
-- Decyzje dotyczące ekwipunku, punktów, gemów i aktywnych umiejętności zapisujemy tutaj, żeby zachować ciągłość między sesjami.
-- Od 17.10.2026 Warden jest prowadzony według zapisanego planu buildu, a nie na ślepo z pojedynczych dropów.
+- **Nie gramy już w trybie Hardcore.**
+- **Po każdej śmierci zmieniamy klasę na następną** w ustalonej kolejności. W zwykłym trybie śmierć nie usuwa bohatera.
+- Nie kasujemy postaci ani zapisów; każda klasa zachowuje własną historię i build.
+- **Po każdym potwierdzonym wydaniu punktu, zmianie przycisków, sprzętu lub buildu natychmiast aktualizujemy repo**. Proponowane decyzje oznaczamy oddzielnie od wykonanych.
+- Korzystamy przede wszystkim z aktualnej gry, a nie bezkrytycznie ze starszych wersji danych i poradników.
 
-## Aktualna postać
+## Aktualna sytuacja
 
-### Warden — łucznik
+**Ostatnia postać:** Warden — łucznik, zginął w Hardcore 17.10.2026.  
+**Kolejna klasa:** **Warlock** (propozycja zgodna z dotychczasową kolejnością Berserker → Warden).  
+**Nowy tryb:** bez Hardcore.  
+**Status nowej postaci:** czekamy na rozpoczęcie i pierwszy screen.
 
-**Status:** aktywny / żyje  
-**Tryb:** Hardcore  
-**Broń:** łuk  
-**Główne drzewko:** Wind Ranger / Physical  
-**Docelowy build:** High Ranger / Rapid Shot / Splinter / Double Draw / Razor Tips (Bleed)  
-**Etap:** kampania / rozwój postaci
+## Najważniejsze pliki
 
-## Pliki prowadzące postać
+1. **[RUN_TRACKER.md](RUN_TRACKER.md)** — **aktualny przebieg rozgrywki**, zasady rotacji, historia zgonów i następna klasa.
+2. **[WARDEN_PROGRESS.md](WARDEN_PROGRESS.md)** — **archiwum ostatniego Wardena**, faktycznie wydane punkty i konfiguracja pada sprzed śmierci.
+3. **[WARDEN_ALL_TREES.md](WARDEN_ALL_TREES.md)** — cztery specjalizacje Wardena + Mastery (dane robocze).
+4. **[WIND_RANGER_SKILL_TREE.md](WIND_RANGER_SKILL_TREE.md)** — drzewko Wind Ranger (dane robocze).
+5. **[WARDEN_HARDCORE_ARCHER.md](WARDEN_HARDCORE_ARCHER.md)** — archiwalny plan High Ranger / Rapid Shot / Bleed.
 
-Przy każdej decyzji korzystamy z nich w tej kolejności:
+Po wybraniu Warlocka tworzymy oddzielny plik **WARLOCK_PROGRESS.md** i projektujemy build od nowa. **Nie przypisujemy domyślnie żadnych skilli ani punktów**, dopóki gracz ich nie potwierdzi.
 
-1. **[WARDEN_PROGRESS.md](WARDEN_PROGRESS.md)** — jedyne źródło prawdy o rzeczywistym stanie: wolne punkty, wydane punkty, skille, pad i ważne zmiany bohatera. Aktualizujemy po każdej zmianie.
-2. **[WARDEN_ALL_TREES.md](WARDEN_ALL_TREES.md)** — wszystkie cztery specjalizacje Wardena (**Wind Ranger, Druid, Storm Caller, Winter Herald**) oraz piąta zakładka **Mastery**; opis opcji także poza głównym drzewkiem.
-3. **[WIND_RANGER_SKILL_TREE.md](WIND_RANGER_SKILL_TREE.md)** — szczegółowa lokalna notatka głównego drzewka łucznika.
-4. **[WARDEN_HARDCORE_ARCHER.md](WARDEN_HARDCORE_ARCHER.md)** — docelowy plan buildu High Ranger / Rapid Shot / Bleed, priorytety punktów, Mastery, ekwipunek i endgame.
+## Historia klas
 
-**Zasada wersji:** gramy na 1.61.x. Screen z naszej aktualnej gry ma pierwszeństwo przed starszymi danymi z internetu. Jeśli zobaczymy różnicę, poprawiamy repo.
-
-## Historia postaci
-
-| Postać | Archetyp / kierunek | Status | Uwagi |
-|---|---|---|---|
-| Berserker | melee | ☠️ martwy | Zginął w trybie Hardcore. |
-| Warden | High Ranger / łucznik / bleed | 🟢 aktywny | Aktualna postać. Prowadzimy według zapisanego buildu. |
-
-## Sposób pracy podczas sesji
-
-Przy screenie drzewka wskazujemy konkretnie, gdzie idzie następny punkt. Przy screenie ekwipunku decyzja ma być jednoznaczna: **zakładamy / zachowujemy / sprzedajemy**.
-
-Po każdej faktycznie wykonanej zmianie aktualizujemy `WARDEN_PROGRESS.md`. Rekomendacja nie jest traktowana jako wykonana, dopóki użytkownik jej nie potwierdzi albo nie pokaże screena.
+| Kolejność | Klasa | Status | Tryb |
+|---:|---|---|---|
+| 1 | Berserker | Zginął | Hardcore |
+| 2 | Warden | Zginął 17.10.2026 | Hardcore |
+| 3 | Warlock | Następny do rozpoczęcia | Bez Hardcore |
 
 ---
 
-**Ostatnia aktualizacja:** 17 października 2026  
-**Aktualnie:** Warden — łucznik High Ranger, Hardcore.
+**Ostatnia aktualizacja:** 17 października 2026.
