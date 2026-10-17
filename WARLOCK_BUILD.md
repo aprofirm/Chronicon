@@ -14,7 +14,7 @@
 |---|---|---|---|
 | **RT** | **Blood Curse** (Corruptor) | bazowy atak AoE Poison, zadaje również DoT | nie — główny manualny |
 | **LT** | **Flesh Rot 1** (Corruptor), później **Poison Nova** gdy dostępna | klątwa Poison AoE nakładana na grupy, później nova wokół postaci | nie — używamy świadomie |
-| **RB** | **Soul Eater** (Reaper) | szybkie leczenie za **1 Soul**, w 1.52 ranga 1 przywraca 10% max HP | nie — awaryjny |
+| **RB** | **Soul Eater 1** (Reaper) — **wyuczony, przypisanie RB niepotwierdzone** | szybkie leczenie za **1 Soul**, w 1.52 ranga 1 przywraca 10% max HP | nie — awaryjny |
 | **B** | **Soul Warp 1** (Lich) — **wyuczone i POTWIERDZONE na B** | teleport odciągający nas od zagrożenia; zwiększony zasięg kosztem dusz | ręcznie — awaryjny |
 | **Y** | Zombie lub Plague Bearer / opcjonalnie Plague | wsparcie na grupy; jeśli companion jest aktywny w slocie, użycie może mieć dodatkowy efekt kosztujący Soul | Auto ewentualnie po sprawdzeniu |
 | **LB** | Ritual of Souls / Plague / inny buff | stała korzyść lub wygodny autocast | tylko gdy ekonomia dusz/many na to pozwala |
@@ -46,11 +46,14 @@
 
 ## Stan i najbliższy KONKRETNY następny punkt (18.10.2026)
 
-**Potwierdzone 7 wydanych punktów, 0 wolnych:** Corruptor — Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1; Lich — **Soul Warp 1**. **B = Soul Warp** (użytkownik potwierdził rzeczywiste przypisanie na padzie). Przypisania Blood Curse na RT i Flesh Rot na LT pozostają do potwierdzenia.
+**8 potwierdzonych wydanych punktów, 1 nowy wolny:**
+- Corruptor: Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1 (6 punktów).
+- Lich: **Soul Warp 1** — **B potwierdzone**.
+- Reaper: **Soul Eater 1** — wyuczony, ale **RB jako rzeczywiste przypisanie jeszcze niepotwierdzone**.
 
-**Kolejny cel, gdy pojawi się punkt: Soul Eater 0 → 1 (Reaper)** — awaryjne leczenie za Soul na **RB**. Wartość 10% max HP za 1 duszę dotyczy starej wersji 1.52; próg i tooltip sprawdzić w 1.61. Nie wydawać ani nie uznawać za przypisany przed potwierdzeniem. Po leczeniu wracamy do gałęzi Corruptor i rozwoju Infection → Bursting Boils → Contagion/Outbreak i Poison Nova.
+**Kolejna rekomendacja — jeszcze niewykonana: Infection 1 → 2 (Corruptor).** W danych 1.52 Infection 1 = 35%, 2 = 40% obrażeń Poison skills jako dodatkowy DoT na sekundę; wspiera Blood Curse i Flesh Rot. Rozwój Corruptor do 7 inwestowanych punktów, w kierunku Bursting Boils / Poison Nova. Tooltip w aktualnej grze 1.61 należy sprawdzić.
 
-Dzięki temu mamy osobno zdolność ratunkowej ucieczki (**B**) i docelowe leczenie (**RB**), bez Auto Cast tych dwóch skilli.
+**Cel sterowania:** RT Blood Curse (wciąż niepotwierdzone), LT Flesh Rot (wciąż niepotwierdzone), RB Soul Eater (skill potwierdzony; przypisanie nie), B Soul Warp (potwierdzone). Leczenie/teleport używamy ręcznie, bez Auto Cast. Dalej przechodzimy do Bursting Boils / Poison Nova / Contagion / Outbreak po odblokowaniu drzewka.
 
 ## Ekwipunek i statystyki w kampanii
 
