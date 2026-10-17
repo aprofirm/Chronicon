@@ -15,7 +15,7 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 **Ostatnia postać:** Warden — łucznik, zginął w Hardcore 17.10.2026.  
 **Aktualna klasa:** **Warlock** — użytkownik potwierdził wybór i rozpoczyna rozgrywkę.  
 **Nowy tryb:** bez Hardcore.  
-**Warlock Korgein:** ostatni potwierdzony poziom **11 / M1** (aktualny poziom może być wyższy); **Mastery Poison zielona czaszka Corruptor R1-K1 ranga 2, 2 Mastery Points wydane / 0 wolnych — potwierdzone**. Ostatnie potwierdzone zwykłe skille: Corruptor Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1; Lich Soul Warp 1; Reaper Soul Eater 1 = **11 zwykłych Skill Points wydanych**. Nowy zwykły punkt zgłoszony 18.10.2026; wydanie poprzedniego punktu na Bursting Boils niepotwierdzone, więc **Bursting Boils może być 0/3 lub 1/3**. Zalecenie: 0→1, jeśli niekupiony, lub 1→2, jeśli pierwszy punkt już w niego wydany. Nie wymyślać bieżącego bilansu zwykłych wolnych punktów bez potwierdzenia.
+**Warlock Korgein:** ostatni screen Lv. 11 / M1 (obecny poziom niepotwierdzony). **12 zwykłych Skill Points wydanych / 1 NOWY wolny**, Corruptor: Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 1/3 POTWIERDZONE** (10 punktów); Lich: Soul Warp 1 (B); Reaper: Soul Eater 1. **Mastery Poison (zielona czaszka, Corruptor R1-K1) ranga 2**, 2 Mastery Points wydane / 0 wolnych. **Następna rekomendacja: Bursting Boils 1→2 za wolny punkt** (jeszcze niewykonana), potem Contagion / Outbreak / Poison Nova.
 
 ## Najważniejsze pliki
 
