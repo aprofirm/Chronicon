@@ -13,9 +13,9 @@
 | Przycisk | Docelowy skill | Cel | Auto? |
 |---|---|---|---|
 | **RT** | **Blood Curse** (Corruptor) | bazowy atak AoE Poison, zadaje również DoT | nie — główny manualny |
-| **LT** | **Poison Nova** (Corruptor) | ratunkowe AoE 360° na otaczających wrogów; do odblokowania | nie — używamy świadomie |
+| **LT** | **Flesh Rot 1** (Corruptor), później **Poison Nova** gdy dostępna | klątwa Poison AoE nakładana na grupy, później nova wokół postaci | nie — używamy świadomie |
 | **RB** | **Soul Eater** (Reaper) | szybkie leczenie za **1 Soul**, w 1.52 ranga 1 przywraca 10% max HP | nie — awaryjny |
-| **B** | **Soul Warp** (Lich) | teleport odciągający nas od zagrożenia; zależny od Soul economy | nie — awaryjny |
+| **B** | **Soul Warp 1** (Lich), następna rekomendacja | teleport odciągający nas od zagrożenia; zwiększony zasięg kosztem dusz | nie — awaryjny |
 | **Y** | Zombie lub Plague Bearer / opcjonalnie Plague | wsparcie na grupy; jeśli companion jest aktywny w slocie, użycie może mieć dodatkowy efekt kosztujący Soul | Auto ewentualnie po sprawdzeniu |
 | **LB** | Ritual of Souls / Plague / inny buff | stała korzyść lub wygodny autocast | tylko gdy ekonomia dusz/many na to pozwala |
 
@@ -44,9 +44,13 @@
 - **Soul Feast** (Reaper) na później przy sprawnej produkcji dusz.
 - **Zombie / Plague Bearer** z Corruptor — 1 punkt w towarzysza, jeśli zrobi się zbyt ciasno; lepiej nie od razu kosztem kluczowych efektów Poison.
 
-## Najbliższy KONKRETNY następny punkt
+## Najbliższy KONKRETNY następny punkt — stan 17.10.2026
 
-Użytkownik **nie potwierdził jeszcze poziomu ani wydanych punktów nowego Warlocka**. **Pierwszy domyślny punkt: Blood Curse 1** (jeśli na starcie ma 0, jest dostępne i jeszcze go nie wziął). Kolejne decyzje dopiero po aktualnym screenie. Jeżeli już ma inne skille, nie należy na siłę odtwarzać tej kolejności — dostosować.
+**Potwierdzone 6 wydanych punktów:** Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1 (wszystkie Corruptor). **Nowy 1 punkt jest wolny.**
+
+**Następna rekomendacja: Soul Warp 0 → 1 (Lich)**, do przypisania na **B** — mobilność ratunkowa. **Nie uznajemy wydania ani przypisania do pada przed potwierdzeniem od gracza.** Podczas kolejnych awansów rozważamy Soul Eater (Reaper) dla leczenia na RB oraz powrót do Corruptor na Bursting Boils / Poison Nova / Contagion / Outbreak.
+
+Powód chwilowego przejścia do Lich: po śmierci zmieniamy klasę, więc zapewniamy bezpieczeństwo ucieczki przed dopracowaniem całego łańcucha trucizny.
 
 ## Ekwipunek i statystyki w kampanii
 
