@@ -3,9 +3,9 @@
 **Status:** aktywny — użytkownik rozpoczyna walkę Warlockiem, 17.10.2026.  
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
-**Poziom:** **10**, **Mastery Rank 1 (M1)** — potwierdzone nowym screenshotem zakładki Mastery 18.10.2026.  
-**Wolne Skill Points:** **2** — gracz zgłosił dwa nowe, jeszcze niewydane zwykłe punkty (18.10.2026).  
-**Wydane Skill Points:** **9** — Corruptor: Blood Curse 3, Epidemic 1, Infection 2, Flesh Rot 1; Lich: Soul Warp 1; Reaper: Soul Eater 1 (najnowsze potwierdzenie 18.10.2026).  
+**Poziom:** **11**, **Mastery Rank 1 (M1)** — potwierdzone zdjęciem drzewka Corruptor 18.10.2026.  
+**Wolne Skill Points:** **1** — screenshot pokazuje Skill Points: 1 po wydaniu jednego z dwóch ostatnio zgłoszonych punktów na Infection 2→3.  
+**Wydane Skill Points:** **10** — Corruptor: Blood Curse 3, Epidemic 1, Infection 3, Flesh Rot 1 (**8**); Lich: Soul Warp 1; Reaper: Soul Eater 1. Screen 18.10.2026 potwierdza Infection 3/3, Corruptor 8 oraz 1 wolny punkt.  
 **Mastery Points:** **0 wolnych, 1 potwierdzony wydany** — pierwsze pole Corruptor Mastery **R1-K1**, trzecia opcja (zielona czaszka), gracz podał nazwę „Poison”. Odpowiada najpewniej premii **Poison Damage**, ale ścisła angielska nazwa i liczba procentów wymagają tooltipa 1.61.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
@@ -16,14 +16,14 @@
 |---|---|---:|---|
 | **Corruptor** | **Blood Curse** | **3** | główny atak Poison, AoE + DoT; proponowany na RT, przypisanie niepotwierdzone |
 | **Corruptor** | **Epidemic** | **1** | pasywka zwiększająca Attack Speed, działa bez przycisku |
-| **Corruptor** | **Infection** | **2** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
+| **Corruptor** | **Infection** | **3** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
 | **Corruptor** | **Flesh Rot** | **1** | aktywna klątwa Poison na grupy, obrażenia w czasie; proponowane LT, przypisanie niepotwierdzone |
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 | **Reaper** | **Soul Eater** | **1** | leczenie zużywające duszę; **punkt potwierdzony, przypisanie do RB niepotwierdzone** |
 
-**Razem potwierdzono: 9 wydanych Skill Points i 2 NOWE wolne oraz osobno 1 Mastery Point wydany / 0 wolnych.** Użytkownik potwierdził Mastery na zieloną czaszkę „Poison” w pierwszym slocie Corruptor (R1-K1), a następnie zgłosił dwa zwykłe wolne punkty. Aktualny poziom **Lv. 10, M1** potwierdzony nowszym screenshotem. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
+**Razem potwierdzono: 10 wydanych Skill Points i 1 wolny oraz osobno 1 Mastery Point wydany / 0 wolnych.** Nowy screen pokazuje Lv. 11 / M1, Infection 3/3, sumę 8 punktów Corruptor i 1 punkt do wydania. Bursting Boils jest jeszcze zablokowane, wymagane **9 punktów inwestycji** w gałąź. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
-## Projekt buildu — 9 punktów potwierdzonych
+## Projekt buildu — 10 punktów potwierdzonych
 
 **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)**: główne drzewko **Corruptor Poison**; **Blood Curse → Infection → efekty szerzenia zarazy → Poison Nova + Outbreak**. Wsparcie **Reaper (Soul Eater), Lich (Soul Warp), Demonologist (Demon Skin)**. Wszystkie cztery drzewka i Mastery w [WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md).
 
@@ -40,7 +40,17 @@
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
 
-## NOWE POTWIERDZENIE — Mastery Poison WYDANE, 2 zwykłe punkty WOLNE (18.10.2026)
+## NAJNOWSZY SCREEN (18.10.2026) — 11 poziom, 1 punkt wolny, Bursting Boils ZABLOKOWANE
+
+- **Korgein Lv. 11, M1**, **Skill Points: 1**.
+- **Corruptor: 8 punktów faktycznie wydanych**: Blood Curse 3/5, Epidemic 1/5, **Infection 3/3** (potwierdzone screenshotem), Flesh Rot 1/5. Lich Soul Warp 1, Reaper Soul Eater 1. **Łącznie 10 zwykłych punktów wydanych + 1 wolny**.
+- **Mastery R1-K1 zielona czaszka „Poison”**: 1 Mastery Point już potwierdzony wcześniej, 0 wolnych Mastery.
+- **Tooltip w grze Bursting Boils (Corruptor)**: **„Requires 9 points spent to unlock”**, Passive Skill, Rank 0/3. Rank 1 **10%** szansy na zadanie obrażeń Infection w promieniu **2.2 metra**, gdy zainfekowany wróg zostanie trafiony zaklęciem Poison. Max Rank: **20%** szansy, **3.6 metra** promień. Historyczne dane 1.52 mówią 12% pierwszej rangi — **pierwszeństwo ma screen 1.61: 10%**.
+- **REKOMENDACJA NA 1 WOLNY PUNKT (jeszcze NIEWYDANY): Blood Curse 3→4 w Corruptor**, aby wzmocnić główny atak i zwiększyć liczbę inwestowanych punktów Corruptor **8→9**, odblokowując Bursting Boils. Alternatywą może być Flesh Rot 1→2, ale główny atak ma pierwszeństwo.
+- **Następny NOWY punkt po tej inwestycji:** **Bursting Boils 0→1**, jeśli już otwarty w bieżącej wersji. **Nie wpisywać Blood Curse 4 ani Bursting Boils 1 jako wydane bez potwierdzenia od gracza**.
+- Sterowanie bez zmian: B = Soul Warp potwierdzone, inne przyciski do potwierdzenia.
+
+## HISTORIA: wcześniejsza rekomendacja na 2 zwykłe punkty (już nieaktualna) — 18.10.2026
 
 - Gracz potwierdził **Mastery R1-K1 Corruptor**, wybrał **trzecią ikonę z zieloną czaszką**, opisaną przez siebie jako **Poison**. Najprawdopodobniej to historyczne **Poison Damage**, lecz **dokładna nazwa i wartość bieżącego tooltipa 1.61 nie zostały pokazane**. Zapisujemy jako **Poison (green skull, R1-K1), 1 punkt Mastery WYDANY**.
 - Bilans: **Mastery 1 wydany, 0 wolnych**. **Zwykłe skille: 9 wydanych, 2 nowe wolne**.
@@ -124,6 +134,8 @@ Zobacz **[WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md)** — układ 7 wiers
 ## Dziennik zmian
 
 ### 18.10.2026
+- **NOWY SCREEN — potwierdzenie:** Lv. 11 / M1, **Infection 3/3**, Corruptor 8 punktów, Skill Points: 1. Bursting Boils 0/3: **wymaga 9 punktów w Corruptorze**, opis aktualnej gry mówi **10% proc, promień 2.2 m** (nie 12% z 1.52). Zalecenie: **Blood Curse 3→4** na 9. punkt w Corruptorze, potem kolejny poziom przeznaczyć na Bursting Boils 1. **Żaden z tych dwóch punktów jeszcze nie został potwierdzony jako wydany.**
+
 - **MASTER POINT WYDANY:** zielona czaszka **Poison** w pierwszym polu Corruptor Mastery R1-K1, wskazana przez użytkownika; historyczny odpowiednik Poison Damage, wymaga tooltipa dla pełnej identyfikacji. **1 Mastery wydany / 0 wolnych**. Gracz zgłosił też **2 nowe zwykłe Skill Points**. Rekomendacja: **Infection 2→3**, potem **Bursting Boils 0→1** pod warunkiem odblokowania. Zwykłe skille nadal **9 wydanych, 2 wolne**.
 
 - **SCREEN MENU MASTERY:** gracz otworzył 5 opcji pierwszego slotu Corruptor; nazwy i efekty niewidoczne. Zalecenie najpierw obejrzeć tooltip trzeciej ikony (zielona czaszka) pod kątem Poison/Infection. **1 punkt Mastery nadal wolny, 0 wydanych.**
