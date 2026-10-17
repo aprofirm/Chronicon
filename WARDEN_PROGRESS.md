@@ -5,7 +5,7 @@ Ten plik jest **jedynym źródłem prawdy o aktualnym stanie naszego bohatera**.
 **Tryb:** Hardcore  
 **Postać:** Warden — łucznik  
 **Poziom ostatnio potwierdzony na screenie:** 3  
-**Nowy wolny Skill Point zgłoszony:** 1  
+**Wolne Skill Points (najnowsze zgłoszenie):** 2  
 **Główne drzewko:** Wind Ranger / Physical  
 **Docelowy kierunek:** High Ranger / Rapid Shot / Splinter / Double Draw / Razor Tips
 
@@ -13,25 +13,24 @@ Ten plik jest **jedynym źródłem prawdy o aktualnym stanie naszego bohatera**.
 
 | Drzewko | Skill | Punkty | Użycie |
 |---|---|---:|---|
-| Wind Ranger | **Rapid Shot** | 1 | główny atak, **RT** |
+| Wind Ranger | **Rapid Shot** | 2 | główny atak, **RT** |
 | Wind Ranger | **Tumble** | 1 | mobilność / unik, **B** |
 | Wind Ranger | **Archer** | 1 | pasywka zwiększająca obrażenia skilli Archery |
 
-**Łącznie potwierdzone wydane punkty:** 3
+**Łącznie potwierdzone wydane punkty:** 4
 
-## Punkt czekający na potwierdzenie wydania
+## Dwa wolne punkty — rekomendacja (jeszcze NIE wydane)
 
-**Rekomendacja:** następny punkt dać w **Rapid Shot**, czyli przejść z **1/5 → 2/5**.
+Użytkownik potwierdził wydanie poprzedniego punktu w **Rapid Shot**, dlatego stan potwierdzony to **Rapid Shot 2 / Tumble 1 / Archer 1 = 4 wydane punkty**. Następnie zgłosił **2 kolejne wolne punkty**.
 
-Nie zapisujemy go jeszcze jako wydanego, dopóki użytkownik nie potwierdzi, że faktycznie kliknął Rapid Shot.
+**Proponowany podział 2 nowych punktów:**
 
-Po potwierdzeniu stan ma wyglądać:
+1. **Multi Shot 0 → 1 (Wind Ranger)** — nowy tymczasowy atak obszarowy na **LT**. Strzela wachlarzem przed bohaterem, nie uderza dookoła; gdy dostępne będzie **Gale** (obrażenia wokół + odrzut), rozważamy zamianę. Multi Shot jest umiejętnością kolejnego progu, który powinien już być dostępny przy 4 punktach w Wind Ranger.
+2. **Leaf Wind 0 → 1 (Druid)** — aktywne leczenie w czasie na **RB**. Pierwszy poziom regeneruje według danych 1.52 około 6% max HP/s przez 5,8 s; wartości w wersji 1.61 sprawdzić w grze.
 
-- Rapid Shot **2**
-- Tumble **1**
-- Archer **1**
-- łącznie wydane **4 punkty**
-- wolne punkty **0**
+**Potwierdzenie wymagane:** nie wpisuj Multi Shot ani Leaf Wind jako wyuczonych, dopóki gracz nie potwierdzi wydania punktów. Po potwierdzeniu stan: Rapid Shot 2, Tumble 1, Archer 1, Multi Shot 1, Leaf Wind 1, łącznie 6 wydanych, 0 wolnych.
+
+Priorytet Hardcore: LT do odpierania grup, RB do leczenia; na B nadal Tumble, RT Rapid Shot, Y/LB wolne.
 
 ## Pad — potwierdzone przypisania i plan
 
@@ -39,8 +38,8 @@ Po potwierdzeniu stan ma wyglądać:
 |---|---|---|
 | **RT** | **Rapid Shot** — podstawowy atak z łuku | **Potwierdzone przypisanie** |
 | **B** | **Tumble** — przewrót / unik | **Potwierdzone przypisanie** |
-| **LT** | **atak obszarowy na wrogów, którzy otoczą postać**; najlepiej także odrzut lub kontrola tłumu | **Życzenie — nie wybrano jeszcze skilla ani nie przypisano** |
-| **RB** | **leczenie / odzyskiwanie zdrowia** | **Życzenie — nie wybrano jeszcze skilla ani nie przypisano** |
+| **LT** | cel: atak na grupy; **proponowany Multi Shot 1** teraz, później **Gale** na odrzut | **Rekomendacja, niepotwierdzona** |
+| **RB** | cel: leczenie; **proponowany Leaf Wind 1** z Druida | **Rekomendacja, niepotwierdzona** |
 | **Y** | wolny slot | **Do dyspozycji** |
 | **LB** | wolny slot | **Do dyspozycji** |
 
@@ -83,7 +82,9 @@ Po potwierdzeniu stan ma wyglądać:
 - Potwierdzony wcześniejszy stan: Rapid Shot 1 / Tumble 1 / Archer 1.
 - Użytkownik zgłosił **1 nowy wolny punkt**.
 - Rekomendacja: **Rapid Shot 1 → 2**.
-- Czekamy na potwierdzenie faktycznego wydania punktu.
+- Użytkownik potwierdził wydanie punktu: **Rapid Shot ma 2 punkty**. Wydanych łącznie 4.
+- Nowe zgłoszenie: **2 wolne punkty**.
+- Nowa rekomendacja: **Multi Shot 1 na LT oraz Leaf Wind 1 na RB**. Czekamy na potwierdzenie faktycznego rozdania.
 
 ---
 
