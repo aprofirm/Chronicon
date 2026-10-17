@@ -46,7 +46,7 @@
 
 ## Stan aktualny — 18.10.2026, Lv. 11 / M1 (Blood Curse 4)
 
-**Potwierdzono 11 zwykłych punktów WYDANYCH, 0 WOLNYCH:**
+**Potwierdzono 11 zwykłych punktów WYDANYCH i 1 NOWY WOLNY punkt:**
 - Corruptor: **Blood Curse 4**, Epidemic 1, **Infection 3/3**, Flesh Rot 1 = **9 punktów**.
 - Lich: Soul Warp 1 (przypisanie **B potwierdzone**).
 - Reaper: Soul Eater 1 (umiejętność potwierdzona, rzeczywiste RB nie).
@@ -56,9 +56,9 @@
 
 Najnowszy wcześniejszy screen wersji 1.61 podał wymóg **„Requires 9 points spent to unlock”** dla Bursting Boils. Kupując Blood Curse 4 osiągnęliśmy **9 punktów Corruptor**; zatem **próg inwestycji jest spełniony**, lecz gracz nie pokazał jeszcze ekranu węzła po odblokowaniu.
 
-**Następny NOWY punkt, gdy dostępny:** **Bursting Boils 0→1**. Skill pasywny, bez przypisania do pada. W wersji 1.61 zgodnie ze screenem: **10%** szansy na wyzwolenie obrażeń Infection w promieniu **2.2 m** po trafieniu Poison zakażonego przeciwnika; maks. poziom 20% / 3.6 m. Stare dane 1.52 mówią 12% na pierwszej randze — **najnowszy tooltip 10% ma pierwszeństwo**.
+**BIEŻĄCY NOWY WOLNY punkt — rekomendacja NIEWYKONANA:** **Bursting Boils 0→1**. Skill pasywny, bez przypisania do pada. W wersji 1.61 zgodnie ze screenem: **10%** szansy na wyzwolenie obrażeń Infection w promieniu **2.2 m** po trafieniu Poison zakażonego przeciwnika; maks. poziom 20% / 3.6 m. Stare dane 1.52 mówią 12% na pierwszej randze — **najnowszy tooltip 10% ma pierwszeństwo**.
 
-**Po Bursting Boils** wracamy do rozwoju Contagion / Poison Nova / Outbreak. Nie wpisywać Bursting Boils 1 jako wyuczonego przed potwierdzeniem.
+**Po Bursting Boils** wracamy do rozwoju Contagion / Poison Nova / Outbreak. **Nie wpisywać Bursting Boils 1 jako wyuczonego przed potwierdzeniem od gracza.** Obecnie 11 zwykłych punktów wydanych + 1 wolny, 1 Mastery wydany + 0 wolnych.
 
 **Pad:** RT Blood Curse i LT Flesh Rot planowane, ale niepotwierdzone; RB Soul Eater wyuczone, faktyczne przypisanie niepotwierdzone; **B Soul Warp potwierdzone**.
 
