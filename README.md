@@ -13,19 +13,20 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 ## Aktualna sytuacja
 
 **Ostatnia postać:** Warden — łucznik, zginął w Hardcore 17.10.2026.  
-**Kolejna klasa:** **Warlock** (propozycja zgodna z dotychczasową kolejnością Berserker → Warden).  
+**Aktualna klasa:** **Warlock** — użytkownik potwierdził wybór i rozpoczyna rozgrywkę.  
 **Nowy tryb:** bez Hardcore.  
-**Status nowej postaci:** czekamy na rozpoczęcie i pierwszy screen.
+**Status nowej postaci:** aktywna; czekamy na pierwszy screen wydanych punktów i pada.
 
 ## Najważniejsze pliki
 
-1. **[RUN_TRACKER.md](RUN_TRACKER.md)** — **aktualny przebieg rozgrywki**, zasady rotacji, historia zgonów i następna klasa.
-2. **[WARDEN_PROGRESS.md](WARDEN_PROGRESS.md)** — **archiwum ostatniego Wardena**, faktycznie wydane punkty i konfiguracja pada sprzed śmierci.
-3. **[WARDEN_ALL_TREES.md](WARDEN_ALL_TREES.md)** — cztery specjalizacje Wardena + Mastery (dane robocze).
-4. **[WIND_RANGER_SKILL_TREE.md](WIND_RANGER_SKILL_TREE.md)** — drzewko Wind Ranger (dane robocze).
-5. **[WARDEN_HARDCORE_ARCHER.md](WARDEN_HARDCORE_ARCHER.md)** — archiwalny plan High Ranger / Rapid Shot / Bleed.
+1. **[RUN_TRACKER.md](RUN_TRACKER.md)** — zasady rozgrywki i rotacja klas.
+2. **[WARLOCK_PROGRESS.md](WARLOCK_PROGRESS.md)** — **aktualna karta Warlocka** (faktyczne punkty, skille, pad, ekwipunek; aktualizować po każdej zmianie).
+3. **[WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md)** — komplet czterech drzewek Warlocka na bazie ChroniconDB 1.52: Corruptor, Lich, Demonologist, Reaper; notatki Mastery. Aktualizować w razie różnic z 1.61.
+4. **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)** — plan Poison Corruptor / Infection / Poison Nova z Reaper i Lich (najbliższe punkty, pad, statystyki).
+5. **[WARDEN_PROGRESS.md](WARDEN_PROGRESS.md)** — archiwum zmarłego Wardena.
+6. **[WARDEN_ALL_TREES.md](WARDEN_ALL_TREES.md)**, **[WIND_RANGER_SKILL_TREE.md](WIND_RANGER_SKILL_TREE.md)**, **[WARDEN_HARDCORE_ARCHER.md](WARDEN_HARDCORE_ARCHER.md)** — archiwum Warden.
 
-Po wybraniu Warlocka tworzymy oddzielny plik **WARLOCK_PROGRESS.md** i projektujemy build od nowa. **Nie przypisujemy domyślnie żadnych skilli ani punktów**, dopóki gracz ich nie potwierdzi.
+**Zasada:** rekomendowany punkt ≠ wydany punkt. Ustalamy rzeczywiste wartości z gry i aktualizujemy repo po potwierdzeniu.
 
 ## Historia klas
 
@@ -33,7 +34,7 @@ Po wybraniu Warlocka tworzymy oddzielny plik **WARLOCK_PROGRESS.md** i projektuj
 |---:|---|---|---|
 | 1 | Berserker | Zginął | Hardcore |
 | 2 | Warden | Zginął 17.10.2026 | Hardcore |
-| 3 | Warlock | Następny do rozpoczęcia | Bez Hardcore |
+| 3 | Warlock | **Aktywny, rozpoczęta rozgrywka** | Bez Hardcore |
 
 ---
 
