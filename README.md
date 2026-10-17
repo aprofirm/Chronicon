@@ -17,18 +17,19 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 **Tryb:** Hardcore  
 **Broń:** łuk  
 **Główne drzewko:** Wind Ranger / Physical  
-**Docelowy build:** High Ranger / Rapid Shot / Splinters / Razor Tips (Bleed)  
+**Docelowy build:** High Ranger / Rapid Shot / Splinter / Double Draw / Razor Tips (Bleed)  
 **Etap:** kampania / rozwój postaci
 
 ## Pliki prowadzące postać
 
-Przy decyzjach korzystamy z nich w tej kolejności:
+Przy każdej decyzji korzystamy z nich w tej kolejności:
 
-1. **[WARDEN_PROGRESS.md](WARDEN_PROGRESS.md)** — rzeczywisty aktualny stan: poziom, wolne punkty, wydane punkty i przypisanie do pada.
-2. **[WIND_RANGER_SKILL_TREE.md](WIND_RANGER_SKILL_TREE.md)** — lokalna mapa/mechanika drzewka łucznika. Aktualizujemy ją ze screenów wersji 1.61, żeby przy zwykłych awansach nie szukać ponownie układu w internecie.
-3. **[WARDEN_HARDCORE_ARCHER.md](WARDEN_HARDCORE_ARCHER.md)** — plan buildu High Ranger / Rapid Shot / Bleed, priorytety punktów, mastery, ekwipunek i endgame.
+1. **[WARDEN_PROGRESS.md](WARDEN_PROGRESS.md)** — jedyne źródło prawdy o rzeczywistym stanie: wolne punkty, wydane punkty, skille, pad i ważne zmiany bohatera. Aktualizujemy po każdej zmianie.
+2. **[WARDEN_ALL_TREES.md](WARDEN_ALL_TREES.md)** — wszystkie cztery specjalizacje Wardena (**Wind Ranger, Druid, Storm Caller, Winter Herald**) oraz piąta zakładka **Mastery**; opis opcji także poza głównym drzewkiem.
+3. **[WIND_RANGER_SKILL_TREE.md](WIND_RANGER_SKILL_TREE.md)** — szczegółowa lokalna notatka głównego drzewka łucznika.
+4. **[WARDEN_HARDCORE_ARCHER.md](WARDEN_HARDCORE_ARCHER.md)** — docelowy plan buildu High Ranger / Rapid Shot / Bleed, priorytety punktów, Mastery, ekwipunek i endgame.
 
-**Zasada wersji:** screen z naszej aktualnej gry ma pierwszeństwo przed starszymi danymi z internetu. Jeśli zobaczymy różnicę, poprawiamy repo.
+**Zasada wersji:** gramy na 1.61.x. Screen z naszej aktualnej gry ma pierwszeństwo przed starszymi danymi z internetu. Jeśli zobaczymy różnicę, poprawiamy repo.
 
 ## Historia postaci
 
@@ -39,7 +40,9 @@ Przy decyzjach korzystamy z nich w tej kolejności:
 
 ## Sposób pracy podczas sesji
 
-Przy screenie drzewka wskazujemy konkretnie, gdzie idzie następny punkt. Przy screenie ekwipunku decyzja ma być jednoznaczna: **zakładamy / zachowujemy / sprzedajemy**. Ważne przełomy i zmiany buildu dopisujemy do repo.
+Przy screenie drzewka wskazujemy konkretnie, gdzie idzie następny punkt. Przy screenie ekwipunku decyzja ma być jednoznaczna: **zakładamy / zachowujemy / sprzedajemy**.
+
+Po każdej faktycznie wykonanej zmianie aktualizujemy `WARDEN_PROGRESS.md`. Rekomendacja nie jest traktowana jako wykonana, dopóki użytkownik jej nie potwierdzi albo nie pokaże screena.
 
 ---
 
