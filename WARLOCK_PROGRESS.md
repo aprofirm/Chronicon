@@ -4,8 +4,9 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** **5** — potwierdzony zdjęciem ekwipunku 17.10.2026.  
-**Wolne Skill Points:** **1 NOWY** — użytkownik 18.10.2026 potwierdził Soul Eater 1 i zgłosił kolejny punkt.  
-**Wydane Skill Points:** **8** — Corruptor: Blood Curse 3, Epidemic 1, Infection 1, Flesh Rot 1; Lich: Soul Warp 1; Reaper: Soul Eater 1 (najnowsze potwierdzenie 18.10.2026).  
+**Wolne Skill Points:** **0** — Infection 1 → 2 potwierdzone przez użytkownika 18.10.2026.  
+**Wydane Skill Points:** **9** — Corruptor: Blood Curse 3, Epidemic 1, Infection 2, Flesh Rot 1; Lich: Soul Warp 1; Reaper: Soul Eater 1 (najnowsze potwierdzenie 18.10.2026).  
+**Mastery Points:** **1 wolny, 0 potwierdzonych wydanych** — użytkownik zgłosił pierwszy punkt Mastery; czekamy na zrzut piątej zakładki z widocznymi polami.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
@@ -15,14 +16,14 @@
 |---|---|---:|---|
 | **Corruptor** | **Blood Curse** | **3** | główny atak Poison, AoE + DoT; proponowany na RT, przypisanie niepotwierdzone |
 | **Corruptor** | **Epidemic** | **1** | pasywka zwiększająca Attack Speed, działa bez przycisku |
-| **Corruptor** | **Infection** | **1** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
+| **Corruptor** | **Infection** | **2** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
 | **Corruptor** | **Flesh Rot** | **1** | aktywna klątwa Poison na grupy, obrażenia w czasie; proponowane LT, przypisanie niepotwierdzone |
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 | **Reaper** | **Soul Eater** | **1** | leczenie zużywające duszę; **punkt potwierdzony, przypisanie do RB niepotwierdzone** |
 
-**Razem potwierdzono: 8 wydanych punktów i 1 NOWY wolny.** Gracz potwierdził wydanie punktu na **Soul Eater 1 (Reaper)**, po czym zgłosił kolejny wolny punkt. Ostatni poziom potwierdzony ekranem: **Lv. 5**; obecnego poziomu nie ustalono. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
+**Razem potwierdzono: 9 wydanych Skill Points i 0 wolnych oraz osobno 1 wolny Mastery Point.** Użytkownik potwierdził właśnie wydanie punktu w **Infection 1 → 2** i zgłosił 1 Mastery Point. Ostatni poziom potwierdzony ekranem: **Lv. 5**; obecnego poziomu nie ustalono. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
-## Projekt buildu — 8 punktów potwierdzonych
+## Projekt buildu — 9 punktów potwierdzonych
 
 **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)**: główne drzewko **Corruptor Poison**; **Blood Curse → Infection → efekty szerzenia zarazy → Poison Nova + Outbreak**. Wsparcie **Reaper (Soul Eater), Lich (Soul Warp), Demonologist (Demon Skin)**. Wszystkie cztery drzewka i Mastery w [WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md).
 
@@ -39,15 +40,17 @@
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
 
-## NAJNOWSZY STAN I 1 WOLNY PUNKT — 18.10.2026
+## NAJNOWSZY STAN — Infection 2 i pierwszy wolny Mastery Point (18.10.2026)
 
-**POTWIERDZONE:** gracz wydał poprzedni punkt na **Soul Eater 0 → 1 (Reaper)**. Nie potwierdził jeszcze przypisania go na **RB** — tego nie oznaczamy jako wykonanego. **B = Soul Warp** potwierdzone wcześniej.
+**POTWIERDZONE:** gracz wydał ostatni zwykły punkt na **Infection 1 → 2 (Corruptor)**, zgodnie z rekomendacją.
 
-**Bieżąca alokacja:** Corruptor: Blood Curse 3 / Epidemic 1 / Infection 1 / Flesh Rot 1 (6 punktów); Lich: Soul Warp 1; Reaper: Soul Eater 1. **Razem 8 wydanych, 1 nowy wolny.**
+**Bieżąca alokacja Skill Points:** Corruptor: Blood Curse 3, Epidemic 1, Infection **2**, Flesh Rot 1 (**7**); Lich: Soul Warp 1 (**1**); Reaper: Soul Eater 1 (**1**). **Razem 9 wydanych, 0 wolnych.**
 
-**Rekomendacja na ten NOWY punkt — JESZCZE NIEWYDANY: Infection 1 → 2 (Corruptor).** W danych ChroniconDB 1.52 wzmacnia obrażenia DoT dodawane przez wszystkie Poison skills (35%→40% obrażeń umiejętności na sekundę). Wspiera jednocześnie Blood Curse i Flesh Rot oraz zwiększa liczbę punktów w Corruptor z 6 do 7, w kierunku otwarcia Bursting Boils i następnych kolumn. Użytkownik ma porównać aktualny tooltip w grze 1.61. **Nie zapisywać Infection 2 jako wydanego do czasu potwierdzenia.**
+**NOWE:** gracz ma **1 wolny Mastery Point**. Wydanie Mastery **jeszcze niepotwierdzone**, 0 wydanych Mastery odnotowanych. **Nie mieszać Mastery Points ze Skill Points**.
 
-**Plan sterowania (nie mylić z potwierdzeniem):** RT Blood Curse, LT Flesh Rot, **B Soul Warp potwierdzone**, RB Soul Eater wyuczony — przypisanie do RB jeszcze do potwierdzenia.
+**Cel Mastery:** kierunek **Corruptor / Poison / Infection**, a dalsze korzystne priorytety: Poison Damage, Corruptor Focus, zwiększenie obrażeń Infection, Attack Speed, Max Health lub defensywa. **Prosić o screen piątej zakładki Mastery przed rekomendacją konkretnego pierwszego pola**; geometria i warianty pól Mastery nie są zapisane w bazie 1.52. Nie wpisywać konkretnej wydanej Mastery bez potwierdzenia.
+
+**Kontroler:** Soul Warp na B potwierdzone; RB Soul Eater wyuczony, ale przypisanie niepotwierdzone; RT/LT również jeszcze bez potwierdzenia.
 
 ## Aktualny stan — Soul Warp 1 POTWIERDZONY (18.10.2026)
 
@@ -88,6 +91,8 @@
 ## Dziennik zmian
 
 ### 18.10.2026
+- **POTWIERDZONE:** Infection **1 → 2 (Corruptor)**, razem **9 Skill Points wydanych / 0 wolnych**. Gracz zgłosił **1 wolny Mastery Point / 0 potwierdzonych wydanych Mastery**. Wymagany screen zakładki Mastery, zanim wskażemy konkretne pole, preferowany kierunek Corruptor/Poison/Infection.
+
 - **NAJNOWSZE:** użytkownik potwierdził wydanie punktu na **Soul Eater 1 (Reaper)** i poinformował o **1 nowym wolnym punkcie**. Bilans **8 wydanych / 1 wolny**. Wskazano **Infection 1→2 (Corruptor)** jako następne ulepszenie; **jeszcze nie wydano**. Przypisanie Soul Eater do RB niepotwierdzone.
 
 - **Nowy wolny punkt:** użytkownik zgłosił 1 punkt. Zalecenie **Soul Eater 1 (Reaper)** na **RB**, ręczne leczenie. **Niepotwierdzone wydanie i przypisanie**; stan 7 wydanych / 1 wolny.
