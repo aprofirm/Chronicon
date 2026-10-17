@@ -4,7 +4,7 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** jeszcze niezgłoszony.  
-**Wolne Skill Points:** **0** po potwierdzonym wydaniu obu ostatnio zgłoszonych punktów (o ile nie pojawiły się kolejne).  
+**Wolne Skill Points:** **2** — kolejne punkty zgłoszone 17.10.2026; rekomendacja poniżej, jeszcze nie wydane.  
 **Wydane Skill Points:** **2 punkty potwierdzone** przez użytkownika: Blood Curse 1, Epidemic 1 (Corruptor). Inne wcześniejsze punkty nie były zgłaszane.  
 **Ekwipunek:** brak potwierdzonych szczegółów.  
 **Wersja gry:** ~1.61.x.
@@ -35,6 +35,15 @@
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
 
+## Dwa NOWE wolne punkty — REKOMENDACJA, NIE WYDANE
+
+Użytkownik zgłosił następne **2 wolne punkty** po potwierdzonym Blood Curse 1 + Epidemic 1. Zalecenie:
+
+- **Blood Curse 1 → 3** — **oba nowe punkty** w bazowy AoE Poison/DoT na RT (przypisanie RT jeszcze niepotwierdzone). Według danych ChroniconDB 1.52: obrażenia 115%→125% i zasięg 2.10→2.30 metra.
+- **Epidemic zostaje 1** — pierwszy punkt daje w 1.52 +7% Attack Speed, dalszy punkt to relatywnie tylko +2 pkt proc.
+- Po faktycznym wydaniu byłoby **4 punkty Corruptor łącznie**; następny próg z Infection według historycznych reguł odblokowuje się po inwestycji 4 punktów w skille z lewej strony. **Weryfikować w aktualnej grze 1.61**.
+- **NIE oznaczać wydania aż gracz potwierdzi**. Po potwierdzeniu: Blood Curse 3, Epidemic 1, 4 wydane, 0 wolnych.
+
 ## Ostatnie rozdanie — WYKONANE
 
 **Potwierdzenie użytkownika:** oba rekomendowane punkty zostały wydane:
@@ -48,6 +57,8 @@
 ## Dziennik zmian
 
 ### 17.10.2026
+
+- **NOWE zgłoszenie:** 2 wolne punkty. **Rekomendacja (niewykonana): oba w Blood Curse 1→3**, Epidemic zostaje 1, co ma doprowadzić do progu Infection. Przed potwierdzeniem nadal **2 wydane / 2 wolne**.
 
 - **POTWIERDZONE:** użytkownik wydał oba punkty zgodnie z rekomendacją: **Blood Curse 1 + Epidemic 1** w Corruptor. Odnotowano **2 wydane / 0 pozostałych z tych 2**, przypisanie RT do potwierdzenia.
 - Użytkownik zgłosił **2 wolne punkty** u nowego Warlocka.
