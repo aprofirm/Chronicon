@@ -6,7 +6,7 @@
 **Poziom:** **10**, **Mastery Rank 1 (M1)** — potwierdzone nowym screenshotem zakładki Mastery 18.10.2026.  
 **Wolne Skill Points:** **0** — Infection 1 → 2 potwierdzone przez użytkownika 18.10.2026.  
 **Wydane Skill Points:** **9** — Corruptor: Blood Curse 3, Epidemic 1, Infection 2, Flesh Rot 1; Lich: Soul Warp 1; Reaper: Soul Eater 1 (najnowsze potwierdzenie 18.10.2026).  
-**Mastery Points:** **1 wolny, 0 potwierdzonych wydanych** — ekran Mastery potwierdza 'Mastery Points: 1' i M1. Wybór konkretnej umiejętności w slocie jeszcze niepotwierdzony.  
+**Mastery Points:** **1 wolny, 0 potwierdzonych wydanych** — gracz otworzył menu pięciu premii pierwszego pola Mastery (Corruptor). Czekamy na tooltip wybranej opcji, bez potwierdzonego wydania.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
@@ -39,6 +39,14 @@
 | LB | Ritual of Souls / buff | niepotwierdzone |
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
+
+## Pierwsze pole Mastery — otwarto menu pięciu opcji (18.10.2026)
+
+**Na nowym zdjęciu:** otwarto "Pick a skill" dla pierwszego okrągłego pola (pierwszy wiersz Corruptor). Widać **pięć ikon** od lewej: czerwono-pomarańczowa postać, fioletowa postać, **zielona czaszka (trzecia)**, błękitna kula, białoróżowe ukośne linie. Brak widocznych nazw i tooltipów. Ramka podświetla **piątą opcję**, ale to nie oznacza potwierdzonego wybrania skilla.
+
+**Prośba do gracza:** zaznaczyć **trzecią, zieloną czaszkę** i pokazać opis bez wydawania punktu. Sprawdzić, czy jest to bonus do Poison/Infection; nie identyfikować skilla wyłącznie na podstawie ikony. Znane z wcześniejszych wersji istotne Mastery to m.in. Infectious Blood i Corruptor Focus, ale nazwy i efekty tego konkretnie wyboru nie są na zdjęciu.
+
+**Stan Mastery pozostaje 1 wolny / 0 wydanych.** Brak decyzji o przypisaniu.
 
 ## Ekran Mastery — Lv. 10, M1 (18.10.2026)
 
@@ -101,6 +109,8 @@
 ## Dziennik zmian
 
 ### 18.10.2026
+- **SCREEN MENU MASTERY:** gracz otworzył 5 opcji pierwszego slotu Corruptor; nazwy i efekty niewidoczne. Zalecenie najpierw obejrzeć tooltip trzeciej ikony (zielona czaszka) pod kątem Poison/Infection. **1 punkt Mastery nadal wolny, 0 wydanych.**
+
 - **Nowy screenshot Mastery:** poziom postaci **10, M1**, **1 Mastery Point**. Pierwszy '+' Corruptor (górny wiersz) jest pusty, gra oferuje **A**, aby otworzyć wybór premii. Zalecono zobaczyć opcje i dopiero wtedy wybrać. **Punkt Mastery nadal nie wydany**.
 
 - **POTWIERDZONE:** Infection **1 → 2 (Corruptor)**, razem **9 Skill Points wydanych / 0 wolnych**. Gracz zgłosił **1 wolny Mastery Point / 0 potwierdzonych wydanych Mastery**. Wymagany screen zakładki Mastery, zanim wskażemy konkretne pole, preferowany kierunek Corruptor/Poison/Infection.
