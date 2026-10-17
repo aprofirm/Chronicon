@@ -1,0 +1,2409 @@
+{
+  "title": "Chronicon Warlock — Mastery choice index, seven rows",
+  "description_pl": "Archiwalny katalog przypisania opcji do komórek Mastery. Nie jest zweryfikowaną listą 1.61. Sprawdzaj aktualne tooltipy.",
+  "source_export": "https://github.com/MidwestSteeze/ChroniCalc/blob/master/ChroniCalc/Assets/Data/convertjson.xml",
+  "source_code_for_shared_options": "https://github.com/MidwestSteeze/ChroniCalc/blob/master/ChroniCalc/MainForm.cs",
+  "current_game_version": "1.61.x (niezależne obserwacje gracza)",
+  "source_version": "archiwalny eksport ChroniCalc, nie tożsamy z 1.61",
+  "updated_at": "2026-10-18",
+  "rows": [
+    {
+      "row": 1,
+      "name": "Corruptor / Poison"
+    },
+    {
+      "row": 2,
+      "name": "Lich / Frost"
+    },
+    {
+      "row": 3,
+      "name": "Class Mastery I (ogólne)"
+    },
+    {
+      "row": 4,
+      "name": "Class Mastery II (ogólne)"
+    },
+    {
+      "row": 5,
+      "name": "Class Mastery III (ogólne)"
+    },
+    {
+      "row": 6,
+      "name": "Demonologist / Fire"
+    },
+    {
+      "row": 7,
+      "name": "Reaper / Shadow"
+    }
+  ],
+  "slots": [
+    {
+      "slot": "R1-K1",
+      "row": 1,
+      "column": 1,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100031,
+          "name": "Assault",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100028,
+          "name": "Hardened Companions",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100027,
+          "name": "Strengthened Companions",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100024,
+          "name": "Poison Damage",
+          "max_rank": "20",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R1-K2",
+      "row": 1,
+      "column": 2,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100101,
+          "name": "Taint",
+          "max_rank": "15",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100102,
+          "name": "Sickness",
+          "max_rank": "15",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100103,
+          "name": "Contamination",
+          "max_rank": "15",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R1-K3",
+      "row": 1,
+      "column": 3,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100114,
+          "name": "Fever",
+          "max_rank": "1",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100113,
+          "name": "Panic",
+          "max_rank": "1",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R1-K4",
+      "row": 1,
+      "column": 4,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100122,
+          "name": "Foul Resistance",
+          "max_rank": "5",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100121,
+          "name": "Enveloping Fumes",
+          "max_rank": "5",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R1-K5",
+      "row": 1,
+      "column": 5,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100130,
+          "name": "Carriers",
+          "max_rank": "1",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100131,
+          "name": "Leech Life",
+          "max_rank": "1",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100129,
+          "name": "Unholy Creation",
+          "max_rank": "1",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100341,
+          "name": "True Master",
+          "max_rank": "1",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R1-K6",
+      "row": 1,
+      "column": 6,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100142,
+          "name": "Infused Blood",
+          "max_rank": "25",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100345,
+          "name": "Infectious Blood",
+          "max_rank": "25",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100141,
+          "name": "Infectious Disease",
+          "max_rank": "25",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R1-K7",
+      "row": 1,
+      "column": 7,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100149,
+          "name": "Mutations",
+          "max_rank": "1",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100150,
+          "name": "Cursed and Defiled",
+          "max_rank": "1",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100350,
+          "name": "Plague Doctor",
+          "max_rank": "1",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R1-K8",
+      "row": 1,
+      "column": 8,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100354,
+          "name": "Corruptor Focus",
+          "max_rank": "25",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100158,
+          "name": "Spirit of Torment Synergy",
+          "max_rank": "25",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100295,
+          "name": "Wide Synergy",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R1-K9",
+      "row": 1,
+      "column": 9,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100100,
+          "name": "Ultimate Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100339,
+          "name": "Companion Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100358,
+          "name": "Ritual Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100094,
+          "name": "Poison Affinity",
+          "max_rank": "1",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R2-K1",
+      "row": 2,
+      "column": 1,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100021,
+          "name": "Frost Damage",
+          "max_rank": "20",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100029,
+          "name": "Wide Reach",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100028,
+          "name": "Hardened Companions",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100027,
+          "name": "Strengthened Companions",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R2-K2",
+      "row": 2,
+      "column": 2,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100105,
+          "name": "Haunted",
+          "max_rank": "15",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100104,
+          "name": "Death Chill",
+          "max_rank": "15",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100106,
+          "name": "Frozen Soul",
+          "max_rank": "15",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R2-K3",
+      "row": 2,
+      "column": 3,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100116,
+          "name": "Chilling Haunts",
+          "max_rank": "1",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100115,
+          "name": "Ice Shield",
+          "max_rank": "1",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R2-K4",
+      "row": 2,
+      "column": 4,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100123,
+          "name": "Entombed",
+          "max_rank": "5",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100124,
+          "name": "Thawed Reserves",
+          "max_rank": "5",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R2-K5",
+      "row": 2,
+      "column": 5,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100133,
+          "name": "Empowered Summons",
+          "max_rank": "1",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100132,
+          "name": "Ritualistic Occultism",
+          "max_rank": "1",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100134,
+          "name": "Clear Chants",
+          "max_rank": "1",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100342,
+          "name": "Soul Jars",
+          "max_rank": "1",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R2-K6",
+      "row": 2,
+      "column": 6,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100347,
+          "name": "Ice Gibs",
+          "max_rank": "25",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100143,
+          "name": "Freezing Death",
+          "max_rank": "25",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100144,
+          "name": "Angered Spirits",
+          "max_rank": "25",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100346,
+          "name": "Cold Torment",
+          "max_rank": "25",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R2-K7",
+      "row": 2,
+      "column": 7,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100351,
+          "name": "Lich Heart",
+          "max_rank": "1",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100152,
+          "name": "Ghastly Grasp",
+          "max_rank": "1",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R2-K8",
+      "row": 2,
+      "column": 8,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100355,
+          "name": "Lich Focus",
+          "max_rank": "25",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100159,
+          "name": "Combustion Synergy",
+          "max_rank": "25",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100295,
+          "name": "Wide Synergy",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R2-K9",
+      "row": 2,
+      "column": 9,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100096,
+          "name": "Frost Affinity",
+          "max_rank": "1",
+          "element": "Frost",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100100,
+          "name": "Ultimate Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100339,
+          "name": "Companion Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100358,
+          "name": "Ritual Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R3-K1",
+      "row": 3,
+      "column": 1,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100400,
+          "name": "Damage",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100401,
+          "name": "Health",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100402,
+          "name": "Mana",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100403,
+          "name": "Thorns",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R3-K2",
+      "row": 3,
+      "column": 2,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100404,
+          "name": "Vitality",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100405,
+          "name": "Magicka",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100406,
+          "name": "Pickup Radius",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100421,
+          "name": "Improved Rituals",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100407,
+          "name": "Pickup Strength",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R3-K3",
+      "row": 3,
+      "column": 3,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100427,
+          "name": "Lightfooted",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100428,
+          "name": "Satellitist",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100426,
+          "name": "Nimble",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100429,
+          "name": "Crafty",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100281,
+          "name": "Commander",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100425,
+          "name": "Anchored",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100423,
+          "name": "Alchemist",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100424,
+          "name": "Mixologist",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100422,
+          "name": "Golden Touch",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R3-K4",
+      "row": 3,
+      "column": 4,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100434,
+          "name": "Mobility",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100433,
+          "name": "Aggression",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100432,
+          "name": "Lasting Effects",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100431,
+          "name": "Far Reach",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100435,
+          "name": "Calm Mind",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R3-K5",
+      "row": 3,
+      "column": 5,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100439,
+          "name": "Hearty",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100441,
+          "name": "Challenger",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100440,
+          "name": "Willpower",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100437,
+          "name": "Mana Leech",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100436,
+          "name": "Health Leech",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100438,
+          "name": "Improved Potions",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R3-K6",
+      "row": 3,
+      "column": 6,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100444,
+          "name": "Bling",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100442,
+          "name": "Fortress",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100443,
+          "name": "Elusive",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100461,
+          "name": "Ruthless Fiends",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100445,
+          "name": "Tough Companions",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100460,
+          "name": "Master of Souls",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100463,
+          "name": "Blood Feast",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100464,
+          "name": "Soul Prison",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100462,
+          "name": "Extra Spooky Candles",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R3-K7",
+      "row": 3,
+      "column": 7,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100466,
+          "name": "Overpower",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100465,
+          "name": "Resist All",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100467,
+          "name": "Critical Hit Damage",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R3-K8",
+      "row": 3,
+      "column": 8,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100475,
+          "name": "Elemental Power",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100482,
+          "name": "Companion Damage Reduction",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100481,
+          "name": "Crystals Found",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100480,
+          "name": "Experience Gain",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100477,
+          "name": "Satellite Damage",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100479,
+          "name": "Bleed Damage",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R3-K9",
+      "row": 3,
+      "column": 9,
+      "slot_type": "diamond_perk",
+      "choices": [],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R4-K1",
+      "row": 4,
+      "column": 1,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100400,
+          "name": "Damage",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100401,
+          "name": "Health",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100402,
+          "name": "Mana",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100403,
+          "name": "Thorns",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R4-K2",
+      "row": 4,
+      "column": 2,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100404,
+          "name": "Vitality",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100405,
+          "name": "Magicka",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100406,
+          "name": "Pickup Radius",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100421,
+          "name": "Improved Rituals",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100407,
+          "name": "Pickup Strength",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R4-K3",
+      "row": 4,
+      "column": 3,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100427,
+          "name": "Lightfooted",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100428,
+          "name": "Satellitist",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100426,
+          "name": "Nimble",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100429,
+          "name": "Crafty",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100281,
+          "name": "Commander",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100425,
+          "name": "Anchored",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100423,
+          "name": "Alchemist",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100424,
+          "name": "Mixologist",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100422,
+          "name": "Golden Touch",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R4-K4",
+      "row": 4,
+      "column": 4,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100434,
+          "name": "Mobility",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100433,
+          "name": "Aggression",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100432,
+          "name": "Lasting Effects",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100431,
+          "name": "Far Reach",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100435,
+          "name": "Calm Mind",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R4-K5",
+      "row": 4,
+      "column": 5,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100439,
+          "name": "Hearty",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100441,
+          "name": "Challenger",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100440,
+          "name": "Willpower",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100437,
+          "name": "Mana Leech",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100436,
+          "name": "Health Leech",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100438,
+          "name": "Improved Potions",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R4-K6",
+      "row": 4,
+      "column": 6,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100444,
+          "name": "Bling",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100442,
+          "name": "Fortress",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100443,
+          "name": "Elusive",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100461,
+          "name": "Ruthless Fiends",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100445,
+          "name": "Tough Companions",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100460,
+          "name": "Master of Souls",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100463,
+          "name": "Blood Feast",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100464,
+          "name": "Soul Prison",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100462,
+          "name": "Extra Spooky Candles",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R4-K7",
+      "row": 4,
+      "column": 7,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100466,
+          "name": "Overpower",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100465,
+          "name": "Resist All",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100467,
+          "name": "Critical Hit Damage",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R4-K8",
+      "row": 4,
+      "column": 8,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100475,
+          "name": "Elemental Power",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100482,
+          "name": "Companion Damage Reduction",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100481,
+          "name": "Crystals Found",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100480,
+          "name": "Experience Gain",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100477,
+          "name": "Satellite Damage",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100479,
+          "name": "Bleed Damage",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R4-K9",
+      "row": 4,
+      "column": 9,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100498,
+          "name": "Lord Sorcerer",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100496,
+          "name": "Grand Summoner",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100499,
+          "name": "Master Hexer",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100497,
+          "name": "Supreme Occultist",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R5-K1",
+      "row": 5,
+      "column": 1,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100400,
+          "name": "Damage",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100401,
+          "name": "Health",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100402,
+          "name": "Mana",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100403,
+          "name": "Thorns",
+          "max_rank": "infinite",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R5-K2",
+      "row": 5,
+      "column": 2,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100404,
+          "name": "Vitality",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100405,
+          "name": "Magicka",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100406,
+          "name": "Pickup Radius",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100421,
+          "name": "Improved Rituals",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100407,
+          "name": "Pickup Strength",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R5-K3",
+      "row": 5,
+      "column": 3,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100427,
+          "name": "Lightfooted",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100428,
+          "name": "Satellitist",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100426,
+          "name": "Nimble",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100429,
+          "name": "Crafty",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100281,
+          "name": "Commander",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100425,
+          "name": "Anchored",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100423,
+          "name": "Alchemist",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100424,
+          "name": "Mixologist",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100422,
+          "name": "Golden Touch",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R5-K4",
+      "row": 5,
+      "column": 4,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100434,
+          "name": "Mobility",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100433,
+          "name": "Aggression",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100432,
+          "name": "Lasting Effects",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100431,
+          "name": "Far Reach",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100435,
+          "name": "Calm Mind",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R5-K5",
+      "row": 5,
+      "column": 5,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100439,
+          "name": "Hearty",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100441,
+          "name": "Challenger",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100440,
+          "name": "Willpower",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100437,
+          "name": "Mana Leech",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100436,
+          "name": "Health Leech",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100438,
+          "name": "Improved Potions",
+          "max_rank": "10",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R5-K6",
+      "row": 5,
+      "column": 6,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100444,
+          "name": "Bling",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100442,
+          "name": "Fortress",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100443,
+          "name": "Elusive",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100461,
+          "name": "Ruthless Fiends",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100445,
+          "name": "Tough Companions",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100460,
+          "name": "Master of Souls",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100463,
+          "name": "Blood Feast",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100464,
+          "name": "Soul Prison",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100462,
+          "name": "Extra Spooky Candles",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R5-K7",
+      "row": 5,
+      "column": 7,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100466,
+          "name": "Overpower",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100465,
+          "name": "Resist All",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100467,
+          "name": "Critical Hit Damage",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R5-K8",
+      "row": 5,
+      "column": 8,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100475,
+          "name": "Elemental Power",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100482,
+          "name": "Companion Damage Reduction",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100481,
+          "name": "Crystals Found",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100480,
+          "name": "Experience Gain",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100477,
+          "name": "Satellite Damage",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100479,
+          "name": "Bleed Damage",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R5-K9",
+      "row": 5,
+      "column": 9,
+      "slot_type": "diamond_perk",
+      "choices": [],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R6-K1",
+      "row": 6,
+      "column": 1,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100032,
+          "name": "Shattering Hits",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100023,
+          "name": "Fire Damage",
+          "max_rank": "20",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100028,
+          "name": "Hardened Companions",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100027,
+          "name": "Strengthened Companions",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R6-K2",
+      "row": 6,
+      "column": 2,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100107,
+          "name": "Incendiary Spells",
+          "max_rank": "15",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100108,
+          "name": "Inner Demons",
+          "max_rank": "15",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R6-K3",
+      "row": 6,
+      "column": 3,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100117,
+          "name": "Widespread Inferno",
+          "max_rank": "1",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100118,
+          "name": "Rapid Combustion",
+          "max_rank": "1",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R6-K4",
+      "row": 6,
+      "column": 4,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100126,
+          "name": "Demon Vigor",
+          "max_rank": "5",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100125,
+          "name": "Demon Scales",
+          "max_rank": "5",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R6-K5",
+      "row": 6,
+      "column": 5,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100136,
+          "name": "Grappling Imps",
+          "max_rank": "1",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100137,
+          "name": "Diabolic Essence",
+          "max_rank": "1",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100135,
+          "name": "Angry Little Demons",
+          "max_rank": "1",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100343,
+          "name": "Unholy Rites",
+          "max_rank": "1",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R6-K6",
+      "row": 6,
+      "column": 6,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100146,
+          "name": "Pyromaniac",
+          "max_rank": "25",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100145,
+          "name": "Blast Wave",
+          "max_rank": "25",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R6-K7",
+      "row": 6,
+      "column": 7,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100153,
+          "name": "Soulflame",
+          "max_rank": "1",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100154,
+          "name": "Concealed In Flames",
+          "max_rank": "1",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100352,
+          "name": "Demonic Sorcery",
+          "max_rank": "1",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R6-K8",
+      "row": 6,
+      "column": 8,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100356,
+          "name": "Demonologist Focus",
+          "max_rank": "25",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100160,
+          "name": "Desecration Synergy",
+          "max_rank": "25",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100295,
+          "name": "Wide Synergy",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R6-K9",
+      "row": 6,
+      "column": 9,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100097,
+          "name": "Fire Affinity",
+          "max_rank": "1",
+          "element": "Fire",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100100,
+          "name": "Ultimate Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100339,
+          "name": "Companion Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100358,
+          "name": "Ritual Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R7-K1",
+      "row": 7,
+      "column": 1,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100030,
+          "name": "Persistent Effects",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100025,
+          "name": "Shadow Damage",
+          "max_rank": "20",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100028,
+          "name": "Hardened Companions",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100027,
+          "name": "Strengthened Companions",
+          "max_rank": "20",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R7-K2",
+      "row": 7,
+      "column": 2,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100110,
+          "name": "Deathblow",
+          "max_rank": "15",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100111,
+          "name": "Defilement",
+          "max_rank": "15",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R7-K3",
+      "row": 7,
+      "column": 3,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100119,
+          "name": "Agony",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100340,
+          "name": "Alone In The Dark",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100120,
+          "name": "Dark Thorns",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R7-K4",
+      "row": 7,
+      "column": 4,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100127,
+          "name": "Dark Bargain",
+          "max_rank": "5",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100128,
+          "name": "Blood Drinker",
+          "max_rank": "5",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R7-K5",
+      "row": 7,
+      "column": 5,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100139,
+          "name": "Wraith",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100138,
+          "name": "Life Drinker",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100344,
+          "name": "Lingering Essence",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100140,
+          "name": "Necromantic Blessing",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R7-K6",
+      "row": 7,
+      "column": 6,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100349,
+          "name": "Profanation",
+          "max_rank": "25",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100147,
+          "name": "Sorrow",
+          "max_rank": "25",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100148,
+          "name": "Dark Lust",
+          "max_rank": "25",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R7-K7",
+      "row": 7,
+      "column": 7,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100156,
+          "name": "Bone Thorns",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100155,
+          "name": "Strength From Darkness",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100353,
+          "name": "Bone Caster",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100157,
+          "name": "Death Come Near Me",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R7-K8",
+      "row": 7,
+      "column": 8,
+      "slot_type": "round",
+      "choices": [
+        {
+          "id": 100161,
+          "name": "Infection Synergy",
+          "max_rank": "25",
+          "element": "Poison",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100357,
+          "name": "Reaper Focus",
+          "max_rank": "25",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100295,
+          "name": "Wide Synergy",
+          "max_rank": "25",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    },
+    {
+      "slot": "R7-K9",
+      "row": 7,
+      "column": 9,
+      "slot_type": "diamond_perk",
+      "choices": [
+        {
+          "id": 100098,
+          "name": "Shadow Affinity",
+          "max_rank": "1",
+          "element": "Shadow",
+          "source": "chronicalc_export"
+        },
+        {
+          "id": 100100,
+          "name": "Ultimate Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100339,
+          "name": "Companion Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        },
+        {
+          "id": 100358,
+          "name": "Ritual Affinity",
+          "max_rank": "1",
+          "element": "Ethereal",
+          "source": "shared_slot_reconstructed"
+        }
+      ],
+      "evidence": "archival_only"
+    }
+  ],
+  "observed_current_game": {
+    "character": "Korgein",
+    "level": 10,
+    "mastery_level": 1,
+    "available_mastery_points": 1,
+    "first_slot": "R1-K1",
+    "first_slot_options_count": 5,
+    "archival_first_slot_options_count": 4,
+    "description": "Screenshot 18.10.2026: pierwsza pozycja Corruptora pokazuje 5 ikonek, nazwy niezweryfikowane. Nie zakładać, że archiwalne 4 opcje to komplet."
+  },
+  "confirmed_spent_mastery_points": 0
+}
