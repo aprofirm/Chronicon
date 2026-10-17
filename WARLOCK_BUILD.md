@@ -44,7 +44,16 @@
 - **Soul Feast** (Reaper) na później przy sprawnej produkcji dusz.
 - **Zombie / Plague Bearer** z Corruptor — 1 punkt w towarzysza, jeśli zrobi się zbyt ciasno; lepiej nie od razu kosztem kluczowych efektów Poison.
 
-## NAJNOWSZY STAN — Bursting Boils 1 potwierdzony, 1 zwykły punkt wolny (18.10.2026)
+## NAJNOWSZY STAN — Bursting Boils 2 POTWIERDZONE, 1 NOWY zwykły punkt (18.10.2026)
+
+- **13 potwierdzonych zwykłych punktów wydanych, 1 nowy wolny.**
+- **Corruptor (11 punktów):** Blood Curse 4, Epidemic 1, Infection 3/3, Flesh Rot 1, **Bursting Boils 2/3 (POTWIERDZONE)**.
+- **Lich:** Soul Warp 1 — **B (potwierdzone)**. **Reaper:** Soul Eater 1 — przypisanie RB niepotwierdzone.
+- **Mastery:** Poison (zielona czaszka Corruptor R1-K1) **ranga 2**; 2 punkty Mastery wydane, 0 wolnych.
+- **REKOMENDACJA NA AKTUALNY 1 WOLNY PUNKT: Bursting Boils 2→3 (NIE WYDANE).** W tooltipie gry 1.61 maksymalna ranga oznacza **20% szansy** rozlania obrażeń Infection w promieniu **3,6 m**. Po kupieniu 3/3 Corruptor osiągnie **12 punktów**; wtedy sprawdzić odblokowanie **Contagion / Poison Nova**, następnie Outbreak.
+- **Po POTWIERDZONYM wydaniu punktu** bilans wyniesie 14 wydanych / 0 wolnych. Do tego momentu **nie wpisywać** Bursting Boils 3 ani innych planowanych umiejętności jako wykonanych.
+
+## HISTORIA — NAJNOWSZY STAN — Bursting Boils 1 potwierdzony, 1 zwykły punkt wolny (18.10.2026)
 
 **Potwierdzono 12 zwykłych punktów wydanych, 1 nowy wolny:**
 - Corruptor: Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 1/3** (łącznie 10 punktów w Corruptor).
