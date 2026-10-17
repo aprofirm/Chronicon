@@ -5,7 +5,7 @@ Ten plik jest **jedynym źródłem prawdy o aktualnym stanie naszego bohatera**.
 **Tryb:** Hardcore  
 **Postać:** Warden — łucznik  
 **Poziom ostatnio potwierdzony na screenie:** 3  
-**Wolne Skill Points:** minimum 0, maksymalnie 1 z dwóch ostatnio zgłoszonych — drugi punkt niepotwierdzony (wymaga pytania o Leaf Wind)  
+**Wolne Skill Points (najnowsze zgłoszenie):** 1  
 **Główne drzewko:** Wind Ranger / Physical  
 **Docelowy kierunek:** High Ranger / Rapid Shot / Splinter / Double Draw / Razor Tips
 
@@ -17,17 +17,15 @@ Ten plik jest **jedynym źródłem prawdy o aktualnym stanie naszego bohatera**.
 | Wind Ranger | **Tumble** | 1 | mobilność / unik, **B** |
 | Wind Ranger | **Archer** | 1 | pasywka zwiększająca obrażenia skilli Archery |
 | Wind Ranger | **Multi Shot** | 1 | obszarowy wachlarz strzał, **LT** — potwierdzone przypisanie przez gracza |
+| Druid | **Leaf Wind** | 1 | regeneracja zdrowia; cel **RB** (przypisanie niepotwierdzone) |
 
-**Łącznie potwierdzone wydane punkty:** 5
+**Łącznie potwierdzone wydane punkty:** 6
 
-## Ostatni punkt — stan do wyjaśnienia
+## Aktualny wolny punkt
 
-Z dwóch wolnych punktów **Multi Shot 1** jest już potwierdzony przez gracza (ma zostać na **LT**). Drugi punkt miał trafić w **Leaf Wind 1 (Druid)**, ale użytkownik **nie potwierdził dotąd**, czy wydał go i przypisał na **RB**.
+Użytkownik potwierdził, że **wydał drugi z dwóch wcześniejszych punktów w Leaf Wind**. Zapisany stan: **Rapid Shot 2 / Tumble 1 / Archer 1 / Multi Shot 1 / Leaf Wind 1**, łącznie **6 wydanych punktów**. Zgłosił **1 kolejny wolny punkt**.
 
-- **Potwierdzone:** Rapid Shot 2 / Tumble 1 / Archer 1 / Multi Shot 1 = **5 wydanych**.
-- **Do potwierdzenia:** Leaf Wind 1 na RB i saldo punktów; jeżeli nie został wydany, powinien pozostać 1 wolny punkt.
-- **Ostatnio potwierdzone przypisania:** RT Rapid Shot, LT Multi Shot, B Tumble. Y/LB wolne.
-- Następna czynność: zapytać, czy **Leaf Wind jest już wyuczony i przypisany pod RB**. Nie zakładać, że tak.
+**Do rozstrzygnięcia:** gdzie najlepiej wydać nowy punkt; porównać odblokowane w grze progi Wind Ranger, szczególnie **Splinter**, **Overdraw**, **Readiness**, ewentualnie **Gale**, z dostępnymi defensywnymi pasywkami. Nie zaznaczać jako wydany, dopóki użytkownik nie potwierdzi.
 
 ## Pad — potwierdzone przypisania i plan
 
@@ -36,7 +34,7 @@ Z dwóch wolnych punktów **Multi Shot 1** jest już potwierdzony przez gracza (
 | **RT** | **Rapid Shot** — podstawowy atak z łuku | **Potwierdzone przypisanie** |
 | **B** | **Tumble** — przewrót / unik | **Potwierdzone przypisanie** |
 | **LT** | **Multi Shot 1** — atak na grupy przed postacią; ewentualny Gale później | **Potwierdzone przypisanie przez gracza** |
-| **RB** | cel: leczenie; **proponowany Leaf Wind 1** z Druida | **Rekomendacja, niepotwierdzona** |
+| **RB** | **Leaf Wind 1** — wyuczone leczenie, docelowo na RB | **Punkt wydany; przypisanie do RB jeszcze niepotwierdzone** |
 | **Y** | wolny slot | **Do dyspozycji** |
 | **LB** | wolny slot | **Do dyspozycji** |
 
@@ -71,7 +69,7 @@ Z dwóch wolnych punktów **Multi Shot 1** jest już potwierdzony przez gracza (
 - Oficjalne patch notes 1.53.0: https://steamdb.info/patchnotes/19753965/
 - Potwierdzenie od dewelopera Squarebit, 29.10.2025: https://steamcommunity.com/app/375480/discussions/0/597415740309810979/
 
-**Aktualizacja po dalszej rozmowie:** Multi Shot jest potwierdzony na LT, więc ma 1 wydany punkt. Leaf Wind / RB nadal wymaga potwierdzenia. Auto Cast nie został uruchomiony.
+**Aktualizacja po dalszej rozmowie:** Multi Shot potwierdzony na LT. Leaf Wind 1 potwierdzony jako wyuczony; przypisanie do RB wymaga potwierdzenia. Auto Cast nie został potwierdzony jako włączony.
 
 ---
 
@@ -98,6 +96,8 @@ Z dwóch wolnych punktów **Multi Shot 1** jest już potwierdzony przez gracza (
 ## Dziennik zmian
 
 ### 17.10.2026
+
+- **Najnowsze potwierdzenie:** gracz wydał punkt w **Leaf Wind 1 (Druid)**, czyli łącznie mamy **6 potwierdzonych punktów wydanych**. Zgłosił **1 kolejny wolny punkt**. Przypisanie Leaf Wind do RB jeszcze niepotwierdzone.
 
 - **Nowe potwierdzenie:** użytkownik zostawia przyciski bez zmian i jednoznacznie potwierdza **Multi Shot na LT**. Zapisano **Multi Shot 1** jako wyuczony/przypisany, **5 potwierdzonych punktów wydanych**.
 - **Drugi punkt z ostatniej dwójki:** brak jednoznacznego potwierdzenia Leaf Wind/RB; wymaga dopytania. Nie zapisujemy go jako wydanego.
