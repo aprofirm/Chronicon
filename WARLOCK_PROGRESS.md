@@ -4,9 +4,9 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** **10**, **Mastery Rank 1 (M1)** — potwierdzone nowym screenshotem zakładki Mastery 18.10.2026.  
-**Wolne Skill Points:** **0** — Infection 1 → 2 potwierdzone przez użytkownika 18.10.2026.  
+**Wolne Skill Points:** **2** — gracz zgłosił dwa nowe, jeszcze niewydane zwykłe punkty (18.10.2026).  
 **Wydane Skill Points:** **9** — Corruptor: Blood Curse 3, Epidemic 1, Infection 2, Flesh Rot 1; Lich: Soul Warp 1; Reaper: Soul Eater 1 (najnowsze potwierdzenie 18.10.2026).  
-**Mastery Points:** **1 wolny, 0 potwierdzonych wydanych** — gracz otworzył menu pięciu premii pierwszego pola Mastery (Corruptor). Czekamy na tooltip wybranej opcji, bez potwierdzonego wydania.  
+**Mastery Points:** **0 wolnych, 1 potwierdzony wydany** — pierwsze pole Corruptor Mastery **R1-K1**, trzecia opcja (zielona czaszka), gracz podał nazwę „Poison”. Odpowiada najpewniej premii **Poison Damage**, ale ścisła angielska nazwa i liczba procentów wymagają tooltipa 1.61.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
@@ -21,7 +21,7 @@
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 | **Reaper** | **Soul Eater** | **1** | leczenie zużywające duszę; **punkt potwierdzony, przypisanie do RB niepotwierdzone** |
 
-**Razem potwierdzono: 9 wydanych Skill Points i 0 wolnych oraz osobno 1 wolny Mastery Point.** Użytkownik potwierdził właśnie wydanie punktu w **Infection 1 → 2** i zgłosił 1 Mastery Point. Aktualny poziom **Lv. 10, M1** potwierdzony nowszym screenshotem. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
+**Razem potwierdzono: 9 wydanych Skill Points i 2 NOWE wolne oraz osobno 1 Mastery Point wydany / 0 wolnych.** Użytkownik potwierdził Mastery na zieloną czaszkę „Poison” w pierwszym slocie Corruptor (R1-K1), a następnie zgłosił dwa zwykłe wolne punkty. Aktualny poziom **Lv. 10, M1** potwierdzony nowszym screenshotem. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
 ## Projekt buildu — 9 punktów potwierdzonych
 
@@ -40,11 +40,20 @@
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
 
+## NOWE POTWIERDZENIE — Mastery Poison WYDANE, 2 zwykłe punkty WOLNE (18.10.2026)
+
+- Gracz potwierdził **Mastery R1-K1 Corruptor**, wybrał **trzecią ikonę z zieloną czaszką**, opisaną przez siebie jako **Poison**. Najprawdopodobniej to historyczne **Poison Damage**, lecz **dokładna nazwa i wartość bieżącego tooltipa 1.61 nie zostały pokazane**. Zapisujemy jako **Poison (green skull, R1-K1), 1 punkt Mastery WYDANY**.
+- Bilans: **Mastery 1 wydany, 0 wolnych**. **Zwykłe skille: 9 wydanych, 2 nowe wolne**.
+- **Dwie rekomendacje, jeszcze NIEWYKONANE:** (1) **Infection 2→3 (Corruptor)** — w bazie 1.52 +5 pkt proc. obrażeń Infection DoT (40%→45%); (2) **Bursting Boils 0→1 (Corruptor)** po odblokowaniu następnej kolumny, ponieważ wymaga Infection. Według 1.52 ranga 1 daje **12%** szansy na rozprowadzenie obrażeń Infection wokół trafionego przeciwnika po trafieniu Poison — podlega weryfikacji tooltipem 1.61.
+- Kolejność: najpierw Infection 2→3; wówczas **8** punktów Corruptora i prawdopodobne otwarcie kolejnej kolumny. Jeśli Bursting Boils nadal jest nieaktywne, gracz powinien podesłać ekran i **nie wydawać punktu w ciemno**.
+- **Nie wpisywać Infection 3 ani Bursting Boils 1 jako wykonanych** przed potwierdzeniem od gracza.
+- Wciąż **B = Soul Warp (potwierdzone)**; RB dla Soul Eater i RT/LT niepotwierdzone.
+
 ## Stały atlas Mastery
 
 Zobacz **[WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md)** — układ 7 wierszy / 63 pól, archiwalne warianty w każdym slocie, polski słowniczek i oznaczone różnice względem 1.61. Strukturalne dane do szybkiego wyszukiwania są w **[WARLOCK_MASTERY_OPTIONS.json](WARLOCK_MASTERY_OPTIONS.json)**.
 
-**Na ten moment punkt Mastery wciąż niewydany:** 1 wolny, 0 wydanych. Na ekranie R1-K1 widać 5 opcji; bez tooltipów nie identyfikować piątej ikony ani nie zgadywać ostatecznego wyboru.
+**Obecny stan Mastery:** 1 punkt **WYDATKOWANY** w R1-K1, trzecia opcja **Poison** (zielona czaszka), 0 wolnych. Na screenie menu były 5 opcji; dokładna angielska nazwa i bonus trzeciej nie zostały pokazane w tooltipie. Zobacz najnowszą sekcję.
 
 ## Pierwsze pole Mastery — otwarto menu pięciu opcji (18.10.2026)
 
@@ -115,6 +124,8 @@ Zobacz **[WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md)** — układ 7 wiers
 ## Dziennik zmian
 
 ### 18.10.2026
+- **MASTER POINT WYDANY:** zielona czaszka **Poison** w pierwszym polu Corruptor Mastery R1-K1, wskazana przez użytkownika; historyczny odpowiednik Poison Damage, wymaga tooltipa dla pełnej identyfikacji. **1 Mastery wydany / 0 wolnych**. Gracz zgłosił też **2 nowe zwykłe Skill Points**. Rekomendacja: **Infection 2→3**, potem **Bursting Boils 0→1** pod warunkiem odblokowania. Zwykłe skille nadal **9 wydanych, 2 wolne**.
+
 - **SCREEN MENU MASTERY:** gracz otworzył 5 opcji pierwszego slotu Corruptor; nazwy i efekty niewidoczne. Zalecenie najpierw obejrzeć tooltip trzeciej ikony (zielona czaszka) pod kątem Poison/Infection. **1 punkt Mastery nadal wolny, 0 wydanych.**
 
 - **Nowy screenshot Mastery:** poziom postaci **10, M1**, **1 Mastery Point**. Pierwszy '+' Corruptor (górny wiersz) jest pusty, gra oferuje **A**, aby otworzyć wybór premii. Zalecono zobaczyć opcje i dopiero wtedy wybrać. **Punkt Mastery nadal nie wydany**.
