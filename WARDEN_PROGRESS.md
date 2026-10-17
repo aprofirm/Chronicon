@@ -25,7 +25,14 @@ Ten plik jest **jedynym źródłem prawdy o aktualnym stanie naszego bohatera**.
 
 Użytkownik potwierdził, że **wydał drugi z dwóch wcześniejszych punktów w Leaf Wind**. Zapisany stan: **Rapid Shot 2 / Tumble 1 / Archer 1 / Multi Shot 1 / Leaf Wind 1**, łącznie **6 wydanych punktów**. Zgłosił **1 kolejny wolny punkt**.
 
-**Do rozstrzygnięcia:** gdzie najlepiej wydać nowy punkt; porównać odblokowane w grze progi Wind Ranger, szczególnie **Splinter**, **Overdraw**, **Readiness**, ewentualnie **Gale**, z dostępnymi defensywnymi pasywkami. Nie zaznaczać jako wydany, dopóki użytkownik nie potwierdzi.
+**REKOMENDACJA dla nowego punktu (jeszcze niewydany): `Double Draw 0 → 1` w Wind Ranger.**
+
+- Pasywka odblokowywana po Archer (który już ma 1 punkt); w danych ChroniconDB 1.52: Wind Ranger, kolumna x=3, wymaganie skill ID 506 = Archer.
+- Ranga 1 w 1.52: **16% proc** na dodatkową strzałę zadającą **40% obrażeń** ataku Archery; strzała może uruchamiać on-hit effects. Wartości 1.61 sprawdzić w grze.
+- Wybieramy teraz zamiast zwiększania Rapid Shot, bo Double Draw wzmacnia podstawową mechanikę High Ranger i później Splinter/Razor Tips.
+- To **pasywka**, nie trzeba przypisywać jej do przycisku ani włączać Auto Cast.
+- Jeśli w grze skill okaże się niedostępny (różnice progów w 1.61), użytkownik powinien podesłać screenshot, zamiast wybierać inny na ślepo.
+- **Nie wpisywać jeszcze jako wydany**. Po potwierdzeniu: Rapid Shot 2 / Tumble 1 / Archer 1 / Multi Shot 1 / Leaf Wind 1 / Double Draw 1 = **7 wydanych, 0 wolnych**.
 
 ## Pad — potwierdzone przypisania i plan
 
@@ -97,6 +104,7 @@ Użytkownik potwierdził, że **wydał drugi z dwóch wcześniejszych punktów w
 
 ### 17.10.2026
 
+- **Najnowsza rekomendacja:** nowy wolny punkt → **Double Draw 1** (Wind Ranger, pasywka synergiczna z Rapid Shot/High Ranger). **Wydanie niepotwierdzone**, więc pozostaje 6 wydanych + 1 wolny.
 - **Najnowsze potwierdzenie:** gracz wydał punkt w **Leaf Wind 1 (Druid)**, czyli łącznie mamy **6 potwierdzonych punktów wydanych**. Zgłosił **1 kolejny wolny punkt**. Przypisanie Leaf Wind do RB jeszcze niepotwierdzone.
 
 - **Nowe potwierdzenie:** użytkownik zostawia przyciski bez zmian i jednoznacznie potwierdza **Multi Shot na LT**. Zapisano **Multi Shot 1** jako wyuczony/przypisany, **5 potwierdzonych punktów wydanych**.
