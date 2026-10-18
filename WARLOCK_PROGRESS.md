@@ -3,10 +3,10 @@
 **Status:** aktywny — użytkownik rozpoczyna walkę Warlockiem, 17.10.2026.  
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
-**Poziom:** **14**, **Mastery Rank 2 (M2)** — potwierdzone zdjęciami ekwipunku z 18.10.2026.  
-**Wolne Skill Points:** **1 NOWY wolny** — gracz zgłosił 1 zwykły punkt po wcześniejszym Bursting Boils 3/3; rekomendacja Contagion 0→1, jeśli odblokowane, **NIE WYDANY**.  
-**Wydane Skill Points:** **14** — Corruptor: **Blood Curse 4**, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 3/3** (**12 w Corruptorze**); Lich: Soul Warp 1; Reaper: Soul Eater 1. Użytkownik potwierdził wydanie punktu na Bursting Boils 2→3 18.10.2026.  
-**Mastery Points:** **3 potwierdzone wydane / 0 wolnych** — Corruptor Mastery R1-K1 zielona czaszka **Poison ranga 3**, potwierdzone słowami gracza 18.10.2026. Dokładny procent 1.61 niepotwierdzony.  
+**Poziom:** **15**, **Mastery Rank 3 (M3)** — potwierdzone screenem 18.10.2026.
+**Wolne Skill Points:** **0** — screenshot pokazuje Skill Points: 0, Blood Curse 5/5.
+**Wydane Skill Points:** **15** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot 1, Bursting Boils 3/3 (**13 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
+**Mastery Points:** **3 wydane / 0 wolnych** — Poison (zielona czaszka R1-K1) ranga 3, potwierdzone wcześniej; aktualny screen M3.
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
@@ -49,7 +49,16 @@
 - Te przedmioty nie są sprzętem do zakładania i nie wzmacniają statystyk Warlocka. Cel: **Camille — Temple Hallways; skarbiec — Lower Temple Halls, na północ od Waypoint**.
 - Status łamigłówki kryształów i wybranej laski **bez nowych potwierdzeń**.
 
-## NOWE POTWIERDZENIE — Mastery Poison 3, Contagion zablokowane (18.10.2026)
+## NOWY SCREEN — Lv.15/M3, Blood Curse 5/5, zero wolnych (18.10.2026)
+
+- Zdjęcie pokazuje **Korgein Lv.15 M3**, **Skill Points: 0**, **Blood Curse 5/5** (czerwone pole z numerem 5), Infection 3/3, Bursting Boils 3/3.
+- Potwierdzony stan zwykłych punktów: **15 wydanych, 0 wolnych**, w tym **13 inwestycji w Corruptorze**. Pozostałe: Lich Soul Warp 1, Reaper Soul Eater 1.
+- **Mastery Poison ranga 3** potwierdzona w poprzedniej wypowiedzi, 3 wydane / 0 wolnych.
+- Tooltip **Contagion**: wymaga **14 punktów wydanych w Corruptor**, ranga 0/3, 25% szansy na przeniesienie Infection przez Bursting Boils na pierwszej randze, 45% na maksymalnej.
+- **Rekomendacja na PRZYSZŁY punkt zwykły, niewydana:** **Flesh Rot 1→2**, co daje 14 punktów w Corruptor. Dopiero kolejny zwykły punkt przeznaczyć na **Contagion 0→1** lub **Poison Nova 0→1**.
+- Nie odnotowywać zakupu Flesh Rot 2 ani Contagion bez potwierdzenia.
+
+## HISTORIA — NOWE POTWIERDZENIE — Mastery Poison 3, Contagion zablokowane (18.10.2026)
 
 - Użytkownik potwierdził **wydanie 1 punktu Mastery na Poison 2→3**. Mastery **3 wydane / 0 wolnych**.
 - Zwykły punkt **NIE wydany**: **14 wydanych / 1 wolny**. Screen pokazuje **Contagion 0/3**, wymaga **14 punktów zainwestowanych w Corruptor**, podczas gdy postać ma **12**. Brak 2 inwestycji do progu.
