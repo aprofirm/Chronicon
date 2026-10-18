@@ -10,7 +10,7 @@
 - Okrągłe `+` to sloty powtarzalnych premii; pola **◆** (zwykle kolumny K3, K6, K9) to szczególne Perks. Liczbę rang i wymagania zawsze sprawdzać w grze.
 - Trzy środkowe wiersze **Class Mastery I, II, III** korzystają ze wspólnych rodzin umiejętności. W tabelach powtórzono warianty dla czytelności, na podstawie logiki programu ChroniCalc.
 - K9 w trzech środkowych wierszach ma **jeden wspólny zestaw końcowych wyborów** przy R4. Stąd R3-K9 i R5-K9 to puste miejsca w historycznym eksporcie, nie brak danych.
-- **Zwykłe Skill Points** i **Mastery Points** są osobne. Aktualnie po potwierdzeniu gracza: **11 zwykłych Skill Points potwierdzonych jako wydane; nowy 1 wolny + poprzedni o niepotwierdzonym wykorzystaniu. Mastery: 2 punkty WYDANE na Poison ranga 2 / 0 wolnych**.
+- **Zwykłe Skill Points** i **Mastery Points** są osobne. **Stan potwierdzony 18.10.2026: zwykłe 14 wydanych / 1 NOWY wolny; Mastery 2 wydane Poison ranga 2 / 1 NOWY wolny.** Rekomendacje niewydane: Contagion 0→1 (jeśli odblokowane) oraz Poison Mastery 2→3.
 - W tabelach zachowano **angielskie nazwy skilli** (zgodne z grą); polskie omówienia najważniejszych premii znajdują się poniżej.
 
 ## Szybkie odwzorowanie ekranu
@@ -242,16 +242,23 @@ Nazwy nieomówione w tej sekcji nadal są wymienione w pełnej mapie i w pliku J
 
 **Zwykłe punkty rozliczane oddzielnie:** po ostatnim zgłoszeniu użytkownik otrzymał dodatkowy zwykły punkt; wcześniejszy rekomendowany zakup Bursting Boils nie został potwierdzony. 11 potwierdzonych wydanych, nowy 1 wolny i poprzedni 1 o nieznanym statusie. Bez informacji od gracza nie stwierdzać, że Bursting Boils został kupiony.
 
+## NOWY WOLNY PUNKT MASTERY — 18.10.2026
+
+- Użytkownik zgłosił nowy **1 wolny Mastery Point** po potwierdzeniu Poison 2. Nadal **2 wydane / 1 wolny**.
+- Zalecenie: **Poison (zielona czaszka Corruptor R1-K1) 2→3**, dokładna premia procentowa na wersji 1.61 niepotwierdzona. **Zakup nie został jeszcze potwierdzony.**
+- Jednocześnie zgłosił **1 wolny zwykły Skill Point**; rekomendacja Contagion 0→1 po 12 punktach Corruptora (jeśli odblokowany).
+- Ostatni screenshot Lv.14/M2; nie wnioskować aktualnego numeru Mastery z liczby punktów.
+
 ## Mastery Korgeina: obserwacje vs plany
 
 | Co | Stan | Podstawa |
 |---|---|---|
 | Bohater | **Warlock Korgein, Lv. 10 / M1** | Screen 18.10.2026 |
-| Wolne Mastery Points | **0** | Drugi punkt wydany w Poison ranga 2, potwierdzone przez gracza |
+| Wolne Mastery Points | **1 NOWY wolny** | Gracz zgłosił nowy punkt Mastery po potwierdzonym Poison 2; jeszcze nie wydany |
 | Wydane Mastery Points | **2 potwierdzone** — pierwsze pole Corruptor, zielona czaszka „Poison” ranga 2 | Potwierdzenie gracza 18.10.2026 |
 | R1-K1 | **5 ikon** w aktualnej grze; w archiwalnej liście 4 skille | Screenshot menu vs eksport |
 | Konkretne nazwy tych pięciu ikon | **Nie wszystkie potwierdzone**; zielona czaszka wybrana jako „Poison” (prawdopodobnie Poison Damage w archiwum) | Potwierdzenie gracza; brak pełnego tooltipa |
-| Następny krok | Kolejne punkty Mastery rozważać po zdobyciu; Poison 2 już POTWIERDZONE | 0 wolnych Mastery |
+| Następny krok | **Poison ranga 2→3**, zielona czaszka Corruptor R1-K1, do potwierdzenia | 1 wolny Mastery, rekomendacja niewykonana |
 
 ## Procedura aktualizowania katalogu po kolejnych screenshotach
 
