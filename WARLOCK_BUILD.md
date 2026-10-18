@@ -44,7 +44,17 @@
 - **Soul Feast** (Reaper) na później przy sprawnej produkcji dusz.
 - **Zombie / Plague Bearer** z Corruptor — 1 punkt w towarzysza, jeśli zrobi się zbyt ciasno; lepiej nie od razu kosztem kluczowych efektów Poison.
 
-## NAJNOWSZY STAN — Bursting Boils 2 POTWIERDZONE, 1 NOWY zwykły punkt (18.10.2026)
+## NAJNOWSZY STAN — Bursting Boils 3/3 POTWIERDZONE (18.10.2026)
+
+**14 zwykłych Skill Points WYDANYCH, 0 wolnych:**
+- **Corruptor = 12:** Blood Curse 4/5, Epidemic 1/5, Infection 3/3, Flesh Rot 1/5, **Bursting Boils 3/3 MAX**.
+- **Lich:** Soul Warp 1 (przypisany B — potwierdzone). **Reaper:** Soul Eater 1 (leczenie 10% maks. HP, 36 s cooldown; RB nadal niepotwierdzone).
+- **Mastery:** Poison zielona czaszka, R1-K1 Corruptor **ranga 2**, 2 punkty Mastery wydane, 0 wolnych.
+- Bursting Boils działa pasywnie, wg aktualnego tooltipa ranga maks. to **20% szansy** wyzwolenia obrażeń Infection w **3,6 m**.
+- **Plan na NASTĘPNY zdobyty punkt (nie teraz):** sprawdzić w grze, czy odblokowano **Contagion** (pasywny spread) lub **Poison Nova** (aktywny AoE wokół bohatera), zgodnie z naszym celem, oraz dalej **Outbreak**. Nie oznaczać żadnego z nich jako wyuczonego przed faktycznym potwierdzeniem.
+- **Zagadka 9 kryształów nadal nierozliczona:** na zdjęciu układ BYR/YBR/BYR. Obliczona sekwencja przesunięć cyklicznych: górny rząd w lewo → środkowa kolumna w górę → środkowy rząd w prawo → lewa kolumna w dół. Wynik BBB/YYY/RRR, o ile stan gry się nie zmienił.
+
+## HISTORIA — NAJNOWSZY STAN — Bursting Boils 2 POTWIERDZONE, 1 NOWY zwykły punkt (18.10.2026)
 
 - **13 potwierdzonych zwykłych punktów wydanych, 1 nowy wolny.**
 - **Corruptor (11 punktów):** Blood Curse 4, Epidemic 1, Infection 3/3, Flesh Rot 1, **Bursting Boils 2/3 (POTWIERDZONE)**.
