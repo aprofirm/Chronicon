@@ -15,7 +15,7 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 **Ostatnia postać:** Warden — łucznik, zginął w Hardcore 17.10.2026.  
 **Aktualna klasa:** **Warlock** — użytkownik potwierdził wybór i rozpoczyna rozgrywkę.  
 **Nowy tryb:** bez Hardcore.  
-**Warlock Korgein:** ostatni screen Lv. 11 / M1 (obecny poziom niepotwierdzony); **13 zwykłych Skill Points WYDANYCH, 1 nowy WOLNY**. Corruptor: Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 2/3 POTWIERDZONE** = 11 inwestycji; Lich Soul Warp 1 (**B potwierdzone**); Reaper Soul Eater 1. Mastery: Poison (zielona czaszka Corruptor R1-K1) ranga 2, 2 wydane / 0 wolnych. **Następna rekomendacja: Bursting Boils 2→3/3 za wolny punkt — jeszcze NIE wydany**, potem sprawdzić Contagion i Poison Nova po osiągnięciu 12 punktów Corruptora.
+**Warlock Korgein:** ostatni screen Lv. 11 / M1 (rzeczywisty obecny poziom niepotwierdzony); **14 zwykłych Skill Points WYDANYCH / 0 wolnych**. Corruptor: Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 3/3 MAX POTWIERDZONE** = 12 inwestycji. Lich Soul Warp 1 (**B = teleport potwierdzony**); Reaper Soul Eater 1. Mastery: **Poison zielona czaszka Corruptor R1-K1 ranga 2**, 2 Mastery Points wydane / 0 wolnych. **Następny cel:** zweryfikować odblokowanie Contagion / Poison Nova, później Outbreak. Zagadka 9 kolorowych kryształów trwa — rozwiązania nie potwierdzono.
 
 ## Najważniejsze pliki
 
