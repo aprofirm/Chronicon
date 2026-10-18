@@ -15,7 +15,7 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 **Ostatnia postać:** Warden — łucznik, zginął w Hardcore 17.10.2026.  
 **Aktualna klasa:** **Warlock** — użytkownik potwierdził wybór i rozpoczyna rozgrywkę.  
 **Nowy tryb:** bez Hardcore.  
-**Warlock Korgein:** **Lv. 14 / M2 potwierdzone najnowszym screenem 18.10.2026.** Umiejętności: 14 zwykłych punktów wydanych / 0 wolnych w ostatnim potwierdzeniu: Corruptor Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, Bursting Boils 3/3 MAX (12 punktów); Lich Soul Warp 1 (B); Reaper Soul Eater 1. **Mastery Poison Corruptor R1-K1 ranga 2, 2 wydane / 0 wolnych** w ostatnim potwierdzeniu. **Quest items w plecaku:** The Headmistress' Spectacles (oddać Headmistress Camille w Temple Hallways) i Treasury Key (otwiera skarbiec w Lower Temple Halls, na północ od Waypoint) — żadne wykorzystanie/oddanie niepotwierdzone. Następny cel buildu: sprawdzić Contagion / Poison Nova; zagadka kryształów nadal nierozliczona.
+**Warlock Korgein:** ostatni potwierdzony screen **Lv. 14 / M2** (aktualny poziom może być wyższy). **14 zwykłych Skill Points wydanych / 1 NOWY wolny**; Corruptor: Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, Bursting Boils 3/3 MAX (12 punktów w drzewku); Lich Soul Warp 1 (B); Reaper Soul Eater 1. **Mastery Poison Corruptor R1-K1 ranga 2: 2 wydane / 1 NOWY wolny.** **REKOMENDACJE JESZCZE NIEWYDANE:** zwykły na Contagion 0→1 (jeśli odblokowane; w przeciwnym razie screen, alternatywa Poison Nova) oraz Mastery na Poison 2→3. W plecaku zaobserwowano okulary Camille i Treasury Key; wykorzystanie niepotwierdzone. Kryształy: rozwiązanie niepotwierdzone.
 
 ## Najważniejsze pliki
 
