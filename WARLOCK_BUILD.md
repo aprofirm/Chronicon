@@ -44,7 +44,16 @@
 - **Soul Feast** (Reaper) na później przy sprawnej produkcji dusz.
 - **Zombie / Plague Bearer** z Corruptor — 1 punkt w towarzysza, jeśli zrobi się zbyt ciasno; lepiej nie od razu kosztem kluczowych efektów Poison.
 
-## NAJNOWSZY STAN — Bursting Boils 3/3 POTWIERDZONE (18.10.2026)
+## NOWY punkt zwykły i Mastery — obydwa do wydania (18.10.2026)
+
+- **1 zwykły Skill Point wolny**, **1 Mastery Point wolny**, oddzielne pule. Dotychczas **14 zwykłych wydanych**, **2 Mastery wydane**. Gracz nie potwierdził nowych zakupów.
+- **Zalecany zwykły:** **Contagion 0→1 (Corruptor)**, jeśli już jest dostępne po 12 inwestycjach w Corruptor. To pasywka synergizująca z Bursting Boils 3/3: wybuch ma szansę na rozprzestrzenienie **Infection** na kolejne ofiary i odświeżenie go, gdy nowy efekt jest silniejszy (wg 1.52). Starszy dump 1.52 podaje 27% szansy pierwszej rangi, ale statystyki 1.61 należy zweryfikować w grze.
+- **Jeśli Contagion zablokowane:** poprosić o screen, nie wydawać punktu w ciemno. Alternatywa do oceny: **Poison Nova 0→1**, aktywna nova Poison do przycisku LT (przypisanie będzie osobno wymagało potwierdzenia).
+- **Zalecany Mastery:** to samo pole **Poison (zielona czaszka, Corruptor R1-K1), ranga 2→3**, jeśli można wydać na tym samym slocie. **Nie traktować jako już wydane.**
+- **Aktualny bilans zgłoszony:** zwykłe **14/1** (wydane/wolne), Mastery **2/1**. Po POTWIERDZONYM wydaniu obu byłoby zwykłe 15/0 (Contagion 1), Mastery 3/0 (Poison 3).
+- **Bursty:** Bursting Boils 3/3 pozostaje potwierdzone; następne połączenie Contagion, a później Poison Nova i Outbreak, zgodnie z dostępnymi progami.
+
+## HISTORIA — NAJNOWSZY STAN — Bursting Boils 3/3 POTWIERDZONE (18.10.2026)
 
 **14 zwykłych Skill Points WYDANYCH, 0 wolnych:**
 - **Corruptor = 12:** Blood Curse 4/5, Epidemic 1/5, Infection 3/3, Flesh Rot 1/5, **Bursting Boils 3/3 MAX**.
