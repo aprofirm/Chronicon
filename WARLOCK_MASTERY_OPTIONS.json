@@ -2399,11 +2399,11 @@
     "character": "Korgein",
     "level": 10,
     "mastery_level": 1,
-    "available_mastery_points": 0,
+    "available_mastery_points": 1,
     "first_slot": "R1-K1",
     "first_slot_options_count": 5,
     "archival_first_slot_options_count": 4,
-    "description": "18.10.2026 player confirmed second Mastery point spent increasing first Corruptor Mastery green skull Poison from rank 1 to 2. Older first slot screenshot had five icons, archive only four. Exact tooltip % unverified. A NEW normal Skill Point was reported, while previous Bursting Boils spend remains unconfirmed.",
+    "description": "Two Mastery points confirmed spent on Corruptor R1-K1 green skull Poison (rank 2). User reports one NEW unspent Mastery point on 18.10.2026; suggested Poison rank 2→3, not yet confirmed. Current character level not confirmed beyond latest screenshot Lv14/M2.",
     "confirmed_spent_mastery_points": 2,
     "first_slot_selected_option_index_one_based": 3,
     "first_slot_selected_icon": "green skull",
@@ -2425,5 +2425,14 @@
       "confirmation": "player 2026-10-18 confirmed rank 1→2"
     }
   ],
-  "normal_skill_point_note": "Player reports 1 new ordinary Skill Point. Previous 1 ordinary point was recommended for Bursting Boils 0→1, but player has not confirmed spending. Actual Bursting Boils rank unknown; current recommendation 0→1 if not bought, 1→2 if already rank 1."
+  "normal_skill_point_note": "Player reports 1 new ordinary Skill Point. Previous 1 ordinary point was recommended for Bursting Boils 0→1, but player has not confirmed spending. Actual Bursting Boils rank unknown; current recommendation 0→1 if not bought, 1→2 if already rank 1.",
+  "pending_mastery_recommendation": {
+    "slot": "R1-K1",
+    "skill": "Poison (green skull; probable Poison Damage)",
+    "current_confirmed_rank": 2,
+    "proposed_rank": 3,
+    "free_points_reported": 1,
+    "confirmed_spent": false,
+    "condition": "only if this Mastery point can upgrade the same green skull in version 1.61; exact tooltip % unverified"
+  }
 }
