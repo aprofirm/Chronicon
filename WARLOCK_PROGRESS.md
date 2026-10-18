@@ -3,7 +3,7 @@
 **Status:** aktywny — użytkownik rozpoczyna walkę Warlockiem, 17.10.2026.  
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
-**Poziom:** **11**, **Mastery Rank 1 (M1)** — potwierdzone zdjęciem drzewka Corruptor 18.10.2026.  
+**Poziom:** **14**, **Mastery Rank 2 (M2)** — potwierdzone zdjęciami ekwipunku z 18.10.2026.  
 **Wolne Skill Points:** **0** — użytkownik potwierdził wydanie punktu w Bursting Boils 2→3/3.  
 **Wydane Skill Points:** **14** — Corruptor: **Blood Curse 4**, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 3/3** (**12 w Corruptorze**); Lich: Soul Warp 1; Reaper: Soul Eater 1. Użytkownik potwierdził wydanie punktu na Bursting Boils 2→3 18.10.2026.  
 **Mastery Points:** **2 potwierdzone wydane / 0 wolnych** — oba w Corruptor Mastery **R1-K1**, zielona czaszka **Poison ranga 2**. Gracz potwierdził, że gra pozwala ulepszać tę premię i wydał drugi punkt. Dokładny bieżący procent z tooltipa 1.61 niepotwierdzony.  
@@ -40,6 +40,14 @@
 | LB | Ritual of Souls / buff | niepotwierdzone |
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
+
+## NOWY SCREEN — Lv. 14 / M2, okulary Camille i Treasury Key (18.10.2026)
+
+- Najnowsze zdjęcia ekwipunku jednoznacznie pokazują **Korgein, Warlock, Lv. 14 / M2**. Poprzednia informacja Lv. 11 / M1 jest już historyczna. **Nie domniemywać nowych niewydanych Skill Points z samego poziomu — bilans potwierdzonych inwestycji pozostaje 14 zwykłych / 0 wolnych oraz 2 Mastery wydane / 0 wolnych** do kolejnego screena punktów.
+- Gracz ma w ekwipunku **The Headmistress' Spectacles** (Unique Quest Item), z tooltipem: należy do **Headmistress Camille w Temple Hallways**. Quest **A Spectacular Quest**: odzyskane Spectacles należy oddać Camille w **Temple Hallways**; według opisów misji początkowo poszukuje się ich w **Hall of Learning**. Niepotwierdzone oddanie.
+- Gracz ma w ekwipunku **Treasury Key** (Unique Special Item, Level 1), osobny od zwykłych kluczy do skrzyń. Zgodnie z wypowiedzią twórcy gry na Steam: otwiera **drzwi do skarbca Treasury w Lower Temple Halls, kilka kroków na północ od Waypoint**. W starszej informacji developera skarbiec ponownie się zamyka po opuszczeniu sesji. Może zawierać skrzynie i przeciwnika z pierścieniem. Niepotwierdzone użycie klucza.
+- Te przedmioty nie są sprzętem do zakładania i nie wzmacniają statystyk Warlocka. Cel: **Camille — Temple Hallways; skarbiec — Lower Temple Halls, na północ od Waypoint**.
+- Status łamigłówki kryształów i wybranej laski **bez nowych potwierdzeń**.
 
 ## NAJNOWSZE POTWIERDZENIE — Bursting Boils MAX 3/3 (18.10.2026)
 
@@ -192,6 +200,8 @@ Zobacz **[WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md)** — układ 7 wiers
 ## Dziennik zmian
 
 ### 18.10.2026
+- **NOWY EKRAN:** Korgein **Lv. 14 / M2**. W plecaku potwierdzono okulary dyrektorki Camille (Quest Item do Temple Hallways) i Treasury Key (drzwi do Treasury w Lower Temple Halls na północ od Waypoint). **Niepotwierdzono oddania okularów ani wykorzystania klucza**.
+
 - **POTWIERDZONE NOWE:** użytkownik wydał ostatni wolny punkt na **Bursting Boils 3/3 MAX**. **14 zwykłych punktów wydanych / 0 wolnych, Corruptor 12.** Mastery Poison ranga 2 bez zmian. Omówiono bieżącą zagadkę 9-kolorowych kryształów, wyliczono 4 ruchy dla zdjęcia BYR/YBR/BYR; rozwiązanie pozostaje niepotwierdzone.
 
 - **NOWE POTWIERDZENIE:** gracz wydał punkt na **Bursting Boils 1→2**, a następnie zdobył **1 nowy wolny zwykły punkt**. Stan: **13 wydanych / 1 wolny**; Corruptor **11 inwestycji**. Zalecono **Bursting Boils 2→3**, lecz **jeszcze niepotwierdzone wydanie**; Mastery Poison 2 bez zmian.
