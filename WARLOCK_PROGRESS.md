@@ -4,9 +4,9 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** **14**, **Mastery Rank 2 (M2)** — potwierdzone zdjęciami ekwipunku z 18.10.2026.  
-**Wolne Skill Points:** **0** — użytkownik potwierdził wydanie punktu w Bursting Boils 2→3/3.  
+**Wolne Skill Points:** **1 NOWY wolny** — gracz zgłosił 1 zwykły punkt po wcześniejszym Bursting Boils 3/3; rekomendacja Contagion 0→1, jeśli odblokowane, **NIE WYDANY**.  
 **Wydane Skill Points:** **14** — Corruptor: **Blood Curse 4**, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 3/3** (**12 w Corruptorze**); Lich: Soul Warp 1; Reaper: Soul Eater 1. Użytkownik potwierdził wydanie punktu na Bursting Boils 2→3 18.10.2026.  
-**Mastery Points:** **2 potwierdzone wydane / 0 wolnych** — oba w Corruptor Mastery **R1-K1**, zielona czaszka **Poison ranga 2**. Gracz potwierdził, że gra pozwala ulepszać tę premię i wydał drugi punkt. Dokładny bieżący procent z tooltipa 1.61 niepotwierdzony.  
+**Mastery Points:** **2 potwierdzone wydane / 1 NOWY wolny** — oba już wydane w Corruptor Mastery **R1-K1**, zielona czaszka **Poison ranga 2**. Nowy punkt Mastery zgłoszony przez gracza; rekomendacja Poison 2→3, **NIE WYDANY**. Dokładny bieżący procent z tooltipa 1.61 niepotwierdzony.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
@@ -22,7 +22,7 @@
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 | **Reaper** | **Soul Eater** | **1** | leczenie za 1 Soul, **10% max HP**, cooldown **36 s** (tooltip na screenie 18.10.2026); docelowe RB, **faktyczne przypisanie niepotwierdzone** |
 
-**Potwierdzono: 14 zwykłych Skill Points wydanych / 0 wolnych; osobno Mastery Poison 2 — 2 wydane / 0 wolnych.** Gracz potwierdził **Bursting Boils 2→3 (MAX)**. Corruptor 12 inwestycji. Kolejny krok: sprawdzić dostępność Contagion i Poison Nova, a później Outbreak; niczego nie wpisywać jako wyuczonego bez potwierdzenia. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
+**Potwierdzono: 14 zwykłych Skill Points wydanych / 1 nowy wolny; osobno Mastery Poison ranga 2 — 2 wydane / 1 nowy wolny.** Gracz zgłosił po jednym NOWYM punkcie. Rekomendacje **NIE WYDANE**: Contagion 0→1 (jeśli odblokowane przy 12 punktach w Corruptorze) i Poison Mastery 2→3. Poziom postaci pozostaje ostatnio potwierdzony na screenie 14/M2, aktualny może być wyższy. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
 ## Projekt buildu — 14 punktów potwierdzonych
 
@@ -49,7 +49,16 @@
 - Te przedmioty nie są sprzętem do zakładania i nie wzmacniają statystyk Warlocka. Cel: **Camille — Temple Hallways; skarbiec — Lower Temple Halls, na północ od Waypoint**.
 - Status łamigłówki kryształów i wybranej laski **bez nowych potwierdzeń**.
 
-## NAJNOWSZE POTWIERDZENIE — Bursting Boils MAX 3/3 (18.10.2026)
+## NOWY zgłoszony punkt zwykły i Mastery — obydwa WOLNE (18.10.2026)
+
+- Użytkownik zgłosił **1 wolny zwykły Skill Point oraz 1 wolny Mastery Point**. ŻADEN jeszcze niepotwierdzony jako wydany.
+- **Zwykłe:** dotychczas 14 wydanych; rekomendacja **Contagion 0→1 w Corruptor**, jeśli slot jest już dostępny po zainwestowaniu **12 punktów w Corruptorze**. Synergia: Bursting Boils 3/3, wyzwalane trafieniami Poison, ma dzięki Contagion szansę nakładać/rozszerzać Infection na pozostałych wrogów. **Contagion 0/3 do czasu potwierdzenia**. W starszych danych 1.52 pierwsza ranga to 27% szansy przy aktywacji Bursting Boils; konkretna wartość dla gry 1.61 wymaga tooltipa.
+- **Plan alternatywny, jeśli Contagion zablokowane:** zobaczyć screen dostępnych pól w Corruptor. Rozważyć **Poison Nova 0→1** jako aktywny AoE w miejscu docelowo LT (w 1.52 pierwszy poziom 260% Poison, 5,2 m; aktualne parametry niepotwierdzone).
+- **Mastery:** 2 dotychczas wydane w **Poison zielona czaszka Corruptor R1-K1**, ranga 2; rekomendacja **Poison 2→3**, **NIE WYDANE**. Stare dane historyczne wskazują +2% Poison Damage na rangę; dla aktualnej 1.61 tooltip jeszcze niezweryfikowany.
+- **Bilans w chwili zgłoszenia:** zwykłe **14 wydanych, 1 wolny**, Mastery **2 wydane, 1 wolny**. Nic nie zmieniamy przy przypisaniu do pada.
+- **Poziom:** ostatni potwierdzony screenshot **Lv.14/M2**, nie wnioskować obecnego dokładnego levelu z liczby zgłoszonych punktów.
+
+## HISTORIA — NAJNOWSZE POTWIERDZENIE — Bursting Boils MAX 3/3 (18.10.2026)
 
 - Gracz napisał **„Punkt wydany. Mam 3 na 3”** — jednoznacznie potwierdzono **Bursting Boils 2→3/3**.
 - **Zwykłe skille: 14 wydanych, 0 wolnych**. Corruptor 12: Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, Bursting Boils **3/3**. Lich Soul Warp 1, Reaper Soul Eater 1.
@@ -200,6 +209,8 @@ Zobacz **[WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md)** — układ 7 wiers
 ## Dziennik zmian
 
 ### 18.10.2026
+- **2 NOWE WOLNE PUNKTY**: gracz zgłosił 1 zwykły + 1 Mastery. **Zwykłe: 14 wydanych / 1 wolny**, **Mastery: Poison ranga 2, 2 wydane / 1 wolny**. Rekomendacje oczekujące: **Contagion 0→1 (jeśli odblokowane)** oraz **Poison Mastery 2→3**. Żadnego punktu nie oznaczono jako wydany.
+
 - **NOWY EKRAN:** Korgein **Lv. 14 / M2**. W plecaku potwierdzono okulary dyrektorki Camille (Quest Item do Temple Hallways) i Treasury Key (drzwi do Treasury w Lower Temple Halls na północ od Waypoint). **Niepotwierdzono oddania okularów ani wykorzystania klucza**.
 
 - **POTWIERDZONE NOWE:** użytkownik wydał ostatni wolny punkt na **Bursting Boils 3/3 MAX**. **14 zwykłych punktów wydanych / 0 wolnych, Corruptor 12.** Mastery Poison ranga 2 bez zmian. Omówiono bieżącą zagadkę 9-kolorowych kryształów, wyliczono 4 ruchy dla zdjęcia BYR/YBR/BYR; rozwiązanie pozostaje niepotwierdzone.
