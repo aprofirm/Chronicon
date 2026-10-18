@@ -6,7 +6,7 @@
 **Poziom:** **14**, **Mastery Rank 2 (M2)** — potwierdzone zdjęciami ekwipunku z 18.10.2026.  
 **Wolne Skill Points:** **1 NOWY wolny** — gracz zgłosił 1 zwykły punkt po wcześniejszym Bursting Boils 3/3; rekomendacja Contagion 0→1, jeśli odblokowane, **NIE WYDANY**.  
 **Wydane Skill Points:** **14** — Corruptor: **Blood Curse 4**, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 3/3** (**12 w Corruptorze**); Lich: Soul Warp 1; Reaper: Soul Eater 1. Użytkownik potwierdził wydanie punktu na Bursting Boils 2→3 18.10.2026.  
-**Mastery Points:** **2 potwierdzone wydane / 1 NOWY wolny** — oba już wydane w Corruptor Mastery **R1-K1**, zielona czaszka **Poison ranga 2**. Nowy punkt Mastery zgłoszony przez gracza; rekomendacja Poison 2→3, **NIE WYDANY**. Dokładny bieżący procent z tooltipa 1.61 niepotwierdzony.  
+**Mastery Points:** **3 potwierdzone wydane / 0 wolnych** — Corruptor Mastery R1-K1 zielona czaszka **Poison ranga 3**, potwierdzone słowami gracza 18.10.2026. Dokładny procent 1.61 niepotwierdzony.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
@@ -22,7 +22,7 @@
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 | **Reaper** | **Soul Eater** | **1** | leczenie za 1 Soul, **10% max HP**, cooldown **36 s** (tooltip na screenie 18.10.2026); docelowe RB, **faktyczne przypisanie niepotwierdzone** |
 
-**Potwierdzono: 14 zwykłych Skill Points wydanych / 1 nowy wolny; osobno Mastery Poison ranga 2 — 2 wydane / 1 nowy wolny.** Gracz zgłosił po jednym NOWYM punkcie. Rekomendacje **NIE WYDANE**: Contagion 0→1 (jeśli odblokowane przy 12 punktach w Corruptorze) i Poison Mastery 2→3. Poziom postaci pozostaje ostatnio potwierdzony na screenie 14/M2, aktualny może być wyższy. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
+**Potwierdzono: 14 zwykłych Skill Points wydanych / 1 wolny; osobno Mastery Poison ranga 3 — 3 wydane / 0 wolnych.** Gracz zgłosił po jednym NOWYM punkcie. Rekomendacje **NIE WYDANE**: Contagion 0→1 (jeśli odblokowane przy 12 punktach w Corruptorze) i Poison Mastery 2→3. Poziom postaci pozostaje ostatnio potwierdzony na screenie 14/M2, aktualny może być wyższy. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
 ## Projekt buildu — 14 punktów potwierdzonych
 
@@ -49,7 +49,13 @@
 - Te przedmioty nie są sprzętem do zakładania i nie wzmacniają statystyk Warlocka. Cel: **Camille — Temple Hallways; skarbiec — Lower Temple Halls, na północ od Waypoint**.
 - Status łamigłówki kryształów i wybranej laski **bez nowych potwierdzeń**.
 
-## NOWY zgłoszony punkt zwykły i Mastery — obydwa WOLNE (18.10.2026)
+## NOWE POTWIERDZENIE — Mastery Poison 3, Contagion zablokowane (18.10.2026)
+
+- Użytkownik potwierdził **wydanie 1 punktu Mastery na Poison 2→3**. Mastery **3 wydane / 0 wolnych**.
+- Zwykły punkt **NIE wydany**: **14 wydanych / 1 wolny**. Screen pokazuje **Contagion 0/3**, wymaga **14 punktów zainwestowanych w Corruptor**, podczas gdy postać ma **12**. Brak 2 inwestycji do progu.
+- Nowa rekomendacja dla wolnego zwykłego punktu: **Poison Nova 0→1**, jeśli odblokowana; jest to aktywny Poison AoE. Jeśli zablokowana, poprosić o screen, nie zakładać zakupu. Żadnego nowego przycisku pada nie potwierdzono.
+
+## HISTORIA — NOWY zgłoszony punkt zwykły i Mastery — obydwa WOLNE (18.10.2026)
 
 - Użytkownik zgłosił **1 wolny zwykły Skill Point oraz 1 wolny Mastery Point**. ŻADEN jeszcze niepotwierdzony jako wydany.
 - **Zwykłe:** dotychczas 14 wydanych; rekomendacja **Contagion 0→1 w Corruptor**, jeśli slot jest już dostępny po zainwestowaniu **12 punktów w Corruptorze**. Synergia: Bursting Boils 3/3, wyzwalane trafieniami Poison, ma dzięki Contagion szansę nakładać/rozszerzać Infection na pozostałych wrogów. **Contagion 0/3 do czasu potwierdzenia**. W starszych danych 1.52 pierwsza ranga to 27% szansy przy aktywacji Bursting Boils; konkretna wartość dla gry 1.61 wymaga tooltipa.
