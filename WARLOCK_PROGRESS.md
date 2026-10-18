@@ -4,8 +4,8 @@
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Poziom:** **11**, **Mastery Rank 1 (M1)** — potwierdzone zdjęciem drzewka Corruptor 18.10.2026.  
-**Wolne Skill Points:** **1 NOWY wolny** — poprzedni punkt w Bursting Boils 1→2 użytkownik właśnie potwierdził; na nowy punkt zalecono Bursting Boils 2→3, **jeszcze niewydany**.  
-**Wydane Skill Points:** **13** — Corruptor: **Blood Curse 4**, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 2/3** (**11 w Corruptorze**); Lich: Soul Warp 1; Reaper: Soul Eater 1. Gracz 18.10.2026 potwierdził wydanie poprzedniego punktu na Bursting Boils 1→2 i zgłosił kolejny wolny.  
+**Wolne Skill Points:** **0** — użytkownik potwierdził wydanie punktu w Bursting Boils 2→3/3.  
+**Wydane Skill Points:** **14** — Corruptor: **Blood Curse 4**, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 3/3** (**12 w Corruptorze**); Lich: Soul Warp 1; Reaper: Soul Eater 1. Użytkownik potwierdził wydanie punktu na Bursting Boils 2→3 18.10.2026.  
 **Mastery Points:** **2 potwierdzone wydane / 0 wolnych** — oba w Corruptor Mastery **R1-K1**, zielona czaszka **Poison ranga 2**. Gracz potwierdził, że gra pozwala ulepszać tę premię i wydał drugi punkt. Dokładny bieżący procent z tooltipa 1.61 niepotwierdzony.  
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
@@ -18,13 +18,13 @@
 | **Corruptor** | **Epidemic** | **1** | pasywka zwiększająca Attack Speed, działa bez przycisku |
 | **Corruptor** | **Infection** | **3** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
 | **Corruptor** | **Flesh Rot** | **1** | aktywna klątwa Poison na grupy, obrażenia w czasie; proponowane LT, przypisanie niepotwierdzone |
-| **Corruptor** | **Bursting Boils** | **2** | **potwierdzona pasywka Poison / Infection** bez przycisku na padzie; docelowo ranga 3/3: 20% / 3,6 m według tooltipa 1.61 |
+| **Corruptor** | **Bursting Boils** | **3/3** | **MAX potwierdzony przez gracza** — pasywka Poison / Infection, aktualny tooltip dla max rangi 20% szansy / 3,6 m promienia; bez przycisku na padzie |
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 | **Reaper** | **Soul Eater** | **1** | leczenie za 1 Soul, **10% max HP**, cooldown **36 s** (tooltip na screenie 18.10.2026); docelowe RB, **faktyczne przypisanie niepotwierdzone** |
 
-**Potwierdzono: 13 zwykłych Skill Points wydanych, 1 NOWY wolny; osobno Mastery Poison 2 — 2 wydane / 0 wolnych.** Gracz potwierdził **Bursting Boils 1→2** i zgłosił jeden kolejny wolny punkt. **Rekomendacja dla nowego punktu: Bursting Boils 2→3**, jeszcze niewykonana. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
+**Potwierdzono: 14 zwykłych Skill Points wydanych / 0 wolnych; osobno Mastery Poison 2 — 2 wydane / 0 wolnych.** Gracz potwierdził **Bursting Boils 2→3 (MAX)**. Corruptor 12 inwestycji. Kolejny krok: sprawdzić dostępność Contagion i Poison Nova, a później Outbreak; niczego nie wpisywać jako wyuczonego bez potwierdzenia. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
 
-## Projekt buildu — 13 punktów potwierdzonych
+## Projekt buildu — 14 punktów potwierdzonych
 
 **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)**: główne drzewko **Corruptor Poison**; **Blood Curse → Infection → efekty szerzenia zarazy → Poison Nova + Outbreak**. Wsparcie **Reaper (Soul Eater), Lich (Soul Warp), Demonologist (Demon Skin)**. Wszystkie cztery drzewka i Mastery w [WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md).
 
@@ -41,7 +41,15 @@
 
 **Auto Cast:** przy każdym nowym aktywnym skillu sprawdzać, czy można/ma sens go automatyzować. Nie automatyzować leczenia ani awaryjnego ruchu bez wyraźnej decyzji.
 
-## NAJNOWSZE POTWIERDZENIE — Bursting Boils 2/3 i jeden NOWY punkt (18.10.2026)
+## NAJNOWSZE POTWIERDZENIE — Bursting Boils MAX 3/3 (18.10.2026)
+
+- Gracz napisał **„Punkt wydany. Mam 3 na 3”** — jednoznacznie potwierdzono **Bursting Boils 2→3/3**.
+- **Zwykłe skille: 14 wydanych, 0 wolnych**. Corruptor 12: Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, Bursting Boils **3/3**. Lich Soul Warp 1, Reaper Soul Eater 1.
+- **Mastery: Poison zielona czaszka R1-K1 ranga 2**; 2 wydane, 0 wolnych. Pad B Soul Warp nadal potwierdzone; inne przyciski bez nowego potwierdzenia.
+- Bursting Boils (Poison / Infection) jest pasywką; zgodnie z wcześniejszym tooltipem gry pierwsza ranga miała 10% / 2,2 m, **maksymalna 20% / 3,6 m**. Dostępność **Contagion / Poison Nova** przy 12 inwestycjach w Corruptor sprawdzić przy następnym punkcie; **Outbreak** później.
+- **Trwająca zagadka 9 kryształów** (bez potwierdzenia rozwiązania): na nowym screenie układ czytany wierszami **BYR / YBR / BYR** (B=niebieski, Y=żółty, R=czerwony). Wyliczona czteroruchowa sekwencja przy przesunięciu wybranego rzędu/kolumny o 1 i zawijaniu: **górny rząd LEWO → środkowa kolumna GÓRA → środkowy rząd PRAWO → lewa kolumna DÓŁ**. Ma dać wiersze **BBB / YYY / RRR**. Działa **tylko**, jeśli układ zdjęcia był odczytany prawidłowo i kryształy nie zostały przesunięte przed wykonaniem ruchów. Gra nie została potwierdzona jako rozwiązana.
+
+## HISTORIA — NAJNOWSZE POTWIERDZENIE — Bursting Boils 2/3 i jeden NOWY punkt (18.10.2026)
 
 - Gracz napisał: **„Punkt wydany. Mam nowy.”** w odpowiedzi na rekomendację Bursting Boils 1→2. **Potwierdzono zakup Bursting Boils 2/3**.
 - Corruptor **11 wydanych**: Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, **Bursting Boils 2**. Lich Soul Warp 1, Reaper Soul Eater 1 = **13 zwykłych Skill Points WYDANYCH**.
@@ -184,6 +192,8 @@ Zobacz **[WARLOCK_MASTERY_TREE.md](WARLOCK_MASTERY_TREE.md)** — układ 7 wiers
 ## Dziennik zmian
 
 ### 18.10.2026
+- **POTWIERDZONE NOWE:** użytkownik wydał ostatni wolny punkt na **Bursting Boils 3/3 MAX**. **14 zwykłych punktów wydanych / 0 wolnych, Corruptor 12.** Mastery Poison ranga 2 bez zmian. Omówiono bieżącą zagadkę 9-kolorowych kryształów, wyliczono 4 ruchy dla zdjęcia BYR/YBR/BYR; rozwiązanie pozostaje niepotwierdzone.
+
 - **NOWE POTWIERDZENIE:** gracz wydał punkt na **Bursting Boils 1→2**, a następnie zdobył **1 nowy wolny zwykły punkt**. Stan: **13 wydanych / 1 wolny**; Corruptor **11 inwestycji**. Zalecono **Bursting Boils 2→3**, lecz **jeszcze niepotwierdzone wydanie**; Mastery Poison 2 bez zmian.
 
 - **NAJNOWSZE:** potwierdzono **Bursting Boils 1/3** z poprzedniego punktu zwykłego; gracz zgłosił kolejny **1 wolny**. Bilans: **12 wydanych zwykłych / 1 wolny**, Mastery **Poison 2** / 0 wolnych. Rekomendacja dla nowego punktu: **Bursting Boils 1→2 — jeszcze nie wydany**. „Na b” odnosi się do Bursting Boils, a nie pada.
