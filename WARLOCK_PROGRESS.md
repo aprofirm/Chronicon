@@ -1,3 +1,15 @@
+## Aktualizacja 19.10.2026 — potwierdzone wydanie 3 Skill Points i 1 Mastery Point
+
+Gracz potwierdził: „Punkty wydane. Jak coś nie będzie się zgadzać to zgłoszę” w odpowiedzi na konkretny plan. Zapisujemy wykonanie **zgodnie z planem**, z zastrzeżeniem ewentualnej późniejszej korekty:
+
+- **Flesh Rot 1→2** (Corruptor).
+- **Contagion 0→1** (Corruptor).
+- **Poison Nova 0→1** (Corruptor).
+- **Poison Mastery 3→4** (R1-K1, zielona czaszka).
+- **Bilans po wydaniu:** 18 zwykłych punktów wydanych, 0 wolnych; Corruptor 16 (Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 2, Bursting Boils 3, Contagion 1, Poison Nova 1), Lich Soul Warp 1, Reaper Soul Eater 1. Mastery 4 wydane, 0 wolnych.
+- **Poison Nova**: zakup potwierdzony zbiorczo; przypisanie do LT **niepotwierdzone**. Nie zmieniamy potwierdzonych skrótów pada.
+- Gracz zapowiedział zgłoszenie ewentualnych rozbieżności. W przypadku sprzecznego screena skorygować stan.
+
 # Warlock — bieżący postęp (żywa karta postaci)
 
 **Status:** aktywny — użytkownik rozpoczyna walkę Warlockiem, 17.10.2026.  
