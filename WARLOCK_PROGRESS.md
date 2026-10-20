@@ -1,3 +1,7 @@
+## Aktualizacja 20.10.2026 — potwierdzone przypisanie Flesh Rot do Y
+
+Gracz potwierdził: **Y = Flesh Rot (4/5)**. Aktualny pad: **RT Blood Curse, LT Poison Nova, B Soul Warp, RB Soul Eater, Y Flesh Rot, LB wolny**. RB/Soul Eater pozostaje problematyczny z powodu braku obserwowanego generowania dusz.
+
 ## Aktualizacja 20.10.2026 — potwierdzone Flesh Rot 4/5
 
 Gracz potwierdził **zwiększenie Flesh Rot 3→4** po obejrzeniu tooltipu. **Lv 20 / M5; zwykłe Skill Points: 20 wydanych / 0 wolnych; Corruptor 18** (Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 4, Bursting Boils 3, Contagion 1, Poison Nova 1), Lich Soul Warp 1, Reaper Soul Eater 1. **Mastery: 5 wydanych / 0 wolnych** (miejsce piątego punktu niepotwierdzone). **Outbreak wymaga 19 wydanych w Corruptorze: brakuje 1 punktu w drzewku do odblokowania; sam zakup Outbreak będzie wymagał kolejnego punktu.** Przypisanie Flesh Rot do Y było rekomendacją, nie zostało jeszcze potwierdzone jako wykonane. Pozostałe przyciski: RT Blood Curse, LT Poison Nova, B Soul Warp, RB Soul Eater; LB wolny.
