@@ -1,3 +1,7 @@
+## Aktualizacja 20.10.2026 — potwierdzone wydanie 3 Skill Points i 2 Mastery Points
+
+Gracz potwierdził: „Rozdałem punkty jak mówiłeś. Ale ten punkt soul zostawiłem narazie.” Zgodnie z bezpośrednio poprzedzającym planem wydano **3 zwykłe punkty**: **Outbreak 1/3 → 3/3** (2 pkt), **Contagion 1 → 2** (1 pkt), oraz **2 Mastery Points w Poison Damage** (Corruptor Mastery, zielona czaszka). **Soul Eater 1 pozostaje w drzewku Reaper** — gracz NIE odzyskał tego punktu, mimo rozmowy o respecu. Bilans względem ostatniego potwierdzonego stanu: **25 zwykłych punktów wydanych**, w tym **Corruptor 23** (Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 5, Bursting Boils 3, Contagion 2, Poison Nova 1, Outbreak 3); Lich Soul Warp 1, Reaper Soul Eater 1. **Mastery 8 punktów wydanych** według sumy dotychczas potwierdzonych wydatków; dokładne rangi Poison Damage poza ostatnimi +2 wymagają weryfikacji w grze. Aktualny poziom postaci niepotwierdzony w tej wiadomości. **RB nadal Soul Eater**; respec NIE wykonany.
+
 ## Aktualizacja 20.10.2026 — pokonany boss (relacja gracza)
 
 Gracz potwierdził „Bos zabity” i przesłał zdjęcie pokonanego przeciwnika w świątynnej lokacji. **Nazwa bossa i dokładna lokacja niepotwierdzone** na podstawie zdjęcia. **Warlock Korgein przeżył walkę**; nie ma informacji o nowych punktach, przedmiotach ani zmianie buildu. Następnie sprawdzić łupy, przejście i aktualny cel zadania.
