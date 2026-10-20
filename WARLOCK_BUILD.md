@@ -2,6 +2,9 @@
 
 ## Preferencja stylu walki — potwierdzona 20.10.2026
 
+**Doprecyzowanie 20.10.2026:** aktywna walka ma pozostać **prosta i intuicyjna**, bez obowiązkowej długiej rotacji. Docelowy schemat: 2 często używane czary, 1 mocny AoE na grupy, 1 obrona/mobilność, ewentualnie 1 narzędzie na bossów. Każdy przycisk ma jasną funkcję; nie wymagać pamiętania pięcioetapowych kombinacji. To preferencja projektowa, nie potwierdzone przypisanie skilli do przycisków.
+
+
 **Cel nadrzędny:** efektowne, aktywne czyszczenie dużych grup i całych ekranów, **nie** automatyczne zabijanie po użyciu jednego przycisku. Gracz lubi regularnie korzystać ze **wszystkich przypisanych przycisków umiejętności** i wykonywać kombinacje czarów.
 
 - Priorytet dla **kilku aktywnych, komplementarnych skilli** (nakładanie efektów, detonacja/AoE, kontrola, mobilność/obrona), zamiast buildu opartego głównie na pasywnych procach.
