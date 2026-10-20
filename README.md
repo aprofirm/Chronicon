@@ -15,7 +15,7 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 **Ostatnia postać:** Warden — łucznik, zginął w Hardcore 17.10.2026.  
 **Aktualna klasa:** **Warlock** — użytkownik potwierdził wybór i rozpoczyna rozgrywkę.  
 **Nowy tryb:** bez Hardcore.  
-**Warlock Korgein:** ostatni potwierdzony screen **Lv. 14 / M2** (aktualny poziom może być wyższy). **14 zwykłych Skill Points wydanych / 1 NOWY wolny**; Corruptor: Blood Curse 4, Epidemic 1, Infection 3, Flesh Rot 1, Bursting Boils 3/3 MAX (12 punktów w drzewku); Lich Soul Warp 1 (B); Reaper Soul Eater 1. **Mastery Poison Corruptor R1-K1 ranga 2: 2 wydane / 1 NOWY wolny.** **REKOMENDACJE JESZCZE NIEWYDANE:** zwykły na Contagion 0→1 (jeśli odblokowane; w przeciwnym razie screen, alternatywa Poison Nova) oraz Mastery na Poison 2→3. W plecaku zaobserwowano okulary Camille i Treasury Key; wykorzystanie niepotwierdzone. Kryształy: rozwiązanie niepotwierdzone.
+**Warlock Korgein:** ostatni potwierdzony ekran **Lv. 15 / M3** (18.10; aktualny poziom może być wyższy). **Stan po potwierdzeniu 19.10: 18 zwykłych Skill Points wydanych / 0 wolnych**, Corruptor 16: Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 2, Bursting Boils 3, Contagion 1, Poison Nova 1; Lich Soul Warp 1 (B potwierdzone); Reaper Soul Eater 1. **Mastery Poison R1-K1 ranga 4: 4 wydane / 0 wolnych.** Wydanie trzech zwykłych i jednego Mastery użytkownik potwierdził zbiorczo 19.10; ewentualne rozbieżności do skorygowania po screenie. RT/LT/RB i wyposażenie nadal niepotwierdzone.
 
 ## Najważniejsze pliki
 
@@ -40,4 +40,4 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 
 ---
 
-**Ostatnia aktualizacja:** 18 października 2026.
+**Ostatnia aktualizacja:** 20 października 2026.
