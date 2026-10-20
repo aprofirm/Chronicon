@@ -22,7 +22,7 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 **Ostatnia postać:** Warden — łucznik, zginął w Hardcore 17.10.2026.  
 **Aktualna klasa:** **Warlock** — użytkownik potwierdził wybór i rozpoczyna rozgrywkę.  
 **Nowy tryb:** bez Hardcore.  
-**Warlock Korgein:** ostatni potwierdzony ekran **Lv. 15 / M3** (18.10; aktualny poziom może być wyższy). **Stan po potwierdzeniu 19.10: 18 zwykłych Skill Points wydanych / 0 wolnych**, Corruptor 16: Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 2, Bursting Boils 3, Contagion 1, Poison Nova 1; Lich Soul Warp 1 (B potwierdzone); Reaper Soul Eater 1. **Mastery Poison R1-K1 ranga 4: 4 wydane / 0 wolnych.** Wydanie trzech zwykłych i jednego Mastery użytkownik potwierdził zbiorczo 19.10; ewentualne rozbieżności do skorygowania po screenie. RT/LT/RB i wyposażenie nadal niepotwierdzone.
+**Warlock Korgein:** ostatni ekran **Lv. 19 / Mastery 5** (20.10.2026). **19 zwykłych punktów wydanych / 0 wolnych**: Corruptor **17** (Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 3, Bursting Boils 3, Contagion 1, Poison Nova 1), Lich Soul Warp 1 (B), Reaper Soul Eater 1. **Mastery: 5 wydanych / 0 wolnych**; Poison (zielona czaszka R1-K1) potwierdzone **4 rangi**, lokalizacja piątego punktu jeszcze niepotwierdzona. **Outbreak zablokowany** do 19 punktów w Corruptor (obecnie 17). Dusze: losowy drop z zabitych przeciwników, wymagają obserwacji licznika; Soul Eater 1/3 zużywa duszę na leczenie 10% maks. HP. Następny etap: walka, bez oczekujących punktów; po nowym poziomie lub zgonie aktualizować [WARLOCK_PROGRESS.md](WARLOCK_PROGRESS.md). RT/LT/RB i ekwipunek nadal niepotwierdzone.
 
 ## Źródła zewnętrzne
 
