@@ -15,10 +15,10 @@ Gracz potwierdził: „Punkty wydane. Jak coś nie będzie się zgadzać to zgł
 **Status:** aktywny — użytkownik rozpoczyna walkę Warlockiem, 17.10.2026.  
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
-**Poziom:** **15**, **Mastery Rank 3 (M3)** — potwierdzone screenem 18.10.2026.
-**Wolne Skill Points:** **0** — screenshot pokazuje Skill Points: 0, Blood Curse 5/5.
-**Wydane Skill Points:** **15** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot 1, Bursting Boils 3/3 (**13 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
-**Mastery Points:** **3 wydane / 0 wolnych** — Poison (zielona czaszka R1-K1) ranga 3, potwierdzone wcześniej; aktualny screen M3.
+**Ostatni poziom potwierdzony ekranem:** **15 / M3** (18.10.2026); po wydaniu punktów 19.10 poziom może być wyższy.
+**Wolne Skill Points:** **0** — po potwierdzonym zbiorczo wydaniu punktów 19.10.2026.
+**Wydane Skill Points:** **18** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot **2**, Bursting Boils 3/3, Contagion **1**, Poison Nova **1** (**16 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
+**Mastery Points:** **4 wydane / 0 wolnych** — Poison (zielona czaszka R1-K1) ranga **4**; zbiorcze potwierdzenie 19.10.2026.
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
@@ -26,17 +26,19 @@ Gracz potwierdził: „Punkty wydane. Jak coś nie będzie się zgadzać to zgł
 
 | Drzewko | Umiejętność | Ranga | Rola |
 |---|---|---:|---|
-| **Corruptor** | **Blood Curse** | **4** | główny atak Poison, AoE + DoT; proponowany na RT, przypisanie niepotwierdzone |
+| **Corruptor** | **Blood Curse** | **5** | główny atak Poison, AoE + DoT; proponowany na RT, przypisanie niepotwierdzone |
 | **Corruptor** | **Epidemic** | **1** | pasywka zwiększająca Attack Speed, działa bez przycisku |
 | **Corruptor** | **Infection** | **3** | pasywne DoT na trafieniach umiejętnościami Poison; nie wymaga przycisku |
-| **Corruptor** | **Flesh Rot** | **1** | aktywna klątwa Poison na grupy, obrażenia w czasie; proponowane LT, przypisanie niepotwierdzone |
+| **Corruptor** | **Flesh Rot** | **2** | aktywna klątwa Poison na grupy, obrażenia w czasie; proponowane LT, przypisanie niepotwierdzone |
 | **Corruptor** | **Bursting Boils** | **3/3** | **MAX potwierdzony przez gracza** — pasywka Poison / Infection, aktualny tooltip dla max rangi 20% szansy / 3,6 m promienia; bez przycisku na padzie |
+| **Corruptor** | **Contagion** | **1** | pasywne rozprzestrzenianie Infection; wydanie potwierdzone zbiorczo 19.10 |
+| **Corruptor** | **Poison Nova** | **1** | aktywne AoE; przypisanie do LT niepotwierdzone |
 | **Lich** | **Soul Warp** | **1** | teleport **przypisany do B — potwierdzone przez gracza** |
 | **Reaper** | **Soul Eater** | **1** | leczenie za 1 Soul, **10% max HP**, cooldown **36 s** (tooltip na screenie 18.10.2026); docelowe RB, **faktyczne przypisanie niepotwierdzone** |
 
-**Potwierdzono: 14 zwykłych Skill Points wydanych / 1 wolny; osobno Mastery Poison ranga 3 — 3 wydane / 0 wolnych.** Gracz zgłosił po jednym NOWYM punkcie. Rekomendacje **NIE WYDANE**: Contagion 0→1 (jeśli odblokowane przy 12 punktach w Corruptorze) i Poison Mastery 2→3. Poziom postaci pozostaje ostatnio potwierdzony na screenie 14/M2, aktualny może być wyższy. **B jest potwierdzone**; RT/LT/RB/Y/LB pozostają do potwierdzenia.
+**Stan na 19.10.2026:** **18 zwykłych punktów wydanych / 0 wolnych; Mastery Poison ranga 4 — 4 wydane / 0 wolnych**. Potwierdzenie zbiorcze użytkownika dotyczy planu Flesh Rot 2, Contagion 1, Poison Nova 1 i Poison Mastery 4. W razie rozbieżności z grą skorygować po screenie.
 
-## Projekt buildu — 14 punktów potwierdzonych
+## Projekt buildu — 18 punktów potwierdzonych
 
 **[WARLOCK_BUILD.md](WARLOCK_BUILD.md)**: główne drzewko **Corruptor Poison**; **Blood Curse → Infection → efekty szerzenia zarazy → Poison Nova + Outbreak**. Wsparcie **Reaper (Soul Eater), Lich (Soul Warp), Demonologist (Demon Skin)**. Wszystkie cztery drzewka i Mastery w [WARLOCK_SKILL_TREES.md](WARLOCK_SKILL_TREES.md).
 
