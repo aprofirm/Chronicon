@@ -16,6 +16,13 @@
 - **Następna ranga (podgląd):** **273% Poison damage (881–1193)** w promieniu **5.5 m**. Zachowano liczby dokładnie z tooltipu zdjęcia, nawet jeśli zakres obrażeń wydaje się niespójny.
 - **Status:** potwierdzone zrzutem ekranu 20.10.2026; nie oznacza wydania kolejnego punktu.
 
+### Potwierdzone tooltipem 1.61 — Outbreak (20.10.2026)
+
+- **Outbreak** (Corruptor / Poison), **Passive Skill**, **ranga 0/3**; **wymaga 19 punktów wydanych w drzewku Corruptor**. Obecnie Corruptor ma 16 wydanych, więc potrzeba jeszcze 3 przed odblokowaniem Outbreak (punkt na zakup samego Outbreak będzie kolejnym).
+- **Ranga początkowa:** zainfekowani przeciwnicy mają **12% szansy wybuchnąć przy śmierci**; wybuch zadaje **9% ich maksymalnego HP** jako Poison Damage w promieniu **3.0 m**.
+- **Maksymalna ranga:** **20% szansy**, **15% maksymalnego HP**, promień **3.0 m**.
+- **Status:** wartości i blokada potwierdzone screenshotem 20.10.2026; punkt NIE wydany.
+
 ## Specjalizacje
 
 - **Corruptor** — Poison, Infection, klątwy, towarzysze.
