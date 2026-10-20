@@ -1,3 +1,7 @@
+## 20.10.2026 - Mastery: Poison Damage +1
+
+Gracz potwierdzil wydanie kolejnego punktu Mastery na Poison Damage w drzewku Corruptor Mastery. Suma potwierdzonych wydatkow: 10 punktow Mastery, 0 wolnych. Zwykle Skill Points bez zmian: 27 wydanych, Poison Nova 2/5, Contagion 3/3, Outbreak 3/3, Demon Skin 1, Soul Eater 0. Dokladna ranga pola Poison Damage nie zostala potwierdzona na ekranie.
+
 ## 20.10.2026 - nowe dane, Poison Nova i odpornosci
 
 Potwierdzony zakup: Poison Nova 1/5 -> 2/5. Tooltip: 277% Poison Damage, promien 6.3 m, koszt 96 many; nastepna ranga 288% i 6.5 m. Stan: Lv 27 / M9, 27 zwyklych punktow wydanych (Corruptor 25, Lich Soul Warp 1, Demonologist Demon Skin 1, Reaper Soul Eater 0), 9 Mastery wydanych. RB i LB wolne.
