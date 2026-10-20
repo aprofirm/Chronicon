@@ -9,6 +9,13 @@
 - **ROZBIEŻNOŚĆ** — gdy opis z gry różni się od archiwum, obowiązuje aktualny tooltip gry. Przykład: Bursting Boils, pierwsza ranga — 10% na ekranie 1.61 wobec 12% w starszych danych (zgłoszona różnica; do ponownego sprawdzenia na ekranie, jeśli będzie istotna dla decyzji).
 - Samo posiadanie punktów w umiejętności **nie potwierdza** wszystkich liczb i efektów z archiwalnego opisu. Wpisy w tabelach poniżej domyślnie mają status **DO WERYFIKACJI**, chyba że konkretny parametr opisano osobno jako potwierdzony.
 
+### Potwierdzone tooltipem 1.61 — Poison Nova (20.10.2026)
+
+- **Poison Nova**, Corruptor, **Active Skill / Sorcery / Nova Skill**, **ranga 1/5**, koszt **56 mana**.
+- **Aktualna ranga:** natychmiast **263% Poison damage (849–1449)** wszystkim przeciwnikom w promieniu **5.3 m**.
+- **Następna ranga (podgląd):** **273% Poison damage (881–1193)** w promieniu **5.5 m**. Zachowano liczby dokładnie z tooltipu zdjęcia, nawet jeśli zakres obrażeń wydaje się niespójny.
+- **Status:** potwierdzone zrzutem ekranu 20.10.2026; nie oznacza wydania kolejnego punktu.
+
 ## Specjalizacje
 
 - **Corruptor** — Poison, Infection, klątwy, towarzysze.
