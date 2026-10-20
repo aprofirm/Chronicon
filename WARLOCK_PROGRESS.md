@@ -1,3 +1,7 @@
+## 20.10.2026 - Poison Nova MAX i Mastery +1
+
+Gracz potwierdzil wydanie 1 zwyklego punktu na Poison Nova (4/5 -> 5/5 MAX) oraz 1 punktu Mastery na Poison Damage w Corruptor Mastery. Stan po wydaniu: 30 zwyklych Skill Points wydanych, 12 Mastery wydanych, 0 wolnych na chwile potwierdzenia. Warlock Korgein gra w trybie normalnym, NIE Hardcore. Dokladna ranga Poison Damage Mastery niezweryfikowana.
+
 ## 20.10.2026 - Poison Nova 4/5, Mastery +1
 
 Gracz potwierdzil wydanie 2 zwyklych punktow na Poison Nova (2/5 -> 4/5) oraz 1 punktu Mastery na Poison Damage (Corruptor Mastery). Lacznie 29 zwyklych Skill Points wydanych, 11 Mastery wydanych, 0 wolnych na chwile potwierdzenia. Pozostale skille bez zmian: Blood Curse 5/5, Epidemic 1/5, Infection 3, Flesh Rot 5/5, Bursting Boils 3/3, Contagion 3/3, Outbreak 3/3, Soul Warp 1, Demon Skin 1, Soul Eater 0. Dokladna ranga Poison Damage Mastery niezweryfikowana. Gracz wraca do walki.
