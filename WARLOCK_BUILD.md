@@ -1,5 +1,26 @@
 # Warlock — roboczy build do kampanii: Corruptor / Infection / Poison Nova
 
+## Priorytety ekwipunku — uzgodnione 20.10.2026
+
+**Cel:** aktywny Poison Corruptor z efektownym AoE, kilkoma intuicyjnymi przyciskami i odpowiednią przeżywalnością (po śmierci zmieniamy klasę). To **kryteria wyboru łupów**, a nie potwierdzone aktualne statystyki wyposażenia.
+
+| Statystyka / efekt | Priorytet | Zastosowanie / uwagi |
+|---|---|---|
+| Poison Damage | bardzo wysoki | podstawowy typ obrażeń; sprawdzać wpływ na konkretne skille |
+| Ogólne Damage / All Damage | wysoki | wzmacnianie używanych umiejętności, zgodnie z tooltipem |
+| Cooldown Reduction | wysoki | częstsze ręczne używanie aktywnych czarów |
+| Health, Resistances, Damage Reduction | wysoki | przeżywalność, zwłaszcza przy dużych grupach i bossach |
+| Szybkość ataku/rzucania (jeśli wpływa na skill) | sytuacyjnie wysoki | płynność głównego ataku, nie zakładać automatycznie działania na wszystkie czary |
+| Movement Speed | średni | pozycjonowanie i uniki |
+| Mana / Mana Regeneration | zależnie od potrzeb | tylko gdy ogranicza częstotliwość rzucania |
+| Critical Hit Chance / Damage | zależny od mechaniki | zweryfikować, czy główne źródła obrażeń/DoT korzystają z krytyków |
+
+**Sloty:** broń — Poison Damage / obrażenia / szybkość; pancerz — Health / odporności / redukcja; biżuteria i dodatki — Cooldown Reduction / Poison Damage / synergie skilli. To wskazówki, nie ograniczenia: porównujemy faktyczne bonusy przedmiotów.
+
+**Efekty specjalne:** priorytetowo analizować bonusy do Infection, Bursting Boils, Contagion, Poison Nova oraz eksplozji i rozprzestrzeniania trucizny; mogą być warte więcej niż surowy wzrost statystyk. Nie zakładać bez sprawdzenia, że każdy bonus Poison/Crit działa na obrażenia w czasie. Tooltip gry 1.61 ma pierwszeństwo przed danymi 1.52.
+
+**Procedura porównania łupów:** użytkownik pokazuje dwa przedmioty; wskazujemy konkretnie lewy/prawy z krótkim uzasadnieniem pod kątem AoE, aktywnej walki, bossów i przeżywalności. Zmianę wyposażenia zapisujemy w WARLOCK_PROGRESS.md dopiero po potwierdzeniu założenia.
+
 ## Preferencja stylu walki — potwierdzona 20.10.2026
 
 **Doprecyzowanie 20.10.2026:** aktywna walka ma pozostać **prosta i intuicyjna**, bez obowiązkowej długiej rotacji. Docelowy schemat: 2 często używane czary, 1 mocny AoE na grupy, 1 obrona/mobilność, ewentualnie 1 narzędzie na bossów. Każdy przycisk ma jasną funkcję; nie wymagać pamiętania pięcioetapowych kombinacji. To preferencja projektowa, nie potwierdzone przypisanie skilli do przycisków.
