@@ -4,6 +4,13 @@
 
 > **Zakres i pewność:** To **pełna mapa historycznego układu siedmiu wierszy i pól Mastery** z eksportu ChroniCalc, **nie kompletny, zweryfikowany wykaz 1.61**. Lista wariantów w każdym polu pochodzi ze starszego eksportu. Na screenie aktualnej gry dla R1-K1 widać **5 ikon**, podczas gdy eksport ma **4 warianty**. Nie wolno na tej podstawie przypisać ikonom nazw ani uznać niewidocznych opcji za nieistniejące.
 
+## Status weryfikacji wersji 1.61 (20.10.2026)
+
+- **POTWIERDZONE W 1.61** — tylko informacje odczytane bezpośrednio z ekranu gry lub wyraźnie potwierdzone przez gracza; zapisujemy źródło i datę potwierdzenia.
+- **DO WERYFIKACJI — ŹRÓDŁO 1.52 / ARCHIWALNE** — wszystkie pozostałe nazwy, efekty, wartości, rangi, wymagania i układ pól pochodzące ze starszych eksportów. Nie traktować ich jako potwierdzonych dla 1.61.
+- **ROZBIEŻNOŚĆ** — gdy opis z gry różni się od archiwum, obowiązuje aktualny tooltip gry. Przykład: Bursting Boils, pierwsza ranga — 10% na ekranie 1.61 wobec 12% w starszych danych (zgłoszona różnica; do ponownego sprawdzenia na ekranie, jeśli będzie istotna dla decyzji).
+- Samo posiadanie punktów w umiejętności **nie potwierdza** wszystkich liczb i efektów z archiwalnego opisu. Wpisy w tabelach poniżej domyślnie mają status **DO WERYFIKACJI**, chyba że konkretny parametr opisano osobno jako potwierdzony.
+
 ## Jak czytać atlas
 
 - **R1–R7** = wiersze od góry, **K1–K9** = kolumny od lewej. Np. **R1-K1** to pierwsze `+` w Corruptor Mastery.
