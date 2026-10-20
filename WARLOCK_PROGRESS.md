@@ -1,3 +1,7 @@
+## Aktualizacja 20.10.2026 — potwierdzone wydanie kolejnych 1 Skill Point + 1 Mastery Point
+
+Gracz potwierdził „Rozdałem punkty jak poleciłeś”. **Flesh Rot 4/5 → 5/5** (Corruptor), **Mastery Poison Damage +1** (pierwsze pole Corruptor Mastery, zielona czaszka, R1-K1; konkretny aktualny tooltip/ranga poprzedniego piątego punktu pozostawały niezweryfikowane). **Zwykłe: 21 wydanych / 0 wolnych; Corruptor 19** (Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 5, Bursting Boils 3, Contagion 1, Poison Nova 1), Lich Soul Warp 1, Reaper Soul Eater 1. **Mastery: 6 wydanych / 0 wolnych**; Poison Damage zyskał 1 rangę względem poprzedniego stanu. **Outbreak jest teraz odblokowany progiem 19 punktów Corruptora, ale NIE kupiony** — plan na kolejny zwykły punkt: Outbreak 0→1. Pad bez zmian: RT Blood Curse, LT Poison Nova, Y Flesh Rot, B Soul Warp, RB Soul Eater, LB wolny.
+
 ## Aktualizacja 20.10.2026 — potwierdzone przypisanie Flesh Rot do Y
 
 Gracz potwierdził: **Y = Flesh Rot (4/5)**. Aktualny pad: **RT Blood Curse, LT Poison Nova, B Soul Warp, RB Soul Eater, Y Flesh Rot, LB wolny**. RB/Soul Eater pozostaje problematyczny z powodu braku obserwowanego generowania dusz.
@@ -76,9 +80,9 @@ Gracz potwierdził: „Punkty wydane. Jak coś nie będzie się zgadzać to zgł
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Ostatni poziom potwierdzony ekranem:** **20 / M5** (20.10.2026).
-**Wolne Skill Points:** **0** (punkt z poziomu 20 wydany na Flesh Rot 3→4).
-**Wydane Skill Points:** **20** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot **4**, Bursting Boils 3/3, Contagion **1**, Poison Nova **1** (**18 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
-**Mastery Points:** **5 wydanych / 0 wolnych** — Poison (zielona czaszka R1-K1) **co najmniej ranga 4**; piąty punkt wydany według gracza 20.10, dokładne pole niepotwierdzone (możliwe Poison 5).
+**Wolne Skill Points:** **0** (najnowszy punkt wydany na Flesh Rot 4→5).
+**Wydane Skill Points:** **21** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot **5/5**, Bursting Boils 3/3, Contagion **1**, Poison Nova **1** (**19 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
+**Mastery Points:** **6 wydanych / 0 wolnych** — najnowszy punkt potwierdzony na **Poison Damage** (R1-K1); wcześniejsze miejsce piątego punktu pozostaje niezweryfikowane, więc dokładna ranga pola wymaga sprawdzenia na ekranie.
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
