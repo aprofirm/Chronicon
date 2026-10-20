@@ -1,3 +1,9 @@
+## Aktualizacja 20.10.2026 — pięć zrzutów drzewek (stan PRZED wydaniem punktów)
+
+**Potwierdzone ekranami:** Korgein **Lv 19 / M5**; **1 wolny Skill Point i 1 wolny Mastery Point**. Mastery Poison (zielona czaszka R1-K1) nadal **ranga 4**. Lich Soul Warp 1, Reaper Soul Eater 1; Demonologist bez punktów. Corruptor nadal główne drzewko. Stan 19.10 pozostaje historią — nowe punkty **nie są jeszcze wydane**. Wydane: 18 zwykłych i 4 Mastery (na podstawie poprzedniego potwierdzenia i obecnych screenów); wolne: 1 + 1.
+
+**Nowe obserwacje UI:** widoczne pięć zakładek Corruptor, Lich, Demonologist, Reaper, Mastery. Ikony i pozycje z atlasu 1.52 są wskazówką, **nie pełnym potwierdzeniem tooltipów 1.61**. Screenshot Mastery pokazuje R1-K1 zieloną czaszkę z cyfrą 4. Przypisania RT/LT/RB/Y/LB pozostają niepotwierdzone; nie utożsamiać ikon paska z potwierdzonymi nazwami skilli.
+
 ## Aktualizacja 19.10.2026 — potwierdzone wydanie 3 Skill Points i 1 Mastery Point
 
 Gracz potwierdził: „Punkty wydane. Jak coś nie będzie się zgadzać to zgłoszę” w odpowiedzi na konkretny plan. Zapisujemy wykonanie **zgodnie z planem**, z zastrzeżeniem ewentualnej późniejszej korekty:
@@ -15,10 +21,10 @@ Gracz potwierdził: „Punkty wydane. Jak coś nie będzie się zgadzać to zgł
 **Status:** aktywny — użytkownik rozpoczyna walkę Warlockiem, 17.10.2026.  
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
-**Ostatni poziom potwierdzony ekranem:** **15 / M3** (18.10.2026); po wydaniu punktów 19.10 poziom może być wyższy.
-**Wolne Skill Points:** **0** — po potwierdzonym zbiorczo wydaniu punktów 19.10.2026.
+**Ostatni poziom potwierdzony ekranem:** **19 / M5** (20.10.2026).
+**Wolne Skill Points:** **1** (screen 20.10.2026; niewydany).
 **Wydane Skill Points:** **18** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot **2**, Bursting Boils 3/3, Contagion **1**, Poison Nova **1** (**16 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
-**Mastery Points:** **4 wydane / 0 wolnych** — Poison (zielona czaszka R1-K1) ranga **4**; zbiorcze potwierdzenie 19.10.2026.
+**Mastery Points:** **4 wydane / 1 wolny** — Poison (zielona czaszka R1-K1) ranga **4**; ekran 20.10.2026.
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
