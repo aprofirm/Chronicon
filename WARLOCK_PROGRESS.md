@@ -1,3 +1,7 @@
+## Aktualizacja 20.10.2026 — pokonany boss (relacja gracza)
+
+Gracz potwierdził „Bos zabity” i przesłał zdjęcie pokonanego przeciwnika w świątynnej lokacji. **Nazwa bossa i dokładna lokacja niepotwierdzone** na podstawie zdjęcia. **Warlock Korgein przeżył walkę**; nie ma informacji o nowych punktach, przedmiotach ani zmianie buildu. Następnie sprawdzić łupy, przejście i aktualny cel zadania.
+
 ## Aktualizacja 20.10.2026 — potwierdzony zakup Outbreak 1/3 (screen)
 
 Gracz potwierdził wydanie **1 zwykłego Skill Point na Outbreak 0→1**; ekran gry pokazuje **Outbreak Rank 1/3**, pasywka Poison. **Bilans: 22 zwykłe punkty wydane / 0 wolnych, Corruptor 20** (Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 5, Bursting Boils 3, Contagion 1, Poison Nova 1, **Outbreak 1**); Lich Soul Warp 1, Reaper Soul Eater 1. **Mastery: 6 wydanych / 0 wolnych**, bez nowej zmiany. Tooltip 1.61: zainfekowani przeciwnicy mają **12% szansy na eksplozję przy śmierci**, która zadaje **9% ich maksymalnego HP jako Poison Damage w promieniu 3.1 m**. Kolejna ranga: **16% szansy, 12% maksymalnego HP, promień 3.1 m**. Pasywka nie wymaga przypisania na padzie. Następny punkt do rozważenia: Outbreak 1→2; NIE kupiony.
