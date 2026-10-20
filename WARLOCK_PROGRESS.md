@@ -1,3 +1,7 @@
+## 20.10.2026 - Poison Nova 4/5, Mastery +1
+
+Gracz potwierdzil wydanie 2 zwyklych punktow na Poison Nova (2/5 -> 4/5) oraz 1 punktu Mastery na Poison Damage (Corruptor Mastery). Lacznie 29 zwyklych Skill Points wydanych, 11 Mastery wydanych, 0 wolnych na chwile potwierdzenia. Pozostale skille bez zmian: Blood Curse 5/5, Epidemic 1/5, Infection 3, Flesh Rot 5/5, Bursting Boils 3/3, Contagion 3/3, Outbreak 3/3, Soul Warp 1, Demon Skin 1, Soul Eater 0. Dokladna ranga Poison Damage Mastery niezweryfikowana. Gracz wraca do walki.
+
 ## 20.10.2026 - Mastery: Poison Damage +1
 
 Gracz potwierdzil wydanie kolejnego punktu Mastery na Poison Damage w drzewku Corruptor Mastery. Suma potwierdzonych wydatkow: 10 punktow Mastery, 0 wolnych. Zwykle Skill Points bez zmian: 27 wydanych, Poison Nova 2/5, Contagion 3/3, Outbreak 3/3, Demon Skin 1, Soul Eater 0. Dokladna ranga pola Poison Damage nie zostala potwierdzona na ekranie.
