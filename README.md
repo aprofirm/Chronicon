@@ -24,6 +24,10 @@ Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 **Nowy tryb:** bez Hardcore.  
 **Warlock Korgein:** ostatni potwierdzony ekran **Lv. 15 / M3** (18.10; aktualny poziom może być wyższy). **Stan po potwierdzeniu 19.10: 18 zwykłych Skill Points wydanych / 0 wolnych**, Corruptor 16: Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 2, Bursting Boils 3, Contagion 1, Poison Nova 1; Lich Soul Warp 1 (B potwierdzone); Reaper Soul Eater 1. **Mastery Poison R1-K1 ranga 4: 4 wydane / 0 wolnych.** Wydanie trzech zwykłych i jednego Mastery użytkownik potwierdził zbiorczo 19.10; ewentualne rozbieżności do skorygowania po screenie. RT/LT/RB i wyposażenie nadal niepotwierdzone.
 
+## Źródła zewnętrzne
+
+**[CHRONICON_SOURCES.md](CHRONICON_SOURCES.md)** — sprawdzone adresy baz, poradników i narzędzi oraz procedura weryfikacji wersji 1.61 przed rozdawaniem punktów.
+
 ## Najważniejsze pliki
 
 1. **[RUN_TRACKER.md](RUN_TRACKER.md)** — zasady rozgrywki i rotacja klas.
