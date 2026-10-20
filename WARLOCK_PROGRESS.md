@@ -1,3 +1,7 @@
+## Aktualizacja 20.10.2026 — potwierdzone Flesh Rot 4/5
+
+Gracz potwierdził **zwiększenie Flesh Rot 3→4** po obejrzeniu tooltipu. **Lv 20 / M5; zwykłe Skill Points: 20 wydanych / 0 wolnych; Corruptor 18** (Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 4, Bursting Boils 3, Contagion 1, Poison Nova 1), Lich Soul Warp 1, Reaper Soul Eater 1. **Mastery: 5 wydanych / 0 wolnych** (miejsce piątego punktu niepotwierdzone). **Outbreak wymaga 19 wydanych w Corruptorze: brakuje 1 punktu w drzewku do odblokowania; sam zakup Outbreak będzie wymagał kolejnego punktu.** Przypisanie Flesh Rot do Y było rekomendacją, nie zostało jeszcze potwierdzone jako wykonane. Pozostałe przyciski: RT Blood Curse, LT Poison Nova, B Soul Warp, RB Soul Eater; LB wolny.
+
 ## Aktualizacja 20.10.2026 — Lv20, punkt wolny, sterowanie padem (screen)
 
 **Potwierdzone ekranem:** Korgein **Lv 20 / M5**, **1 wolny zwykły Skill Point**, **Flesh Rot 3/5** (nie wydano jeszcze nowego punktu). Wydane nadal **19 zwykłych punktów**, Corruptor **17**; Mastery **5 wydanych / 0 wolnych** według poprzedniego potwierdzenia.
@@ -68,8 +72,8 @@ Gracz potwierdził: „Punkty wydane. Jak coś nie będzie się zgadzać to zgł
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Ostatni poziom potwierdzony ekranem:** **20 / M5** (20.10.2026).
-**Wolne Skill Points:** **1** (nowy punkt z poziomu 20, jeszcze niewydany).
-**Wydane Skill Points:** **19** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot **3**, Bursting Boils 3/3, Contagion **1**, Poison Nova **1** (**17 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
+**Wolne Skill Points:** **0** (punkt z poziomu 20 wydany na Flesh Rot 3→4).
+**Wydane Skill Points:** **20** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot **4**, Bursting Boils 3/3, Contagion **1**, Poison Nova **1** (**18 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
 **Mastery Points:** **5 wydanych / 0 wolnych** — Poison (zielona czaszka R1-K1) **co najmniej ranga 4**; piąty punkt wydany według gracza 20.10, dokładne pole niepotwierdzone (możliwe Poison 5).
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
