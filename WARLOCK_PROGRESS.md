@@ -1,3 +1,17 @@
+## Aktualizacja 20.10.2026 — Lv20, punkt wolny, sterowanie padem (screen)
+
+**Potwierdzone ekranem:** Korgein **Lv 20 / M5**, **1 wolny zwykły Skill Point**, **Flesh Rot 3/5** (nie wydano jeszcze nowego punktu). Wydane nadal **19 zwykłych punktów**, Corruptor **17**; Mastery **5 wydanych / 0 wolnych** według poprzedniego potwierdzenia.
+
+**Potwierdzone przez gracza przypisania pada:**
+- **RT = Blood Curse**
+- **LT = Poison Nova**
+- **B = Soul Warp**
+- **RB = Soul Eater** — gracz zgłasza, że dusze się nie generują / umiejętność nie ładuje się.
+- **Y = wolny**, **LB = wolny**.
+- **Flesh Rot 3/5 = nieprzypisany** do przycisku. **Rekomendacja, NIE potwierdzona zmiana:** przypisać Flesh Rot do **Y**. Nie wpisywać jako wykonane bez potwierdzenia.
+
+**Flesh Rot — tooltip potwierdzony ekranem 1.61:** Active Skill, Curse, Assault Skill, 36 mana, cooldown 3.68 s, ranga 3/5. Trafia cel i pobliskich przeciwników w promieniu 2.3 m, natychmiastowe 183% (602–814) Poison Damage, połowa tej wartości na sekundę przez 5 s; klątwa może rozprzestrzenić się na innych pobliskich wrogów. Następna ranga: 193% (635–859) Poison Damage, promień 2.5 m, 5 s. **Nowy punkt nie został wydany.**
+
 ## Filtry łupów — ustawienia uzgodnione 20.10.2026 (do weryfikacji po zastosowaniu)
 
 Gracz poprosił o zapisanie ustaleń dotyczących filtrów dla **Warlocka Korgeina**, bo wypada za dużo przedmiotów. Poniżej **rekomendowana konfiguracja omówiona w rozmowie**; nie mamy jednoznacznego potwierdzenia, że wszystkie przełączniki zostały już zmienione w grze.
@@ -53,8 +67,8 @@ Gracz potwierdził: „Punkty wydane. Jak coś nie będzie się zgadzać to zgł
 **Status:** aktywny — użytkownik rozpoczyna walkę Warlockiem, 17.10.2026.  
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
-**Ostatni poziom potwierdzony ekranem:** **19 / M5** (20.10.2026).
-**Wolne Skill Points:** **0** (punkt z ekranu 20.10 wydany na Flesh Rot 2→3).
+**Ostatni poziom potwierdzony ekranem:** **20 / M5** (20.10.2026).
+**Wolne Skill Points:** **1** (nowy punkt z poziomu 20, jeszcze niewydany).
 **Wydane Skill Points:** **19** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot **3**, Bursting Boils 3/3, Contagion **1**, Poison Nova **1** (**17 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
 **Mastery Points:** **5 wydanych / 0 wolnych** — Poison (zielona czaszka R1-K1) **co najmniej ranga 4**; piąty punkt wydany według gracza 20.10, dokładne pole niepotwierdzone (możliwe Poison 5).
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
