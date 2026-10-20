@@ -1,5 +1,15 @@
 # Warlock — roboczy build do kampanii: Corruptor / Infection / Poison Nova
 
+## Preferencja stylu walki — potwierdzona 20.10.2026
+
+**Cel nadrzędny:** efektowne, aktywne czyszczenie dużych grup i całych ekranów, **nie** automatyczne zabijanie po użyciu jednego przycisku. Gracz lubi regularnie korzystać ze **wszystkich przypisanych przycisków umiejętności** i wykonywać kombinacje czarów.
+
+- Priorytet dla **kilku aktywnych, komplementarnych skilli** (nakładanie efektów, detonacja/AoE, kontrola, mobilność/obrona), zamiast buildu opartego głównie na pasywnych procach.
+- Poison/Infection/Bursting Boils/Contagion/Poison Nova to obecny kierunek; **konkretną rotację i przyciski trzeba potwierdzić na ekranach 1.61**, nie zakładać działania ze starszych danych.
+- Przy każdym kolejnym punkcie oceniaj: (1) efektowność, (2) aktywne zaangażowanie, (3) synergię AoE, (4) obrażenia na bossach, (5) przeżywalność.
+- Nie przebudowywać postaci ani nie wydawać punktów bez potwierdzenia. Rozważyć gotowe buildy jako źródło synergii, nie sztywny scenariusz.
+
+
 **Gracz zaczął grać Warlockiem 17.10.2026.** Od tej postaci gramy **bez Hardcore**. Nasza zasada rotacji: po zgonie zmieniamy klasę, więc nadal warto dbać o przeżywalność. Żadne punkty ani przyciski tego pliku nie są potwierdzonym stanem postaci — faktyczny stan jest w WARLOCK_PROGRESS.md.
 
 ## Pomysł i uzasadnienie
