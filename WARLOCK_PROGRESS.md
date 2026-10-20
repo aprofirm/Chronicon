@@ -1,3 +1,24 @@
+## Filtry łupów — ustawienia uzgodnione 20.10.2026 (do weryfikacji po zastosowaniu)
+
+Gracz poprosił o zapisanie ustaleń dotyczących filtrów dla **Warlocka Korgeina**, bo wypada za dużo przedmiotów. Poniżej **rekomendowana konfiguracja omówiona w rozmowie**; nie mamy jednoznacznego potwierdzenia, że wszystkie przełączniki zostały już zmienione w grze.
+
+**Settings → Display Filters:**
+- `Toggle Display Items instead of hold` — OFF (bez zmian).
+- `Filter out other class items` — ON.
+- `Remove quality-filtered equipment from game world` — **ON, jeśli gracz świadomie akceptuje utratę możliwości zebrania/rozłożenia odfiltrowanych przedmiotów**; wymaga potwierdzenia.
+- `Ordinary Equipment` (biały) — OFF; `Enchanted Equipment` (niebieski) — OFF.
+- `Rare Equipment` (fioletowy) — ON; `Unique`, `Legendary`, `True Legendary`, wszystkie `Cursed` — ON.
+- Potions, Elixirs, Scrolls, Keys oraz inne materiały/użytkowe — ON; dalszych pozycji menu jeszcze nie obejrzano.
+
+**Settings → Radial Loot Filters:**
+- `Don't loot any Equipment with Radial Loot` — OFF.
+- `Radial Loot key toggles Auto-loot` — OFF.
+- `Ordinary Equipment` — OFF; `Enchanted Equipment` — OFF.
+- `Rare`, `Unique`, `Legendary`, `True Legendary`, wszystkie `Cursed` — ON.
+- Potions, Elixirs, Scrolls, Keys, Misc. Consumables — ON; pozostałe pozycje do sprawdzenia po przewinięciu.
+
+**Cel:** ograniczyć widoczność i podnoszenie najtańszego sprzętu, zachować przedmioty użytkowe i wartościowsze jakości. **Koszt:** mniej łupów na sprzedaż i rozkładanie. Filtr wyświetlania i filtr Radial Loot to dwa niezależne ustawienia.
+
 ## Aktualizacja 20.10.2026 — Mastery wydane, mechanika dusz
 
 - Gracz potwierdził: **„Mastery już wydałem”**. Stan: **5 Mastery Points wydanych / 0 wolnych**. **Nie potwierdził konkretnego pola**, dlatego Poison R1-K1 **4→5 jest przypuszczeniem na podstawie ostatniej rekomendacji, a nie pewnym zakupem**. Do potwierdzenia screenem.
