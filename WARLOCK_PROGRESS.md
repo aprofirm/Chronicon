@@ -1,3 +1,7 @@
+## 20.10.2026 - koniec sesji / punkt do rozdania
+
+Korgein (Warlock Poison, tryb normalny, NIE Hardcore). Ostatni potwierdzony stan: 30 zwyklych punktow wydanych, 12 Mastery wydanych; Poison Nova 5/5 MAX, Contagion 3/3 MAX, Outbreak 3/3 MAX. Ostatnio gracz zglosil JEDEN NOWY zwykly punkt do wydania. Zalecono Epidemic 1/5 -> 2/5 (Attack Speed), ale gracz NIE POTWIERDZIL jego wydania. Przy nastepnej sesji zapytac, czy punkt zostal wydany; nie oznaczac Epidemic 2/5 jako potwierdzonego. W ostatniej sesji napotkano Unstable Dimension; wejscie niepotwierdzone. Spadek odpornosci zaobserwowany, przyczyna nieustalona. Rozwazano mozliwosc analizy plikow save postaci; plikow nie przeslano.
+
 ## 20.10.2026 - Poison Nova MAX i Mastery +1
 
 Gracz potwierdzil wydanie 1 zwyklego punktu na Poison Nova (4/5 -> 5/5 MAX) oraz 1 punktu Mastery na Poison Damage w Corruptor Mastery. Stan po wydaniu: 30 zwyklych Skill Points wydanych, 12 Mastery wydanych, 0 wolnych na chwile potwierdzenia. Warlock Korgein gra w trybie normalnym, NIE Hardcore. Dokladna ranga Poison Damage Mastery niezweryfikowana.
