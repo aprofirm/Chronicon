@@ -1,3 +1,7 @@
+## 20.10.2026 — potwierdzone: Contagion 3/3
+
+Gracz wydał jeden Skill Point na Contagion 2/3 -> 3/3. Razem 26 wydanych Skill Points, zero wolnych; Corruptor 24, Lich 1 (Soul Warp), Demonologist 1 (Demon Skin), Reaper 0. Mastery 9 wydanych, bez zmian. RB i LB wolne. Ostatni widoczny poziom: 26 / M9. Soul Toxin nie został kupiony. Gracz posiada Ancient Coin, którą według opisu można ofiarować na ołtarzu w Upper Temple Halls; nie potwierdzono użycia.
+
 ## Aktualizacja 20.10.2026 — kolejny Mastery Point wydany na Poison Damage (potwierdzone)
 
 Gracz potwierdził „Tak zrobiłem” w odpowiedzi na rekomendację: **1 nowy Mastery Point → Poison Damage +1**, zielona czaszka w pierwszym polu **Corruptor Mastery**. **Mastery: 9 punktów wydanych / 0 wolnych** według bilansu poprzednich potwierdzeń (8 + 1); dokładna ranga pojedynczego pola Poison Damage nadal wymaga potwierdzenia tooltipem/ekranem, gdyż część starszych inwestycji nie była przypisana do konkretnego pola. **Zwykłe Skill Points bez zmian: 25 wydanych / 0 wolnych**; Corruptor 23, Lich Soul Warp 1, Demonologist Demon Skin 1, Reaper Soul Eater 0. **RB i LB wolne**. Ostatni poziom potwierdzony screenshotem: Lv 25 / M8 (przyrost Mastery Point sugeruje postęp, ale nowego poziomu nie potwierdzono ekranem).
