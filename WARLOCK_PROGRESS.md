@@ -1,3 +1,7 @@
+## Aktualizacja 20.10.2026 — potwierdzony zakup Flesh Rot 3
+
+Gracz potwierdził wydanie **1 zwykłego Skill Point** na **Flesh Rot 2→3**. Stan: **19 zwykłych punktów wydanych / 0 wolnych**, Corruptor **17** (Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 3, Bursting Boils 3, Contagion 1, Poison Nova 1), Lich Soul Warp 1, Reaper Soul Eater 1. **Mastery: Poison R1-K1 ranga 4, 4 wydane / 1 wolny** — następny wybór dopiero przed nami. Outbreak wymaga 19 wydanych w Corruptor, zatem brakuje jeszcze 2 punktów w tym drzewku przed odblokowaniem.
+
 ## Aktualizacja 20.10.2026 — pięć zrzutów drzewek (stan PRZED wydaniem punktów)
 
 **Potwierdzone ekranami:** Korgein **Lv 19 / M5**; **1 wolny Skill Point i 1 wolny Mastery Point**. Mastery Poison (zielona czaszka R1-K1) nadal **ranga 4**. Lich Soul Warp 1, Reaper Soul Eater 1; Demonologist bez punktów. Corruptor nadal główne drzewko. Stan 19.10 pozostaje historią — nowe punkty **nie są jeszcze wydane**. Wydane: 18 zwykłych i 4 Mastery (na podstawie poprzedniego potwierdzenia i obecnych screenów); wolne: 1 + 1.
@@ -22,8 +26,8 @@ Gracz potwierdził: „Punkty wydane. Jak coś nie będzie się zgadzać to zgł
 **Tryb:** zwykły / bez Hardcore — nowa zasada rozgrywki.  
 **Rotacja:** Berserker (zgon) → Warden (zgon) → **Warlock (teraz)** → po kolejnej śmierci następna klasa.  
 **Ostatni poziom potwierdzony ekranem:** **19 / M5** (20.10.2026).
-**Wolne Skill Points:** **1** (screen 20.10.2026; niewydany).
-**Wydane Skill Points:** **18** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot **2**, Bursting Boils 3/3, Contagion **1**, Poison Nova **1** (**16 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
+**Wolne Skill Points:** **0** (punkt z ekranu 20.10 wydany na Flesh Rot 2→3).
+**Wydane Skill Points:** **19** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot **3**, Bursting Boils 3/3, Contagion **1**, Poison Nova **1** (**17 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
 **Mastery Points:** **4 wydane / 1 wolny** — Poison (zielona czaszka R1-K1) ranga **4**; ekran 20.10.2026.
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
