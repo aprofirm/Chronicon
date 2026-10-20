@@ -2434,5 +2434,16 @@
     "free_points_reported": 1,
     "confirmed_spent": false,
     "condition": "only if this Mastery point can upgrade the same green skull in version 1.61; exact tooltip % unverified"
+  },
+  "verification_policy": {
+    "updated_at": "2026-10-20",
+    "game_version": "1.61.x",
+    "statuses": {
+      "confirmed_1_61": "Potwierdzone bezpośrednio na ekranie gry lub przez użytkownika, z datą i dowodem",
+      "archival_unverified": "Do weryfikacji — archiwalny eksport, nie traktować jako parametr 1.61",
+      "discrepancy": "Rozbieżność między tooltipem aktualnej gry i archiwum; pierwszeństwo ma gra"
+    },
+    "default_for_archival_entries": "archival_unverified",
+    "note": "Istniejące pola evidence=archival_only pozostają niezweryfikowane. Nie przypisywać potwierdzenia wszystkim efektom na podstawie punktów postaci."
   }
 }
