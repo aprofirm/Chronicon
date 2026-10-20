@@ -1,3 +1,9 @@
+## 20.10.2026 - nowe dane, Poison Nova i odpornosci
+
+Potwierdzony zakup: Poison Nova 1/5 -> 2/5. Tooltip: 277% Poison Damage, promien 6.3 m, koszt 96 many; nastepna ranga 288% i 6.5 m. Stan: Lv 27 / M9, 27 zwyklych punktow wydanych (Corruptor 25, Lich Soul Warp 1, Demonologist Demon Skin 1, Reaper Soul Eater 0), 9 Mastery wydanych. RB i LB wolne.
+
+Najnowszy screenshot statystyk: Physical Resistance 6% (16%), Fire 0% (10%), Frost 0% (10%), Lightning 0% (10%), Poison 0% (10%), Holy 0% (10%), Shadow 9% (19%). Wczesniejsze wartosci byly wyzsze; mozliwa przyczyna to zmiana ekwipunku, ale nie zostala potwierdzona. W szczegolnosci nie oznaczac Bat Bat ani Goreneck jako zalozonych bez potwierdzenia. Znaczenie liczb w nawiasach nie jest jeszcze zweryfikowane.
+
 ## 20.10.2026 — potwierdzone: Contagion 3/3
 
 Gracz wydał jeden Skill Point na Contagion 2/3 -> 3/3. Razem 26 wydanych Skill Points, zero wolnych; Corruptor 24, Lich 1 (Soul Warp), Demonologist 1 (Demon Skin), Reaper 0. Mastery 9 wydanych, bez zmian. RB i LB wolne. Ostatni widoczny poziom: 26 / M9. Soul Toxin nie został kupiony. Gracz posiada Ancient Coin, którą według opisu można ofiarować na ołtarzu w Upper Temple Halls; nie potwierdzono użycia.
