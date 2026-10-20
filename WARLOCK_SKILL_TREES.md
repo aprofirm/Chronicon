@@ -2,6 +2,13 @@
 
 **Stan opracowania:** 17.10.2026. **Gra użytkownika:** Chronicon 1.61.x. **Źródło geometrii:** [ChroniconDB — dane 1.52.0](https://github.com/gabriel-dehan/chronicondb-client/blob/main/src/engine/data/1.52.0/sources/skilldata_1.52.0.json). Dump jest starszy od wersji gracza: **dokładne progi, nazwy i wartości w 1.61 potwierdzamy screenami**. Nie wydajemy punktów na podstawie samego starego układu.
 
+## Status weryfikacji wersji 1.61 (20.10.2026)
+
+- **POTWIERDZONE W 1.61** — tylko informacje odczytane bezpośrednio z ekranu gry lub wyraźnie potwierdzone przez gracza; zapisujemy źródło i datę potwierdzenia.
+- **DO WERYFIKACJI — ŹRÓDŁO 1.52 / ARCHIWALNE** — wszystkie pozostałe nazwy, efekty, wartości, rangi, wymagania i układ pól pochodzące ze starszych eksportów. Nie traktować ich jako potwierdzonych dla 1.61.
+- **ROZBIEŻNOŚĆ** — gdy opis z gry różni się od archiwum, obowiązuje aktualny tooltip gry. Przykład: Bursting Boils, pierwsza ranga — 10% na ekranie 1.61 wobec 12% w starszych danych (zgłoszona różnica; do ponownego sprawdzenia na ekranie, jeśli będzie istotna dla decyzji).
+- Samo posiadanie punktów w umiejętności **nie potwierdza** wszystkich liczb i efektów z archiwalnego opisu. Wpisy w tabelach poniżej domyślnie mają status **DO WERYFIKACJI**, chyba że konkretny parametr opisano osobno jako potwierdzony.
+
 ## Specjalizacje
 
 - **Corruptor** — Poison, Infection, klątwy, towarzysze.
