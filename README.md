@@ -2,6 +2,13 @@
 
 Repozytorium służy jako notatnik naszej wspólnej rozgrywki w **Chronicon**.
 
+## Status weryfikacji wersji 1.61 (20.10.2026)
+
+- **POTWIERDZONE W 1.61** — tylko informacje odczytane bezpośrednio z ekranu gry lub wyraźnie potwierdzone przez gracza; zapisujemy źródło i datę potwierdzenia.
+- **DO WERYFIKACJI — ŹRÓDŁO 1.52 / ARCHIWALNE** — wszystkie pozostałe nazwy, efekty, wartości, rangi, wymagania i układ pól pochodzące ze starszych eksportów. Nie traktować ich jako potwierdzonych dla 1.61.
+- **ROZBIEŻNOŚĆ** — gdy opis z gry różni się od archiwum, obowiązuje aktualny tooltip gry. Przykład: Bursting Boils, pierwsza ranga — 10% na ekranie 1.61 wobec 12% w starszych danych (zgłoszona różnica; do ponownego sprawdzenia na ekranie, jeśli będzie istotna dla decyzji).
+- Samo posiadanie punktów w umiejętności **nie potwierdza** wszystkich liczb i efektów z archiwalnego opisu. Wpisy w tabelach poniżej domyślnie mają status **DO WERYFIKACJI**, chyba że konkretny parametr opisano osobno jako potwierdzony.
+
 ## Aktualne zasady (od 17.10.2026)
 
 - **Nie gramy już w trybie Hardcore.**
