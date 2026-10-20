@@ -1,3 +1,10 @@
+## Aktualizacja 20.10.2026 — Mastery wydane, mechanika dusz
+
+- Gracz potwierdził: **„Mastery już wydałem”**. Stan: **5 Mastery Points wydanych / 0 wolnych**. **Nie potwierdził konkretnego pola**, dlatego Poison R1-K1 **4→5 jest przypuszczeniem na podstawie ostatniej rekomendacji, a nie pewnym zakupem**. Do potwierdzenia screenem.
+- Soul Eater (Reaper 1/3) ma według aktualnego tooltipu 1.61: **7.36 s cooldown**, zużywa **1 Soul**, leczy **10% maksymalnego HP** (następna ranga 15%). Gracz zgłasza, że dusze wydają się nie generować; do sprawdzenia podczas walki.
+- Mechanika z materiałów społecznościowych: dusze są zbierane **losowo przy zabijaniu przeciwników** (historycznie bazowa szansa ok. **10%**, limit **5**, dusze wygasają z czasem). **Soul Trap nie jest konieczne do podstawowego pozyskiwania dusz**. Można zwiększać Soul Steal Chance, m.in. odpowiednim sprzętem / Mastery. Wartości dla 1.61 jeszcze niepotwierdzone.
+- Źródła: https://chronicon.fandom.com/wiki/Stats ; https://www.reddit.com/r/Chronicon/comments/gpfsr0 ; https://steamcommunity.com/app/375480/discussions/0/2942495544691174305/ .
+
 ## Aktualizacja 20.10.2026 — potwierdzony zakup Flesh Rot 3
 
 Gracz potwierdził wydanie **1 zwykłego Skill Point** na **Flesh Rot 2→3**. Stan: **19 zwykłych punktów wydanych / 0 wolnych**, Corruptor **17** (Blood Curse 5, Epidemic 1, Infection 3, Flesh Rot 3, Bursting Boils 3, Contagion 1, Poison Nova 1), Lich Soul Warp 1, Reaper Soul Eater 1. **Mastery: Poison R1-K1 ranga 4, 4 wydane / 1 wolny** — następny wybór dopiero przed nami. Outbreak wymaga 19 wydanych w Corruptor, zatem brakuje jeszcze 2 punktów w tym drzewku przed odblokowaniem.
@@ -28,7 +35,7 @@ Gracz potwierdził: „Punkty wydane. Jak coś nie będzie się zgadzać to zgł
 **Ostatni poziom potwierdzony ekranem:** **19 / M5** (20.10.2026).
 **Wolne Skill Points:** **0** (punkt z ekranu 20.10 wydany na Flesh Rot 2→3).
 **Wydane Skill Points:** **19** — Corruptor: Blood Curse **5/5**, Epidemic 1, Infection 3, Flesh Rot **3**, Bursting Boils 3/3, Contagion **1**, Poison Nova **1** (**17 w Corruptorze**); Lich Soul Warp 1, Reaper Soul Eater 1.
-**Mastery Points:** **4 wydane / 1 wolny** — Poison (zielona czaszka R1-K1) ranga **4**; ekran 20.10.2026.
+**Mastery Points:** **5 wydanych / 0 wolnych** — Poison (zielona czaszka R1-K1) **co najmniej ranga 4**; piąty punkt wydany według gracza 20.10, dokładne pole niepotwierdzone (możliwe Poison 5).
 **Ekwipunek:** porównano akcesoria **Heart of the Community** i **Glod's Coins**; rekomendacja zachować Heart na potrzeby zdobywania XP; **niepotwierdzone, czy użytkownik dokonał/przesunął którykolwiek przedmiot do slotu**.  
 **Wersja gry:** ~1.61.x.
 
